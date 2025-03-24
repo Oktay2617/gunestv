@@ -74,21 +74,21 @@
 	"id": "Alem Fm ",
 	"name": "Alem Fm ",
 	"p": 12,
-	"url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+	"url": "https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
   },
   {
 	"country": "RADİO",
 	"id": "Joy FM ",
 	"name": "Joy FM ",
 	"p": 13,
-	"url": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls"
+	"url": "https://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls"
   },
   {
 	"country": "RADİO",
 	"id": "Radyo 45'lik ",
 	"name": "Radyo 45'lik ",
 	"p": 14,
-	"url":"http://stream.radyo45lik.com:4545/stream"
+	"url":"https://stream.radyo45lik.com:4545/stream"
   },
   {
 	"country": "RADİO",
