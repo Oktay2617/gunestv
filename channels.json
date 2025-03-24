@@ -1,0 +1,100 @@
+[
+  {	
+	"country": "Turkey",
+	"id": "KANAL D",
+	"name": "KANAL D",
+	"p": 1,
+	"url": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=79814xje1ti8&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "ATV",
+	"name": "ATV",
+	"p": 2,
+	"url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1742517835&st=wNVpUb_Wuacf5jc66gqyVg&sid=79825eypu72s&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "STAR TV ",
+	"name": "STAR TV ",
+	"p": 3,
+	"url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "SHOW TV",
+	"name": "SHOW TV",
+	"p": 4,
+	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "NOW TV",
+	"name": "NOW TV",
+	"p": 5,
+	"url": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1742530621&st=hsehMYW9fc3u1WEWObiXew"
+  },
+  {
+	"country": "Turkey",
+	"id": "TV8",
+	"name": "TV8",
+	"p": 6,
+	"url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "TV8.5",
+	"name": "TV8.5",
+	"p": 7,
+	"url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "HALK TV ",
+	"name": "HALK TV ",
+	"p": 8,
+	"url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
+  },
+  {
+	"country": "HABER",
+	"id": "HALK TV ",
+	"name": "HALK TV ",
+	"p": 8,
+	"url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "TRT 2 ",
+	"name": "TRT 2 ",
+	"p": 10,
+	"url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8"
+  },
+  {
+	"country": "RADİO",
+	"id": "Alem Fm ",
+	"name": "Alem Fm ",
+	"p": 12,
+	"url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+  },
+  {
+	"country": "RADİO",
+	"id": "Joy FM ",
+	"name": "Joy FM ",
+	"p": 13,
+	"url": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls"
+  },
+  {
+	"country": "RADİO",
+	"id": "Radyo 45'lik ",
+	"name": "Radyo 45'lik ",
+	"p": 14,
+	"url":"http://stream.radyo45lik.com:4545/stream"
+  },
+  {
+	"country": "RADİO",
+	"id": "Radyo Odtu HİT ",
+	"name": "Radyo Odtu HİT ",
+	"p": 15,
+	"url": "https://stream3.radyoodtu.com.tr:8000/hit"
+}
+  ]
