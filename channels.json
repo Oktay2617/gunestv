@@ -303,20 +303,6 @@
   },
   {	
 	"country":"Turkey",
-	"id": "CNN TÜRK",
-	"name": "CNN TÜRK",
-	"p": 27,
-	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=jrZBaXfo51tWS4Rxp_CCLA&e=1743621589"
-  },
-  {	
-	"country":"Haber",
-	"id": "CNN TÜRK",
-	"name": "CNN TÜRK",
-	"p": 27,
-	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=jrZBaXfo51tWS4Rxp_CCLA&e=1743621589"
-  },
-  {	
-	"country":"Turkey",
 	"id": "DMAX",
 	"name": "DMAX",
 	"p": 28,
@@ -503,20 +489,6 @@
 	"name": "TBMM TV",
 	"p": 44,
 	"url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st="
-  },
-  {	
-	"country":"Turkey",
-	"id": "TRT BELGESEL",
-	"name": "TRT BELGESEL",
-	"p": 45,
-	"url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Belgesel",
-	"id": "TRT BELGESEL",
-	"name": "TRT BELGESEL",
-	"p": 45,
-	"url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -826,14 +798,7 @@
 	"p": 87,
 	"url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8"
   },
-  {	
-	"country":"Radio",
-	"id": "Radyo Viva",
-	"name": "Radyo Viva",
-	"p": 89,
-	"url": "https://edge1.radyotvonline.net/shoutcast/play/radyoviva"
-  },
-  {	
+  {		
 	"country":"Radio",
 	"id": "Slow Türk",
 	"name": "Slow Türk",
