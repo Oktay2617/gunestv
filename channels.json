@@ -881,5 +881,33 @@
 	"name": "KAFA RADYO",
 	"p": 93,
 	"url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8?listeningSessionID=67dc70aec8ec3c94_168629_nRDsEn1D__00000003djI&downloadSessionID=0"
+  },
+  {	
+	"country":"Spor",
+	"id": "TJK TV",
+	"name": "TJK TV",
+	"p": 94,
+	"url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
+  },
+  {	
+	"country":"Spor",
+	"id": "TJK 2 TV",
+	"name": "TJK 2 TV",
+	"p": 94,
+	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
+ },
+  {	
+	"country":"Turkey",
+	"id": "TJK TV",
+	"name": "TJK TV",
+	"p": 94,
+	"url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
+  },
+  {	
+	"country":"Turkey",
+	"id": "TJK 2 TV",
+	"name": "TJK 2 TV",
+	"p": 94,
+	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
 }
   ]
