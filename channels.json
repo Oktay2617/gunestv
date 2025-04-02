@@ -387,73 +387,59 @@
   },
   {	
 	"country":"Turkey",
-	"id": "POWER DANCE",
-	"name": "POWER DANCE",
-	"p": 35,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28110687"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWER DANCE",
-	"name": "POWER DANCE",
-	"p": 35,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28110687"
-  },
-  {	
-	"country":"Turkey",
 	"id": "POWER LOVE",
 	"name": "POWER LOVE",
 	"p": 36,
-	"url": "https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28112704"
+	"url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWER LOVE",
 	"name": "POWER LOVE",
 	"p": 36,
-	"url": "https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28112704"
+	"url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "POWER DANCE",
 	"name": "POWER DANCE",
 	"p": 37,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28124290"
+	"url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWER DANCE",
 	"name": "POWER DANCE",
 	"p": 37,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28124290"
+	"url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWER HİTS",
 	"name": "POWER HİTS",
 	"p": 38,
-	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=28126004"
+	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "POWER HİTS",
 	"name": "POWER HİTS",
 	"p": 38,
-	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=28126004"
+	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "POWERTÜRK AKUSTİK",
 	"name": "POWERTÜRK AKUSTİK",
 	"p": 39,
-	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=2812930"
+	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWERTÜRK AKUSTİK",
 	"name": "POWERTÜRK AKUSTİK",
 	"p": 39,
-	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=2812930"
+	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
   },
   {	
 	"country":"Müzik",
@@ -481,21 +467,21 @@
 	"id": "POWERTÜRK",
 	"name": "POWERTÜRK",
 	"p": 41,
-	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=46768010"
+	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWERTÜRK TAPTAZE",
 	"name": "POWERTÜRK TAPTAZE",
 	"p": 42,
-	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8?nimblesessionid=28132839"
+	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "POWERTÜRK TAPTAZE",
 	"name": "POWERTÜRK TAPTAZE",
 	"p": 42,
-	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8?nimblesessionid=28132839"
+	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -677,7 +663,7 @@
 	"id": "Power Fm",
 	"name": "Power Fm",
 	"p": 64,
-	"url": "http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio"
+	"url": "https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8"
   },
   {	
 	"country":"Radio",
@@ -691,7 +677,7 @@
 	"id": "Power Türk",
 	"name": "Power Türk",
 	"p": 66,
-	"url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8?nimblesessionid=5580582289"
+	"url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
   },
   {	
 	"country":"Radio",
