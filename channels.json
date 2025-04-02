@@ -75,7 +75,7 @@
 	"id": "Alem Fm ",
 	"name": "Alem Fm ",
 	"p": 12,
-	"url": "http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8"
+	"url": "https://edge1.radyotvonline.net/shoutcast/play/alemfm"
   },
   {
 	"country": "Radio",
@@ -895,5 +895,89 @@
 	"name": "TJK 2 TV",
 	"p": 94,
 	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Plus+",
+	"name": "Power Plus+",
+	"p": 95,
+	"url": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Love",
+	"name": "Power Love",
+	"p": 96,
+	"url": "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Smooth",
+	"name": "Power Smooth",
+	"p": 97,
+	"url": "https://listen.powerapp.com.tr/powersmooth/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power XL",
+	"name": "Power XL",
+	"p": 98,
+	"url": "https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Earth",
+	"name": "Power Earth",
+	"p": 99,
+	"url": "https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Deep",
+	"name": "Power Deep",
+	"p": 100,
+	"url": "https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Rap",
+	"name": "PowerTürk Rap",
+	"p": 101,
+	"url": "https://listen.powerapp.com.tr/powerturkrap/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Akustik",
+	"name": "PowerTürk Akustik",
+	"p": 102,
+	"url": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Taptaze",
+	"name": "PowerTürk Taptaze",
+	"p": 103,
+	"url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Dans",
+	"name": "PowerTürk Dans",
+	"p": 104,
+	"url": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power R&B Hip Hop",
+	"name": "Power R&B Hip Hop",
+	"p": 105,
+	"url": "https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Smooth Jazz",
+	"name": "Power Smooth Jazz",
+	"p": 105,
+	"url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8"
 }
   ]
