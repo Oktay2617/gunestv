@@ -376,7 +376,7 @@
 	"id": "NTV",
 	"name": "NTV",
 	"p": 34,
-	"url": "https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p-1742482030000.ts?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee"
+	"url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7aiqx1o258bt&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3"
   },
   {	
 	"country":"Haber",
@@ -467,21 +467,21 @@
 	"id": "POWERTÜRK SLOW",
 	"name": "POERTÜRK SLOW",
 	"p": 40,
-	"url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=28131321"
+	"url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlists.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "POWERTÜRK",
 	"name": "POWERTÜRK",
 	"p": 41,
-	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1012000_sltur.m3u8?nimblesessionid=28118253"
+	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
   },
   {	
 	"country":"Müzik",
 	"id": "POWERTÜRK",
 	"name": "POWERTÜRK",
 	"p": 41,
-	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1012000_sltur.m3u8?nimblesessionid=28118253"
+	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b846000_sltur.m3u8?nimblesessionid=46768010"
   },
   {	
 	"country":"Müzik",
