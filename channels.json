@@ -124,21 +124,21 @@
 	"id": "TRT EBA ",
 	"name": "TRT EBA ",
 	"p": 11,
-	"https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8"
+	"url": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8"
   },
   {
 	"country": "Turkey",
 	"id": "TRT HABER ",
 	"name": "TRT HABER ",
 	"p": 12,
-	"https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+	"url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
   },
   {
 	"country": "Haber",
 	"id": "TRT HABER ",
 	"name": "TRT HABER ",
 	"p": 12,
-	"https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+	"url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
   },
   {
 	"country":"Turkey",
