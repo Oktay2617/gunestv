@@ -32,7 +32,7 @@
 	"id": "NOW TV",
 	"name": "NOW TV",
 	"p": 5,
-	"url": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1742868884&st=-ETlQ_mYWjcG1Z6U023qOA"
+	"url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=mmBBxQNUGpgmo1GhJLhDug&e=1743627639"
 		
   },
   {
@@ -82,14 +82,14 @@
 	"id": "Joy FM ",
 	"name": "Joy FM ",
 	"p": 13,
-	"url": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls"
+	"url": "https://25703.live.streamtheworld.com/JOY_FM128AAC.aac"
   },
   {
 	"country": "Radio",
 	"id": "Radyo 45'lik ",
 	"name": "Radyo 45'lik ",
 	"p": 14,
-	"url":"http://stream.radyo45lik.com:4545/stream"
+	"url":"https://stream.radyo45lik.com:4545/"
   },
   {
 	"country": "Radio",
@@ -222,7 +222,7 @@
 	"id": "SHOW TÜRK",
 	"name": "SHOW TÜRK",
 	"p": 19,
-	"url": "https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1742492071&st=G-nh_RTTvEE7Z8Se5Hiqbg&tv=1"
+	"url": "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1743620796&st=Ha3fznmjUnBF3oxHbZ8UnA&tv=1"
   },
   {	
 	"country":"Turkey",
@@ -306,14 +306,14 @@
 	"id": "CNN TÜRK",
 	"name": "CNN TÜRK",
 	"p": 27,
-	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=wyKZGzp4ophWw-iHV2o6fw&e=1743613685"
+	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=jrZBaXfo51tWS4Rxp_CCLA&e=1743621589"
   },
   {	
 	"country":"Haber",
 	"id": "CNN TÜRK",
 	"name": "CNN TÜRK",
 	"p": 27,
-	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8?&live=true&app=com.cnnturk&st=8UQ_dF8o8ky96FumDx9kug&e=1742487692"
+	"url": "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=jrZBaXfo51tWS4Rxp_CCLA&e=1743621589"
   },
   {	
 	"country":"Turkey",
@@ -369,21 +369,21 @@
 	"id": "MAVİ KARADENİZ",
 	"name": "MAVİ KARADENİZ",
 	"p": 33,
-	"url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8?nimblesessionid=5562854333"
+	"url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
   },
   {	
 	"country":"Turkey",
 	"id": "NTV",
 	"name": "NTV",
 	"p": 34,
-	"url": "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=7aiqx1o258bt&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3"
+	"url": "https://dogus.daioncdn.net/ntv/ntv.m3u8"
   },
   {	
 	"country":"Haber",
 	"id": "NTV",
 	"name": "NTV",
 	"p": 34,
-	"url": "https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p-1742482030000.ts?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee"
+	"url": "https://dogus.daioncdn.net/ntv/ntv.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -488,7 +488,7 @@
 	"id": "SHOW MAX",
 	"name": "SHOW MAX",
 	"p": 43,
-	"url": "https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1742490448&st=pQ7OLaSUDGHWaaMxhkA4Jw&tv=1"
+	"url": "https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1743620758&st=NuFOTPOmXPQ-ny6MGLXYmQ&tv=1"
   },
   {	
 	"country":"Turkey",
@@ -558,7 +558,7 @@
 	"id": "ÇAY TV",
 	"name": "ÇAY TV",
 	"p": 50,
-	"url": "https://edge.socialsmart.tv/caytv/bant1/chunks.m3u8?nimblesessionid=425987934"
+	"url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
   },
   {	
 	"country":"Radio",
@@ -569,17 +569,17 @@
   },
   {	
 	"country":"Radio",
-	"id": "Best Fm	Türkçe",
-	"name": "Best Fm Türkçe",
+	"id": "Best Fm",
+	"name": "Best Fm",
 	"p": 52,
-	"url": "https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w1211392664.m3u8"
+	"url": "https://officialbestfm.radyotvonline.net/bestfmofficial"
   },
   {	
 	"country":"Radio",
-	"id": "İmbat Fm",
-	"name": "İmbat Fm",
+	"id": "VIRGIN RADIO TÜRKIYE",
+	"name": "VIRGIN RADIO TÜRKIYE",
 	"p": 53,
-	"url": "http://38.96.148.39:8788/;?1742667167636"
+	"url": "https://28933.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac"
   },
   {	
 	"country":"Radio",
@@ -593,70 +593,70 @@
 	"id": "Joy Türk",
 	"name": "Joy Türk",
 	"p": 55,
-	"url": "http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls"
+	"url": "https://27863.live.streamtheworld.com/JOY_TURK128AAC.aac"
   },
   {	
 	"country":"Radio",
-	"id": "Kral Fm	Arabesk",
-	"name": "Kral Fm Arabesk",
+	"id": "Kral Fm",
+	"name": "Kral Fm",
 	"p": 56,
-	"url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listeningSessionID=678d04852b481ae5_5372831_1byruJPC__0000000R1PC&downloadSessionID=0&listenerid=9590d35c6852fb7619b2dbbf49d91d6c&awparams=companionAds%3Atrue"
+	"url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
   },
   {	
 	"country":"Radio",
-	"id": "Kral Pop Radyo",
-	"name": "Kral Pop Radyo",
+	"id": "Kral Pop",
+	"name": "Kral Pop",
 	"p": 57,
-	"url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8?listeningSessionID=678cf12a05d130f6_5376873_wdqmlRke__0000000SV45&downloadSessionID=0&listenerid=9590d35c6852fb7619b2dbbf49d91d6c&awparams=companionAds%3Atrue"
+	"url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"
   },
   {	
 	"country":"Radio",
 	"id": "Metro Fm",
 	"name": "Metro Fm",
 	"p": 57,
-	"url": "http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls"
+	"url": "https://25583.live.streamtheworld.com/METRO_FM128AAC.aac"
   },
   {	
 	"country":"Radio",
-	"id": "Number One Fm",
-	"name": "Number One Fm",
+	"id": "Number1 FM",
+	"name": "Number1 FM",
 	"p": 58,
-	"url": "https://n10101m.mediatriple.net/hls/chunks_BrX4Bmyj.m3u8"
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
   },
   {	
 	"country":"Radio",
 	"id": "Best Of Number1",
 	"name": "Best Of Number1",
 	"p": 59,
-	"url": "https://n10101m.mediatriple.net/hls/chunks_F9UGLzJ5.m3u8"
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8"
   },
   {	
 	"country":"Radio",
 	"id": "Number1 Türk Fm",
 	"name": "Number1 Türk Fm",
 	"p": 60,
-	"url": "https://n10101m.mediatriple.net/hls/chunks_FLpSTOd2.m3u8"
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8"
   },
   {	
 	"country":"Radio",
 	"id": "Pal Nostalji",
 	"name": "Pal Nostalji",
 	"p": 61,
-	"url": "http://shoutcast.radyogrup.com:1010/;"
+	"url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
   },
   {	
 	"country":"Radio",
-	"id": "Pal Station",
-	"name": "Pal Station",
+	"id": "Pal Fm",
+	"name": "Pal Fm",
 	"p": 62,
-	"url": "http://shoutcast.radyogrup.com:1020/;"
+	"url": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8"
   },
   {	
 	"country":"Radio",
 	"id": "POP 90",
 	"name": "POP 90",
 	"p": 63,
-	"url": "http://provisioning.streamtheworld.com/pls/POP90AAC.pls"
+	"url": "https://25653.live.streamtheworld.com/POP90128AAC.aac"
   },
   {	
 	"country":"Radio",
@@ -681,17 +681,17 @@
   },
   {	
 	"country":"Radio",
-	"id": "Radyo Dejavu",
-	"name": "Radyo Dejavu",
+	"id": "GÖNÜL TÜRKÜLERİ",
+	"name": "GÖNÜL TÜRKÜLERİ",
 	"p": 67,
-	"url": "http://radyodejavu.canliyayinda.com:8054/"
+	"url": "https://25453.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac"
   },
   {	
 	"country":"Radio",
-	"id": "Radyo Kordelya",
-	"name": "Radyo Kordelya",
+	"id": "BABYJOY",
+	"name": "BABYJOY",
 	"p": 68,
-	"url": "http://38.96.148.39:8488/"
+	"url": "https://22733.live.streamtheworld.com/SC009_SO1AAC.aac"
   },
   {	
 	"country":"Radio",
@@ -699,13 +699,6 @@
 	"name": "Radyo Ege",
 	"p": 69,
 	"url": "https://istek.ozelip.com/radyoege"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Fenomen",
-	"name": "Radyo Fenomen",
-	"p": 70,
-	"url": "https://live.radyofenomen.com/fenomen/abr/fenomen/256/chunks.m3u8?nimblesessionid=5580662438"
   },
   {	
 	"country":"Radio",
@@ -758,10 +751,10 @@
   },
   {	
 	"country":"Radio",
-	"id": "Radyo Pause",
-	"name": "Radyo Pause",
+	"id": "SÜPER FM",
+	"name": "SÜPER FM",
 	"p": 78,
-	"url": "http://radyopause.ozelip.com.tr:8040/"
+	"url": "https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac"
   },
   {	
 	"country":"Radio",
@@ -866,7 +859,7 @@
 	"id": "KAFA RADYO",
 	"name": "KAFA RADYO",
 	"p": 93,
-	"url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8?listeningSessionID=67dc70aec8ec3c94_168629_nRDsEn1D__00000003djI&downloadSessionID=0"
+	"url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8"
   },
   {	
 	"country":"Spor",
@@ -979,5 +972,75 @@
 	"name": "Power Smooth Jazz",
 	"p": 105,
 	"url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Kiss Fm",
+	"name": "Kiss Fm",
+	"p": 106,
+	"url": "https://kiss.radyotvonline.net/kissfm"
+  },
+  {	
+	"country":"Radio",
+	"id": "Pal Station",
+	"name": "Pal Station",
+	"p": 107,
+	"url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Fenomen",
+	"name": "Radyo Fenomen",
+	"p": 108,
+	"url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Viva",
+	"name": "Radyo Viva",
+	"p": 109,
+	"url": "https://radyoviva.radyotvonline.net/radyovivaaac"
+  },
+  {	
+	"country":"Radio",
+	"id": "TRT Radyo 1",
+	"name": "TRT Radyo 1",
+	"p": 110,
+	"url": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk Damar",
+	"name": "Number1 Türk Damar",
+	"p": 111,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk Slow",
+	"name": "Number1 Türk Slow",
+	"p": 112,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk 90’lar",
+	"name": "Number1 Türk 90’lar",
+	"p": 113,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Üsküdar Musiki Cemiyeti Radyosu",
+	"name": "Üsküdar Musiki Cemiyeti Radyosu",
+	"p": 114,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Classic",
+	"name": "Number1 Classic",
+	"p": 115,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
 }
   ]
