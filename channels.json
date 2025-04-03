@@ -25,15 +25,7 @@
 	"id": "SHOW TV",
 	"name": "SHOW TV",
 	"p": 4,
-	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "NOW TV",
-	"name": "NOW TV",
-	"p": 5,
-	"url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=mmBBxQNUGpgmo1GhJLhDug&e=1743627639"
-		
+	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"		
   },
   {
 	"country": "Turkey",
@@ -674,13 +666,6 @@
   },
   {	
 	"country":"Radio",
-	"id": "Radyo FG FM",
-	"name": "Radyo FG FM",
-	"p": 71,
-	"url": "https://n06.rcs.revma.com/wknqhm4yuchvv?rj-ttl=5&consent=CQOq-cAQOq-cABaADAENBhFsAP_gAEPgAAqIIyNV_G_fbWlj8X51aftkeY1P99h7rkQxBgaJE-4FyJvW_JwXx2E5NAz6pqIKmRIAu3TBIQFlHIDURUCgaIgVrSDMaEyEoTNKJ6BEiFMRI2dYCFhPm4FDeQCYptrt91dx2B-t7dr8zZzyy4hHn3K5_2S1WJCdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEDnQCTDQqIIywJCQiUDCCBACoKwgIgAAQAAJA0QEAJAwKcgYALrCRACAFAAMEAIAAQYAAgAAEgAQiACAAoEAAEAgUAAYAEAgEABAgABgAsBAIAAQHQMAgIIBAkAEjMigUwJQAEggJZIhBIAgQRwhCLPAIAERMEAAAAA.f_wACHwAAAAA&CAID=202503221949505399641520&rj-tok=AAABlb86AHkANLiFSH_aLWU3Ww"
-  },
-  {	
-	"country":"Radio",
 	"id": "Radyo Odtu ROCK",
 	"name": "Radyo Odtu ROCK",
 	"p": 72,
@@ -804,13 +789,6 @@
 	"name": "Slow Türk",
 	"p": 90,
 	"url": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
-  },
-  {	
-	"country":"Radio",
-	"id": "Süper Fm",
-	"name": "Süper Fm",
-	"p": 91,
-	"url": "https://25453.live.streamtheworld.com/SUPER_FM128AAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=fe1894f6-009a-415b-e17d-f7ba420649b5"
   },
   {	
 	"country":"Radio",
