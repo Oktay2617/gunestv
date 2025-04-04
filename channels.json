@@ -211,13 +211,6 @@
   },
   {	
 	"country":"Turkey",
-	"id": "SHOW TÜRK",
-	"name": "SHOW TÜRK",
-	"p": 19,
-	"url": "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1743620796&st=Ha3fznmjUnBF3oxHbZ8UnA&tv=1"
-  },
-  {	
-	"country":"Turkey",
 	"id": "TV 100",
 	"name": "TV 100",
 	"p": 20,
@@ -460,13 +453,6 @@
 	"name": "POWERTÜRK TAPTAZE",
 	"p": 42,
 	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "SHOW MAX",
-	"name": "SHOW MAX",
-	"p": 43,
-	"url": "https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1743620758&st=NuFOTPOmXPQ-ny6MGLXYmQ&tv=1"
   },
   {	
 	"country":"Turkey",
