@@ -971,12 +971,5 @@
 	"name": "Number1 Classic",
 	"p": 115,
 	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
-	    },
-  {	
-	"country":"Turkey",
-	"id": "Now Tv",
-	"name": "Now Tv",
-	"p": 116,
-	"url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
 }
   ]
