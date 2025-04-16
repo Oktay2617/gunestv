@@ -11,7 +11,7 @@
 	"id": "ATV",
 	"name": "ATV",
 	"p": 2,
-	"url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
+	"url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1744862861&st=S9lMlLtbvVQ8WlGHYwiZiA&sid=7bwwmorzee0e&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
   },
   {
 	"country": "Turkey",
@@ -200,14 +200,14 @@
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+	"url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1744862979&st=_yoe3eH5UeVG05vL-MQXVQ&sid=7bwwt54wpftn&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3"
  },
   {	
 	"country":"Spor",
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
+	"url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1744862979&st=_yoe3eH5UeVG05vL-MQXVQ&sid=7bwwt54wpftn&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3"
   },
   {	
 	"country":"Turkey",
@@ -494,7 +494,7 @@
 	"id": "A2 TV",
 	"name": "A2 TV",
 	"p": 48,
-	"url": "http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140"
+	"url": "https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1744862921&st=26MH7uYM2d_CyL3x_L1EKQ&sid=7bwwpxkqz836&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3"
   },
   {	
 	"country":"Turkey",
