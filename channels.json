@@ -11,7 +11,7 @@
 	"id": "ATV",
 	"name": "ATV",
 	"p": 2,
-	"url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1744780032&st=yrSkNZk0L6YMkg9f4AAHlA&sid=7bthhcjyuwsx&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
+	"url": "https://trkvz-live.daioncdn.net/atv/atv.m3u8"
   },
   {
 	"country": "Turkey",
@@ -151,14 +151,14 @@
 	"id": "TRT SPOR YILDIZ ",
 	"name": "TRT SPOR YILDIZ ",
 	"p": 14,
-	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=7990du8yh198&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"	
+	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=7990du8yh198&app=9f849b8c-7fc0-46-a9ec-ff8e2b35960d&ce=2"	
   },
   {	
 	"country":"Turkey",
 	"id": "TRT SPOR YILDIZ ",
 	"name": "TRT SPOR YILDIZ ",
 	"p": 14,
-	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=7990du8yh198&app=9f849b8c-7fc0-46a2-a9ec-ff8e2b35960d&ce=2"
+	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=7990du8yh198&app=9f849b8c-7fc0-46-a9ec-ff8e2b35960d&ce=2"
   },
   {	
 	"country":"Turkey",
@@ -200,14 +200,14 @@
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1744780320&st=yJpRrE2nh81z6WhP2OoZAQ&sid=7bthwxs1xj1h&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3"
+	"url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
  },
   {	
 	"country":"Spor",
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1742518124&st=tfhV4i9EZcPHwbNJZxQYkQ&sid=7982kto27s75&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3"
+	"url": "https://trkvz-live.daioncdn.net/aspor/aspor.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -494,7 +494,7 @@
 	"id": "A2 TV",
 	"name": "A2 TV",
 	"p": 48,
-	"url": "https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1744779849&st=q-WSBGHk0DE3kLK-N3jHyw&sid=7bth7lpanj09&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3"
+	"url": "http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432140"
   },
   {	
 	"country":"Turkey",
@@ -971,5 +971,12 @@
 	"name": "Number1 Classic",
 	"p": 115,
 	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
+	    },
+  {	
+	"country":"Turkey",
+	"id": "Now Tv",
+	"name": "Now Tv",
+	"p": 116,
+	"url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8"
 }
   ]
