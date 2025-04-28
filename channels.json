@@ -965,11 +965,19 @@
 	"p": 114,
 	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8"
   },
+	{	
+	"country":"Turkey",
+	"id": "Sözcü Tv",
+	"name": "Sözcü Tv",
+	"p": 115,
+	"url": ""
+	"youtubeVideoId": "ztmY_cCtUl0",
+  },
   {	
 	"country":"Radio",
 	"id": "Number1 Classic",
 	"name": "Number1 Classic",
-	"p": 115,
+	"p": 116,
 	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
 }
   ]
