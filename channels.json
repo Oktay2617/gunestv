@@ -1,10 +1,8 @@
 [
- {
-	"country": "Turkey",
-	"id": "Sözcü Tv",
-	"name": "Sözcü Tv",
-	"p": 117,
-	"url": ""
-	"youtubeVideoId": "ztmY_cCtUl0"
-  {	
+{
+  "name": "Örnek YouTube Canlı",
+  "country": "Turkey",
+  "id": "youtube_ztmY_cCtUl0",
+  "youtubeVideoId": "ztmY_cCtUl0"
+}	
   ]
