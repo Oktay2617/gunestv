@@ -27,22 +27,7 @@
 	"p": 4,
 	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"		
   },
- {
-	"country": "Turkey",
-	"id": "Sözcü Tv",
-	"name": "Sözcü Tv",
-	"p": 117,
-	"url": "",
-	"youtubeVideoId": "ztmY_cCtUl0"
-  },
- {
-	"country": "Turkey",
-	"id": "EkoTürk Tv",
-	"name": "EkoTürk Tv",
-	"p": 118,
-	"url": "",
-	"youtubeVideoId": "rhi2aUOfKxk"
-  },
+
   {
 	"country": "Turkey",
 	"id": "TV8",
