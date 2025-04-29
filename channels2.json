@@ -77,6 +77,13 @@
   },
   {
 	"country": "Turkey",
+	"id": "Now Tv",
+	"name": "Now Tv",
+	"p": 123,
+	"url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+  },
+  {
+	"country": "Turkey",
 	"id": "TV8",
 	"name": "TV8",
 	"p": 6,
