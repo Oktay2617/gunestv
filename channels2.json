@@ -92,6 +92,13 @@
   },
   {
 	"country": "Turkey",
+	"id": "Now Tv",
+	"name": "Now Tv",
+	"p": 124,
+	"url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
+  },
+  {
+	"country": "Turkey",
 	"id": "TV8.5",
 	"name": "TV8.5",
 	"p": 7,
