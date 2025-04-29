@@ -35,7 +35,7 @@
 	"url": "",
 	"youtubeVideoId": "ztmY_cCtUl0"
   },
- {
+  {
 	"country": "Turkey",
 	"id": "EkoTürk Tv",
 	"name": "EkoTürk Tv",
@@ -44,11 +44,51 @@
 	"youtubeVideoId": "rhi2aUOfKxk"
   },
   {
+	"country": "Çocuk",
+	"id": "Maşa İle Koca Ayı",
+	"name": "Maşa İle Koca Ayı",
+	"p": 119,
+	"url": "",
+	"youtubeVideoId": "xwqRP8Z5-Ow"
+  },
+  {
+	"country": "Çocuk",
+	"id": "Küçük kamyon Leo",
+	"name": "Küçük kamyon Leo",
+	"p": 120,
+	"url": "",
+	"youtubeVideoId": "a-7qWbCCd9M"
+  },
+  {
+	"country": "Çocuk",
+	"id": "Kral Şakir",
+	"name": "Kral Şakir",
+	"p": 121,
+	"url": "",
+	"youtubeVideoId": "lCqxh_IxBtw"
+  },
+  {
+	"country": "Çocuk",
+	"id": "Niloya",
+	"name": "Niloya",
+	"p": 122,
+	"url": "",
+	"youtubeVideoId": "371RM8CpSc4"
+  },
+  {
 	"country": "Turkey",
 	"id": "TV8",
 	"name": "TV8",
 	"p": 6,
 	"url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+  },
+  {
+	"country": "Turkey",
+	"id": "TELE1",
+	"name": "TELE1",
+	"p": 123,
+	"url": "",
+	"youtubeVideoId": "fNqmmqNNGp8"
   },
   {
 	"country": "Turkey",
