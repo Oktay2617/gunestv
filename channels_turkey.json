@@ -27,7 +27,6 @@
 	"p": 4,
 	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"		
   },
-
   {
 	"country": "Ulusal",
 	"id": "TV8",
@@ -245,7 +244,7 @@
 	"p": 38,
 	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
   },
-   {	
+  {	
 	"country":"Müzik",
 	"id": "POWERTÜRK AKUSTİK",
 	"name": "POWERTÜRK AKUSTİK",
@@ -329,5 +328,5 @@
 	"p": 94,
 	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
  },
-]
+ ]
  
