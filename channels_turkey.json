@@ -11,7 +11,7 @@
 	"id": "ATV",
 	"name": "ATV",
 	"p": 2,
-	"url": "https://vavoo.to/play/2325261286/index.m3u8"
+	"url": "https://vavoo.to/play/1255594337/index.m3u8"
   },
   {
 	"country": "Turkey",
@@ -27,75 +27,13 @@
 	"p": 4,
 	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"		
   },
- {
-	"country": "Turkey",
-	"id": "Sözcü Tv",
-	"name": "Sözcü Tv",
-	"p": 117,
-	"url": "",
-	"youtubeVideoId": "ztmY_cCtUl0"
-  },
-  {
-	"country": "Turkey",
-	"id": "EkoTürk Tv",
-	"name": "EkoTürk Tv",
-	"p": 118,
-	"url": "",
-	"youtubeVideoId": "rhi2aUOfKxk"
-  },
-  {
-	"country": "Çocuk",
-	"id": "Maşa İle Koca Ayı",
-	"name": "Maşa İle Koca Ayı",
-	"p": 119,
-	"url": "",
-	"youtubeVideoId": "xwqRP8Z5-Ow"
-  },
-  {
-	"country": "Çocuk",
-	"id": "Küçük kamyon Leo",
-	"name": "Küçük kamyon Leo",
-	"p": 120,
-	"url": "",
-	"youtubeVideoId": "a-7qWbCCd9M"
-  },
-  {
-	"country": "Çocuk",
-	"id": "Kral Şakir",
-	"name": "Kral Şakir",
-	"p": 121,
-	"url": "",
-	"youtubeVideoId": "lCqxh_IxBtw"
-  },
-  {
-	"country": "Çocuk",
-	"id": "BOOBA",
-	"name": "BOOBA",
-	"p": 122,
-	"url": "",
-	"youtubeVideoId": "ne96J3C0flQ"
-  },
+
   {
 	"country": "Turkey",
 	"id": "TV8",
 	"name": "TV8",
 	"p": 6,
 	"url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "TELE1",
-	"name": "TELE1",
-	"p": 123,
-	"url": "",
-	"youtubeVideoId": "fNqmmqNNGp8"
-  },
-  {
-	"country": "Turkey",
-	"id": "Now Tv",
-	"name": "Now Tv",
-	"p": 124,
-	"url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
   },
   {
 	"country": "Turkey",
@@ -263,14 +201,14 @@
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8"
+	"url": "https://vavoo.to/play/1561958971/index.m3u8"
  },
   {	
 	"country":"Spor",
 	"id": "A SPOR  ",
 	"name": "A SPOR  ",
 	"p": 18,
-	"url": "https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8"
+	"url": "https://vavoo.to/play/1561958971/index.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -557,7 +495,7 @@
 	"id": "A2 TV",
 	"name": "A2 TV",
 	"p": 48,
-	"url": "https://trkvz-live.ercdn.net/a2tv/a2tv.m3u8"
+	"url": "https://vavoo.to/play/1735806851/index.m3u8"
   },
   {	
 	"country":"Turkey",
