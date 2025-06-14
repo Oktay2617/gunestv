@@ -14,7 +14,7 @@
 	"id": "ATV",
 	"name": "ATV",
 	"p": 2,
-	"logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/blob/main/tv_logo/ATV.png",
 	"url": "https://vavoo.to/play/1255594337/index.m3u8"
   },
   {
@@ -23,6 +23,7 @@
 	"id": "STAR TV ",
 	"name": "STAR TV ",
 	"p": 3,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
 	"url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
   },
   {
