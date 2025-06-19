@@ -1,0 +1,465 @@
+[
+{
+	"country": "Radio",
+	"id": "Alem Fm ",
+	"name": "Alem Fm ",
+	"p": 12,
+	"url": "https://edge1.radyotvonline.net/shoutcast/play/alemfm"
+  },
+  {
+	"country": "Radio",
+	"id": "Joy FM ",
+	"name": "Joy FM ",
+	"p": 13,
+	"url": "https://25703.live.streamtheworld.com/JOY_FM128AAC.aac"
+  },
+  {
+	"country": "Radio",
+	"id": "Radyo 45'lik ",
+	"name": "Radyo 45'lik ",
+	"p": 14,
+	"url":"https://stream.radyo45lik.com:4545/"
+  },
+  {
+	"country": "Radio",
+	"id": "Radyo Odtu HİT ",
+	"name": "Radyo Odtu HİT ",
+	"p": 15,
+	"url": "https://stream3.radyoodtu.com.tr:8000/hit"
+  },
+{	
+	"country":"Radio",
+	"id": "Baba Radyo",
+	"name": "Baba Radyo",
+	"p": 51,
+	"url": "https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Best Fm",
+	"name": "Best Fm",
+	"p": 52,
+	"url": "https://officialbestfm.radyotvonline.net/bestfmofficial"
+  },
+  {	
+	"country":"Radio",
+	"id": "VIRGIN RADIO TÜRKIYE",
+	"name": "VIRGIN RADIO TÜRKIYE",
+	"p": 53,
+	"url": "https://28933.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "İstanbul Fm",
+	"name": "İstanbul Fm",
+	"p": 54,
+	"url": "https://ssldyg2.radyotvonline.com/istanbulfm/istanbulfm.stream/chunklist_w1117139919.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Joy Türk",
+	"name": "Joy Türk",
+	"p": 55,
+	"url": "https://27863.live.streamtheworld.com/JOY_TURK128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "Kral Fm",
+	"name": "Kral Fm",
+	"p": 56,
+	"url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Kral Pop",
+	"name": "Kral Pop",
+	"p": 57,
+	"url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Metro Fm",
+	"name": "Metro Fm",
+	"p": 57,
+	"url": "https://25583.live.streamtheworld.com/METRO_FM128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 FM",
+	"name": "Number1 FM",
+	"p": 58,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Best Of Number1",
+	"name": "Best Of Number1",
+	"p": 59,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk Fm",
+	"name": "Number1 Türk Fm",
+	"p": 60,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Pal Nostalji",
+	"name": "Pal Nostalji",
+	"p": 61,
+	"url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Pal Fm",
+	"name": "Pal Fm",
+	"p": 62,
+	"url": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "POP 90",
+	"name": "POP 90",
+	"p": 63,
+	"url": "https://25653.live.streamtheworld.com/POP90128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Fm",
+	"name": "Power Fm",
+	"p": 64,
+	"url": "https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Pop",
+	"name": "Power Pop",
+	"p": 65,
+	"url": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Türk",
+	"name": "Power Türk",
+	"p": 66,
+	"url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "GÖNÜL TÜRKÜLERİ",
+	"name": "GÖNÜL TÜRKÜLERİ",
+	"p": 67,
+	"url": "https://25453.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "BABYJOY",
+	"name": "BABYJOY",
+	"p": 68,
+	"url": "https://22733.live.streamtheworld.com/SC009_SO1AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Ege",
+	"name": "Radyo Ege",
+	"p": 69,
+	"url": "https://istek.ozelip.com/radyoege"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu ROCK",
+	"name": "Radyo Odtu ROCK",
+	"p": 72,
+	"url": "https://stream3.radyoodtu.com.tr:8000/rock"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu CANLI",
+	"name": "Radyo Odtu CANLI",
+	"p": 73,
+	"url": "https://stream3.radyoodtu.com.tr:8000/canli"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu EASY",
+	"name": "Radyo Odtu EASY",
+	"p": 74,
+	"url": "https://stream3.radyoodtu.com.tr:8000/easy"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu KARIŞIKKASET",
+	"name": "Radyo Odtu KARIŞIKKASET",
+	"p": 75,
+	"url": "https://stream3.radyoodtu.com.tr:8000/karisikkaset"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu KIRKHARAMİLER",
+	"name": "Radyo Odtu KIRKHARAMİLER",
+	"p": 76,
+	"url": "https://stream3.radyoodtu.com.tr:8000/40_haramiler"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Odtu HİPHOP",
+	"name": "Radyo Odtu HİPHOP",
+	"p": 77,
+	"url": "https://stream3.radyoodtu.com.tr:8000/hiphop"
+  },
+  {	
+	"country":"Radio",
+	"id": "SÜPER FM",
+	"name": "SÜPER FM",
+	"p": 78,
+	"url": "https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Trio CANLI",
+	"name": "Radyo Trio CANLI",
+	"p": 79,
+	"url": "https://radyotrio.radyotvonline.net/radyotrio"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Trio RAP",
+	"name": "Radyo Trio RAP",
+	"p": 80,
+	"url": "https://yayin.radyotrio.com/8016/stream"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Trio NOSTALJİ",
+	"name": "Radyo Trio NOSTALJİ",
+	"p": 81,
+	"url": "https://yayin.radyotrio.com/8012/stream"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Trio BALKAN",
+	"name": "Radyo Trio BALKAN",
+	"p": 82,
+	"url": "https://yayin.radyotrio.com/8014/stream"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz",
+	"name": "Radyo Turkuvaz",
+	"p": 83,
+	"url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz ROMANTİK",
+	"name": "Radyo Turkuvaz ROMANTİK",
+	"p": 84,
+	"url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/chunklist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz MUSİKİ",
+	"name": "Radyo Turkuvaz MUSİKİ",
+	"p": 84,
+	"url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/chunklist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz NOSTALJİ",
+	"name": "Radyo Turkuvaz NOSTALJİ",
+	"p": 85,
+	"url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz EFSANE",
+	"name": "Radyo Turkuvaz EFSANE",
+	"p": 86,
+	"url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Turkuvaz ANADOLU",
+	"name": "Radyo Turkuvaz ANADOLU",
+	"p": 87,
+	"url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8"
+  },
+  {		
+	"country":"Radio",
+	"id": "Slow Türk",
+	"name": "Slow Türk",
+	"p": 90,
+	"url": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
+  },
+  {	
+	"country":"Radio",
+	"id": "TRT Fm",
+	"name": "TRT Fm",
+	"p": 92,
+	"url": "https://trt.radyotvonline.net/trtfm"
+  },
+  {	
+	"country":"Radio",
+	"id": "KAFA RADYO",
+	"name": "KAFA RADYO",
+	"p": 93,
+	"url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8"
+  },
+{	
+	"country":"Radio",
+	"id": "Power Plus+",
+	"name": "Power Plus+",
+	"p": 95,
+	"url": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Love",
+	"name": "Power Love",
+	"p": 96,
+	"url": "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Smooth",
+	"name": "Power Smooth",
+	"p": 97,
+	"url": "https://listen.powerapp.com.tr/powersmooth/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power XL",
+	"name": "Power XL",
+	"p": 98,
+	"url": "https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Earth",
+	"name": "Power Earth",
+	"p": 99,
+	"url": "https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Deep",
+	"name": "Power Deep",
+	"p": 100,
+	"url": "https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Rap",
+	"name": "PowerTürk Rap",
+	"p": 101,
+	"url": "https://listen.powerapp.com.tr/powerturkrap/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Akustik",
+	"name": "PowerTürk Akustik",
+	"p": 102,
+	"url": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Taptaze",
+	"name": "PowerTürk Taptaze",
+	"p": 103,
+	"url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "PowerTürk Dans",
+	"name": "PowerTürk Dans",
+	"p": 104,
+	"url": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power R&B Hip Hop",
+	"name": "Power R&B Hip Hop",
+	"p": 105,
+	"url": "https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Power Smooth Jazz",
+	"name": "Power Smooth Jazz",
+	"p": 105,
+	"url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Kiss Fm",
+	"name": "Kiss Fm",
+	"p": 106,
+	"url": "https://kiss.radyotvonline.net/kissfm"
+  },
+  {	
+	"country":"Radio",
+	"id": "Pal Station",
+	"name": "Pal Station",
+	"p": 107,
+	"url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Fenomen",
+	"name": "Radyo Fenomen",
+	"p": 108,
+	"url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Radyo Viva",
+	"name": "Radyo Viva",
+	"p": 109,
+	"url": "https://radyoviva.radyotvonline.net/radyovivaaac"
+  },
+  {	
+	"country":"Radio",
+	"id": "TRT Radyo 1",
+	"name": "TRT Radyo 1",
+	"p": 110,
+	"url": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk Damar",
+	"name": "Number1 Türk Damar",
+	"p": 111,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk Slow",
+	"name": "Number1 Türk Slow",
+	"p": 112,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Number1 Türk 90’lar",
+	"name": "Number1 Türk 90’lar",
+	"p": 113,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8"
+  },
+  {	
+	"country":"Radio",
+	"id": "Üsküdar Musiki Cemiyeti Radyosu",
+	"name": "Üsküdar Musiki Cemiyeti Radyosu",
+	"p": 114,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8"
+  },
+
+  {	
+	"country":"Radio",
+	"id": "Number1 Classic",
+	"name": "Number1 Classic",
+	"p": 116,
+	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
+}
+  ]
