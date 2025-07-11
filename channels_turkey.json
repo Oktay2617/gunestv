@@ -63,7 +63,7 @@
 	"id": "TRT 2 ",
 	"name": "TRT 2 ",
 	"p": 10,
-	"url": "https://vavoo.to/live2/play/4275446197/index.m3u8"
+	"url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8"
   },
   {
 	"country": "Turkey",
@@ -376,21 +376,5 @@
 	"name": "TJK 2 TV",
 	"p": 94,
 	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
- },
- {	
-	"country":"Turkey",
-	"category": "Ulusal",
-	"id": "Kemal Sunal 1",
-	"name": "Kemal Sunal 1",
-	"p": 95,
-	"url": "https://vavoo.to/live2/play/4275446197/index.m3u8"
- },
- {	
-	"country":"Turkey",
-	"category": "Ulusal",
-	"id": "Kemal Sunal 2",
-	"name": "Kemal Sunal 2",
-	"p": 96,
-	"url": "https://vavoo.to/play/1255594337/index.m3u8"
  }
  ]
