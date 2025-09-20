@@ -226,27 +226,6 @@
   },
   {	
 	"country":"Radio",
-	"id": "Radyo Trio RAP",
-	"name": "Radyo Trio RAP",
-	"p": 80,
-	"url": "https://yayin.radyotrio.com/8016/stream"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio NOSTALJİ",
-	"name": "Radyo Trio NOSTALJİ",
-	"p": 81,
-	"url": "https://yayin.radyotrio.com/8012/stream"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio BALKAN",
-	"name": "Radyo Trio BALKAN",
-	"p": 82,
-	"url": "https://yayin.radyotrio.com/8014/stream"
-  },
-  {	
-	"country":"Radio",
 	"id": "Radyo Turkuvaz",
 	"name": "Radyo Turkuvaz",
 	"p": 83,
