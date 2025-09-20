@@ -2,6 +2,7 @@
 {
 	"country": "Radio",
 	"id": "Alem Fm ",
+	"category": "A",
 	"name": "Alem Fm ",
 	"p": 12,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/alem fm.png", 
@@ -10,6 +11,7 @@
   {
 	"country": "Radio",
 	"id": "Joy FM ",
+	"category": "J",
 	"name": "Joy FM ",
 	"p": 13,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/joy.png", 
@@ -18,6 +20,7 @@
   {
 	"country": "Radio",
 	"id": "Radyo 45'lik ",
+	"category": "R",
 	"name": "Radyo 45'lik ",
 	"p": 14,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_45'lik_logosu.png",
@@ -26,6 +29,7 @@
   {
 	"country": "Radio",
 	"id": "Radyo Odtu HİT ",
+	"category": "R",
 	"name": "Radyo Odtu HİT ",
 	"p": 15,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -34,6 +38,7 @@
 {	
 	"country":"Radio",
 	"id": "Baba Radyo",
+	"category": "B",
 	"name": "Baba Radyo",
 	"p": 51,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Baba-Radyo.png",
@@ -42,6 +47,7 @@
   {	
 	"country":"Radio",
 	"id": "Best Fm",
+	"category": "B",
 	"name": "Best Fm",
 	"p": 52,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/best fm.png",
@@ -50,6 +56,7 @@
   {	
 	"country":"Radio",
 	"id": "VIRGIN RADIO TÜRKIYE",
+	"category": "V",
 	"name": "VIRGIN RADIO TÜRKIYE",
 	"p": 53,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Virgin_Radio.png",
@@ -58,6 +65,7 @@
   {	
 	"country":"Radio",
 	"id": "İstanbul Fm",
+	"category": "İ",
 	"name": "İstanbul Fm",
 	"p": 54,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/istanbulfm.png",
@@ -66,6 +74,7 @@
   {	
 	"country":"Radio",
 	"id": "Joy Türk",
+	"category": "J",
 	"name": "Joy Türk",
 	"p": 55,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/joyturk.png",
@@ -74,6 +83,7 @@
   {	
 	"country":"Radio",
 	"id": "Kral Fm",
+	"category": "K",
 	"name": "Kral Fm",
 	"p": 56,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/KRAL_FM_LOGO-01.png",
@@ -82,6 +92,7 @@
   {	
 	"country":"Radio",
 	"id": "Kral Pop",
+	"category": "K",
 	"name": "Kral Pop",
 	"p": 57,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/KRAL_POP_RADYO_LOGO-01.png",
@@ -90,6 +101,7 @@
   {	
 	"country":"Radio",
 	"id": "Metro Fm",
+	"category": "M",
 	"name": "Metro Fm",
 	"p": 57,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/metrofm.png",
@@ -98,6 +110,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 FM",
+	"category": "N",
 	"name": "Number1 FM",
 	"p": 58,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_FM.png",
@@ -106,6 +119,7 @@
   {	
 	"country":"Radio",
 	"id": "Best Of Number1",
+	"category": "N",
 	"name": "Best Of Number1",
 	"p": 59,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_BestOf.png",
@@ -114,6 +128,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 Türk Fm",
+	"category": "N",
 	"name": "Number1 Türk Fm",
 	"p": 60,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_TurkFM.png",
@@ -122,6 +137,7 @@
   {	
 	"country":"Radio",
 	"id": "Pal Nostalji",
+	"category": "P",
 	"name": "Pal Nostalji",
 	"p": 61,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/pall nostalji.png",
@@ -130,6 +146,7 @@
   {	
 	"country":"Radio",
 	"id": "Pal Fm",
+	"category": "P",
 	"name": "Pal Fm",
 	"p": 62,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/pal_fm.png",
@@ -138,6 +155,7 @@
   {	
 	"country":"Radio",
 	"id": "POP 90",
+	"category": "P",
 	"name": "POP 90",
 	"p": 63,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/pop90.png",
@@ -146,6 +164,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Fm",
+	"category": "P",
 	"name": "Power Fm",
 	"p": 64,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power fm.png",
@@ -154,6 +173,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Pop",
+	"category": "P",
 	"name": "Power Pop",
 	"p": 65,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power pop.png",
@@ -162,6 +182,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Türk",
+	"category": "P",
 	"name": "Power Türk",
 	"p": 66,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power turk.png.png",
@@ -170,6 +191,7 @@
   {	
 	"country":"Radio",
 	"id": "GÖNÜL TÜRKÜLERİ",
+	"category": "G",
 	"name": "GÖNÜL TÜRKÜLERİ",
 	"p": 67,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/gonulturkuleri.png",
@@ -178,6 +200,7 @@
   {	
 	"country":"Radio",
 	"id": "BABYJOY",
+	"category": "B",
 	"name": "BABYJOY",
 	"p": 68,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/babyjoy.png",
@@ -186,6 +209,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Ege",
+	"category": "R",
 	"name": "Radyo Ege",
 	"p": 69,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/radyoegeust.png",
@@ -194,6 +218,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu ROCK",
+	"category": "R",
 	"name": "Radyo Odtu ROCK",
 	"p": 72,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -202,6 +227,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu CANLI",
+	"category": "R",
 	"name": "Radyo Odtu CANLI",
 	"p": 73,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -210,6 +236,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu EASY",
+	"category": "R",
 	"name": "Radyo Odtu EASY",
 	"p": 74,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -218,6 +245,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu KARIŞIKKASET",
+	"category": "R",
 	"name": "Radyo Odtu KARIŞIKKASET",
 	"p": 75,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -226,6 +254,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu KIRKHARAMİLER",
+	"category": "R",
 	"name": "Radyo Odtu KIRKHARAMİLER",
 	"p": 76,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -234,6 +263,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Odtu HİPHOP",
+	"category": "R",
 	"name": "Radyo Odtu HİPHOP",
 	"p": 77,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_ODTÜ_logo.png",
@@ -242,6 +272,7 @@
   {	
 	"country":"Radio",
 	"id": "SÜPER FM",
+	"category": "S",
 	"name": "SÜPER FM",
 	"p": 78,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/superfm.png",
@@ -250,6 +281,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Trio CANLI",
+	"category": "R",
 	"name": "Radyo Trio CANLI",
 	"p": 79,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/triopng.png",
@@ -259,6 +291,7 @@
 	"country":"Radio",
 	"id": "Radyo Turkuvaz",
 	"name": "Radyo Turkuvaz",
+	"category": "R",
 	"p": 83,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/radyo-turkuvaz.png",
 	"url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
@@ -266,6 +299,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Turkuvaz ROMANTİK",
+	"category": "R",
 	"name": "Radyo Turkuvaz ROMANTİK",
 	"p": 84,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/turkuvaz-romantik.png",
@@ -274,6 +308,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Turkuvaz MUSİKİ",
+	"category": "R",
 	"name": "Radyo Turkuvaz MUSİKİ",
 	"p": 84,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/turkuvaz-musiki.png",
@@ -282,6 +317,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Turkuvaz NOSTALJİ",
+	"category": "R",
 	"name": "Radyo Turkuvaz NOSTALJİ",
 	"p": 85,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/turkuvaz-nostalji.png",
@@ -290,6 +326,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Turkuvaz EFSANE",
+	"category": "R",
 	"name": "Radyo Turkuvaz EFSANE",
 	"p": 86,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/turkuvaz-efsane.png",
@@ -298,6 +335,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Turkuvaz ANADOLU",
+	"category": "R",
 	"name": "Radyo Turkuvaz ANADOLU",
 	"p": 87,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/turkuvaz-anadolu.png",
@@ -306,6 +344,7 @@
   {		
 	"country":"Radio",
 	"id": "Slow Türk",
+	"category": "S",
 	"name": "Slow Türk",
 	"p": 90,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/slowturk.png",
@@ -313,6 +352,7 @@
   },
   {	
 	"country":"Radio",
+	"category": "T",
 	"id": "TRT Fm",
 	"name": "TRT Fm",
 	"p": 92,
@@ -322,6 +362,7 @@
   {	
 	"country":"Radio",
 	"id": "KAFA RADYO",
+	"category": "K",
 	"name": "KAFA RADYO",
 	"p": 93,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/kafa radyo.png",
@@ -330,6 +371,7 @@
 {	
 	"country":"Radio",
 	"id": "Power Plus+",
+	"category": "P",
 	"name": "Power Plus+",
 	"p": 95,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power plus.png",
@@ -338,6 +380,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Love",
+	"category": "P",
 	"name": "Power Love",
 	"p": 96,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power love.png",
@@ -346,6 +389,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Smooth",
+	"category": "P",
 	"name": "Power Smooth",
 	"p": 97,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power smooth.png",
@@ -354,6 +398,7 @@
   {	
 	"country":"Radio",
 	"id": "Power XL",
+	"category": "P",
 	"name": "Power XL",
 	"p": 98,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power xl.png",
@@ -362,6 +407,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Earth",
+	"category": "P",
 	"name": "Power Earth",
 	"p": 99,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power earth.png",
@@ -370,6 +416,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Deep",
+	"category": "P",
 	"name": "Power Deep",
 	"p": 100,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power deep.png",
@@ -378,6 +425,7 @@
   {	
 	"country":"Radio",
 	"id": "PowerTürk Rap",
+	"category": "P",
 	"name": "PowerTürk Rap",
 	"p": 101,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/powerturk rap.png",
@@ -386,6 +434,7 @@
   {	
 	"country":"Radio",
 	"id": "PowerTürk Akustik",
+	"category": "P",
 	"name": "PowerTürk Akustik",
 	"p": 102,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/powerturk akustik.png",
@@ -394,6 +443,7 @@
   {	
 	"country":"Radio",
 	"id": "PowerTürk Taptaze",
+	"category": "P",
 	"name": "PowerTürk Taptaze",
 	"p": 103,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/powerturk taptazr.png",
@@ -402,6 +452,7 @@
   {	
 	"country":"Radio",
 	"id": "PowerTürk Dans",
+	"category": "P",
 	"name": "PowerTürk Dans",
 	"p": 104,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/powerturk dans.png",
@@ -410,6 +461,7 @@
   {	
 	"country":"Radio",
 	"id": "Power R&B Hip Hop",
+	"category": "P",
 	"name": "Power R&B Hip Hop",
 	"p": 105,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power hiphop.png",
@@ -418,6 +470,7 @@
   {	
 	"country":"Radio",
 	"id": "Power Smooth Jazz",
+	"category": "P",
 	"name": "Power Smooth Jazz",
 	"p": 105,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/power jaz.png",
@@ -426,6 +479,7 @@
   {	
 	"country":"Radio",
 	"id": "Kiss Fm",
+	"category": "K",
 	"name": "Kiss Fm",
 	"p": 106,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/kıss fmpng.png",
@@ -434,6 +488,7 @@
   {	
 	"country":"Radio",
 	"id": "Pal Station",
+	"category": "P",
 	"name": "Pal Station",
 	"p": 107,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/pall station.png",
@@ -442,6 +497,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Fenomen",
+	"category": "R",
 	"name": "Radyo Fenomen",
 	"p": 108,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/Radyo_Fenomen_logosu.png",
@@ -450,6 +506,7 @@
   {	
 	"country":"Radio",
 	"id": "Radyo Viva",
+	"category": "R",
 	"name": "Radyo Viva",
 	"p": 109,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/viva.png",
@@ -458,6 +515,7 @@
   {	
 	"country":"Radio",
 	"id": "TRT Radyo 1",
+	"category": "T",
 	"name": "TRT Radyo 1",
 	"p": 110,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/trt radyo 1.png",
@@ -466,6 +524,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 Türk Damar",
+	"category": "N",
 	"name": "Number1 Türk Damar",
 	"p": 111,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_TR_Damar.png",
@@ -474,6 +533,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 Türk Slow",
+	"category": "N",
 	"name": "Number1 Türk Slow",
 	"p": 112,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_TRslow.png",
@@ -482,6 +542,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 Türk 90’lar",
+	"category": "N",
 	"name": "Number1 Türk 90’lar",
 	"p": 113,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_90lar1.png",
@@ -490,6 +551,7 @@
   {	
 	"country":"Radio",
 	"id": "Üsküdar Musiki Cemiyeti Radyosu",
+	"category": "Ü",
 	"name": "Üsküdar Musiki Cemiyeti Radyosu",
 	"p": 114,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/umcradyo.png",
@@ -499,6 +561,7 @@
   {	
 	"country":"Radio",
 	"id": "Number1 Classic",
+	"category": "N",
 	"name": "Number1 Classic",
 	"p": 116,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_Classic.png",
