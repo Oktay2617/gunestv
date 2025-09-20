@@ -422,6 +422,15 @@
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tay-tv-tr.png",
 	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
  },
+ {	
+	"country":"Turkey",
+	"category": "Spor",
+	"id": "HT SPOR",
+	"name": "HT SPOR",
+	"p": 94,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/HT Spor.png",
+	"url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8"
+ },
 	{	
 	"country":"Turkey",
 	"category": "Ulusal",
