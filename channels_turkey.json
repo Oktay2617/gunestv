@@ -229,6 +229,7 @@
 	"id": "DMAX",
 	"name": "DMAX",
 	"p": 28,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
 	"url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=djBLVDVJSVNjRjNmaGgxMUpCNjVaU1VwSk9IZ3ZuVUU1eENNTHYyTWVmTT0=&sid=798epwgsdsxe&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
   },
   {	
@@ -246,6 +247,7 @@
 	"id": "EKOL TV",
 	"name": "EKOL TV",
 	"p": 30,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Ekol_TV.png",
 	"url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8"
   },
   {	
