@@ -292,6 +292,7 @@
 	"id": "POWER LOVE",
 	"name": "POWER LOVE",
 	"p": 36,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_LOVE.png",
 	"url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
   },
   {	
@@ -300,6 +301,7 @@
 	"id": "POWER DANCE",
 	"name": "POWER DANCE",
 	"p": 37,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_DANCEpng.png",
 	"url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
   },
   {	
@@ -308,6 +310,7 @@
 	"id": "POWER HİTS",
 	"name": "POWER HİTS",
 	"p": 38,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/power-tv-tr.png",
 	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
   },
   {	
@@ -316,6 +319,7 @@
 	"id": "POWERTÜRK AKUSTİK",
 	"name": "POWERTÜRK AKUSTİK",
 	"p": 39,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_AKUSTİK.png",
 	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
   },
   {	
@@ -324,6 +328,7 @@
 	"id": "POWERTÜRK SLOW",
 	"name": "POWERTÜRK SLOW",
 	"p": 40,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_SLOW.png",
 	"url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
   },
   {	
@@ -341,6 +346,7 @@
 	"id": "POWERTÜRK TAPTAZE",
 	"name": "POWERTÜRK TAPTAZE",
 	"p": 42,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_TAPTAZE.png",
 	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
   },
   {	
@@ -358,6 +364,7 @@
 	"id": "TLC",
 	"name": "TLC",
 	"p": 46,
+	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
 	"url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=Sk5QZ1Y0VG1YMmJBa082all3VkdBcCtDUDI5T2VOT29MZitvUHhQbVRxZz0=&sid=7991xi7llbrw&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
   },
   {	
