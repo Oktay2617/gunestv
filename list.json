@@ -12,6 +12,6 @@
   {
     "kaynak": "json",
     "name": "Turkey Legal",
-    "url": "https://github.com/Oktay2617/gunestv/blob/main/channels_turkey.json"
+    "url": "https://raw.githubusercontent.com/Oktay2617/gunestv/refs/heads/main/channels_turkey.json"
   }
 ]
