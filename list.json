@@ -1,0 +1,17 @@
+[
+  {
+    "code": "ulusal",
+    "name": "TR Ulusal Kanallar",
+    "url": "https://raw.githubusercontent.com/sizin-kullanici-adiniz/repo/main/ulusal.m3u"
+  },
+  {
+    "code": "haber",
+    "name": "TR Haber Kanalları",
+    "url": "https://baska-bir-yerdeki-uzun-url/haberler.m3u"
+  },
+  {
+    "code": "spor",
+    "name": "TR Spor Kanalları",
+    "url": "https://cok-uzun-bir-url/spor/turkiye/liste.m3u8"
+  }
+]
