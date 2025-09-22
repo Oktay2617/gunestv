@@ -1,8 +1,8 @@
 [
   {
-    "kaynak": "m3u8",
-    "name": "DaddyLiveHD",
-    "url": "https://raw.githubusercontent.com/Metroid2023/DaddyLiveHD/refs/heads/main/playlist.m3u8"
+    "kaynak": "json",
+    "name": "Vavoo",
+    "url": "https://vavoo.to/channels"
   },
   {
     "kaynak": "m3u8",
