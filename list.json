@@ -6,13 +6,8 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "TrGoals",
+    "name": "Tr_Spor",
     "url": "https://raw.githubusercontent.com/Oktay2617/trvip/refs/heads/main/kanallar.m3u8"
-  },
-  {
-    "kaynak": "json",
-    "name": "Turkey Legal",
-    "url": "https://raw.githubusercontent.com/Oktay2617/gunestv/refs/heads/main/channels_turkey.json"
   },
   {
     "kaynak": "m3u8",
