@@ -443,11 +443,11 @@
   {
     "country": "Turkey",
     "category": "Haber",
-    "id": "Tele1YouTube",
-    "name": "Tele1 (YouTube)",
-    "logo": "https://yt3.googleusercontent.com/PGlG_irVgl4vfh2EC7516oXfD6zYRSqoLhP-gY-yn7qoYjBb8A3osdHR4oQf527ay7nU9jUE=s160-c-k-c0x00ffffff-no-rj",
+    "id": "SözcüTvYouTube",
+    "name": "Sözcü TV (YouTube)",
+    "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
     "url": "", 
     "stream_type": "youtube",
-    "youtube_channel_id": "UCoHnRpOS5rL62jTmSDO5Npw"
+    "youtube_channel_id": "UCOulx_rep5O4i9y6AyDqVvw"
   }
  ]
