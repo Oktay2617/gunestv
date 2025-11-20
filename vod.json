@@ -1,0 +1,23 @@
+[
+  {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.org",
+    "username": "hpgdiscoo",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+    {
+    "kaynak": "xtream",
+    "name": "Maxim",
+    "url": "http://nuhygo.shop:8080",
+    "username": "dlk1926",
+    "password": "dlk.1926",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "PowerSinema",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
+  }
+]
