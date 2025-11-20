@@ -1,37 +1,28 @@
 [
   {
-    "kaynak": "json",
-    "name": "Vavoo.to",
-    "url": "https://vavoo.to/channels"
+    "kaynak": "m3u8",
+    "name": "BoncukTv",
+    "url": "https://mth.tc/boncuktv"
   },
     {
     "kaynak": "m3u8",
-    "name": "Tr Goals",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip/refs/heads/main/kanallar.m3u8"
+    "name": "UzunMuhalefet",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
   },
     {
-    "kaynak": "m3u8",
-    "name": "SelcukSports",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip2/refs/heads/main/selcuksports_kanallar.m3u8"
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.org",
+    "username": "hpgdiscoo",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer"
   },
     {
-    "kaynak": "m3u8",
-    "name": "XyzSports",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip3/refs/heads/main/xyzsports_kanallar.m3u8"
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "Taraftarium24",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip4/refs/heads/main/taraftarium24_kanallar.m3u8"
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "Tvjustin",
-    "url": "https://raw.githubusercontent.com/Oktay2617/trvip5/refs/heads/main/justintv_kanallar.m3u8"
-  },
-    {
-    "kaynak": "m3u8",
-    "name": "DaddyLive",
-    "url": "https://raw.githubusercontent.com/pigzillaaa/daddylive/refs/heads/main/daddylive-channels-events.m3u8"
+    "kaynak": "xtream",
+    "name": "Maxim",
+    "url": "http://nuhygo.shop:8080",
+    "username": "dlk1926",
+    "password": "dlk.1926",
+    "userAgent": "IPTVSmartersPlayer"
   }
 ]
