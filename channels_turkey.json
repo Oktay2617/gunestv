@@ -15,7 +15,7 @@
 	"name": "ATV",
 	"p": 2,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-	"url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
+	"url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"	  
   },
   {
 	"country": "Turkey",
@@ -285,7 +285,7 @@
 	"name": "NTV",
 	"p": 34,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ntv-tr.png",
-	"url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8"
+	"url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694"
   },
   {	
 	"country":"Turkey",
@@ -384,7 +384,7 @@
 	"name": "A2 TV",
 	"p": 48,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
-	"url": "https://vavoo.to/play/1735806851/index.m3u8"
+	"url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
   },
   {	
 	"country":"Turkey",
@@ -438,7 +438,7 @@
 	"name": "NOW TV",
 	"p": 50,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-	"url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
+	"url": "https://boncuktv.atakan1983.workers.dev/now"
    },
  {
     "country": "Turkey",
@@ -446,7 +446,7 @@
     "id": "SözcüTvM3U8",
     "name": "Sözcü TV",
     "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
-    "url": "https://gknnowtv.onrender.com/sozcu.m3u8"
+    "url": "https://boncuktv.atakan1983.workers.dev/szctv"
 },
 	{
     "country": "Turkey",
