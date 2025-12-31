@@ -28,9 +28,17 @@
   {
     "kaynak": "xtream",
     "name": "Maxim Panel",
-    "url": "http://zafertv85.shop:8080",
-    "username": "mh9660",
-    "password": "3JSp7yJSkYEE",
+    "url": "http://playgoplayumma83.maximhdtv.shop:8080",
+    "username": "Muhammed1236",
+    "password": "xdcR6JHSqP",
+    "userAgent": "IPTVSmartersPlayer"
+  },
+  {
+    "kaynak": "xtream",
+    "name": "CCCam",
+    "url": "http://x1.cline.fun:65000",
+    "username": "3469019",
+    "password": "7209095",
     "userAgent": "IPTVSmartersPlayer"
   }
 ]
