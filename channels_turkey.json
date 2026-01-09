@@ -15,7 +15,7 @@
 	"name": "ATV",
 	"p": 2,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-	"url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8"	  
+	"url": "https://boncuktv.dunya-yalan.workers.dev/atv"	  
   },
   {
 	"country": "Turkey",
@@ -438,7 +438,8 @@
 	"name": "NOW TV",
 	"p": 50,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-	"url": "https://boncuktv.atakan1983.workers.dev/now"
+	"url": "https://boncuktv.dunya-yalan.workers.dev/now"
+		
    },
  {
     "country": "Turkey",
