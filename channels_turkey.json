@@ -436,7 +436,7 @@
 	"category": "Ulusal",
 	"id": "NOW TV",
 	"name": "NOW TV",
-	"p": 50,
+	"p": 5,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
 	"url": "https://boncuktv.dunya-yalan.workers.dev/now"
 		
