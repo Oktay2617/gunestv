@@ -1,0 +1,23 @@
+[
+  {
+    "kaynak": "m3u8",
+    "name": "BoncukTv",
+    "url": "https://mth.tc/boncuktv",
+    "description": "Ulusal kanalları içeren genel izleyici listesidir. Atakan1983 tarafından yapılmıştır. Kendisine teşekkürler"
+  },
+    {
+    "kaynak": "m3u8",
+    "name": "UzunMuhalefet",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u",
+    "description": "Ulusal kanalları içeren genel izleyici listesidir. UzunMuhalefet tarafından yapılmıştır. Kendisine teşekkürler"
+  },
+    {
+    "kaynak": "xtream",
+    "name": "Goldvod",
+    "url": "https://goldvod.org",
+    "username": "hpgdisco",
+    "password": "123456",
+    "userAgent": "IPTVSmartersPlayer",
+    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
+  }
+]
