@@ -15,7 +15,7 @@
 	"name": "ATV",
 	"p": 2,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-	"url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"	  
+	"url": "https://dsmartgo-live.ercdn.net/dsmartgo/atv/atv.isml/playlist.m3u8"	  
   },
   {
 	"country": "Turkey",
@@ -438,7 +438,7 @@
 	"name": "NOW TV",
 	"p": 5,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-	"url": "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1769852503&st=PcVaWjnW3TnzX8X7HPnCDA"
+	"url": "https://dsmartgo-live.ercdn.net/dsmartgo/foxtv/foxtv.isml/playlist.m3u8"
 		
    },
  {
