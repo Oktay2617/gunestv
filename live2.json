@@ -23,10 +23,10 @@
    {
     "kaynak": "xtream",
     "name": "Oz.IpTvBoss",
-    "url": "https://oz.iptvboss.net/",
+    "url": "http://oz.iptvboss.net:80/",
     "username": "ozekici100",
     "password": "ePNUGF3G",
     "userAgent": "IPTVSmartersPlayer",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir."
+    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. Serdar bey'r liste için teşekkürler"
   }
 ]
