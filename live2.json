@@ -19,5 +19,14 @@
     "password": "123456",
     "userAgent": "IPTVSmartersPlayer",
     "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
+  },
+   {
+    "kaynak": "xtream",
+    "name": "Oz.IpTvBoss",
+    "url": "https://oz.iptvboss.net/",
+    "username": "ozekici100",
+    "password": "ePNUGF3G",
+    "userAgent": "IPTVSmartersPlayer",
+    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir."
   }
 ]
