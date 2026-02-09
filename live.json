@@ -16,5 +16,13 @@
     "username": "hpgdisco",
     "password": "123456",
     "userAgent": "IPTVSmartersPlayer"
+  },
+   {
+    "kaynak": "xtream",
+    "name": "Oz.IpTvBoss",
+    "url": "http://oz.iptvboss.net:80/",
+    "username": "ozekici100",
+    "password": "ePNUGF3G",
+    "userAgent": "IPTVSmartersPlayer"
   }
 ]
