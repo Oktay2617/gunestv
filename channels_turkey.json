@@ -438,7 +438,7 @@
 	"name": "NOW TV",
 	"p": 5,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-	"url": "http://116.202.238.88/FOXTV_TR/index.m3u8"
+	"url": "https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8"
 		
    },
  {
