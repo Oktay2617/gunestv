@@ -13,10 +13,5 @@
     "name": "PowerSinema",
     "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
     "description": "Film içeriği mevcuttur. powerboard tarafından yapılmıştır. Kendisine teşekkürler"
-  },
-   {
-    "kaynak": "json",
-    "name": "Dizilap (Deneysel)",
-    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u"
-    "description": "Ünlü Dizi sitesinin İframe linkleri ile çalışır, deneysel'dir. Cihaza göre hata yaşanabilir. GeceKod tarafından yapılmıştır. Kendisine teşekkürler"
+  }
 ]
