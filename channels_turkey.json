@@ -448,5 +448,13 @@
     "name": "Sözcü TV",
     "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
     "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/szctv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI2IDE6NTg6NDIgQU0maGFzaF92YWx1ZT1PT0FFSnFKbTZ6cUQ1NlNoK2FacHVBPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LGViODc3NDRjLTk4NDItNDUwNy05YjBhLTQ0N2RmYjg2NjJhZCxhMDkwODc4NC1kMTI4LTQ2MWYtYjc2Yi1hNTdkZWIxYjgwY2MsMGZhMDM1OWQtYTE5Yi00MWIyLTllNzMtMjllY2I2OTY5NjQwLDAsOjpmZmZmOjEwMC42NC4wLjQ="
+},
+	 {
+    "country": "Turkey",
+    "category": "Ulusal",
+    "id": "AtvYedek",
+    "name": "Atv Yedek",
+    "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+    "url": "https://www.atv.com.tr/canli-yayin"
 }
  ]
