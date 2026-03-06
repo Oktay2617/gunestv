@@ -1,5 +1,5 @@
 {
-  "epgUrl": "https://ornek.com/epg.xml.gz",
+  "epgUrl": "https://www.open-epg.com/files/turkey5.xml",
   "channels": [
   {
 	"country": "Turkey",
