@@ -1,6 +1,7 @@
 {
   "epgUrl": "https://ornek.com/epg.xml.gz",
   "channels": [
+    {
 	"country": "Turkey",
 	"category": "Ulusal",
 	"id": "KANAL D",
