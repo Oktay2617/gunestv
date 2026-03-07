@@ -1,5 +1,5 @@
 {
-  "epgUrl": "https://www.open-epg.com/files/turkey5.xml.gz",
+  "epgUrl": "https://iptv-epg.org/files/epg-tr.xml.gz",
   "channels": [
     {
       "country": "Turkey",
