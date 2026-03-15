@@ -460,6 +460,14 @@
     },
     {
       "country": "Turkey",
+      "category": "Ulusal",
+      "id": "NowYedek",
+      "name": "NOW TV Yedek",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "url": "https://www.nowtv.com.tr/canli-yayin"
+    },
+    {
+      "country": "Turkey",
       "category": "Müzik",
       "id": "KralPop",
       "name": "Kral Pop",
