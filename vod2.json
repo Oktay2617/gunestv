@@ -17,7 +17,7 @@
   {
     "kaynak": "json",
     "name": "Dizilap (Deneysel)",
-    "url": "https://raw.githubusercontent.com/Oktay2617/gunestv/refs/heads/main/dizilap.json",
+    "url": "https://raw.githubusercontent.com/GeceKod/dizi-film/refs/heads/main/github_data/dizipal.json",
     "description": "Ünlü Dizi sitesinin İframe linkleri ile çalışır, deneysel'dir. Cihaza göre hata yaşanabilir. GeceKod tarafından yapılmıştır. Kendisine teşekkürler"
   }
 ]
