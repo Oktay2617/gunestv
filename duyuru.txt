@@ -1,1 +1,1 @@
-Uygulama v4.2 çıkmıştır. güncellemeden önce eski uygulamayı kaldırıp yenisini google playeden yeniden yükleyelim.
+Uygulama v4.2 çıkmıştır. güncellemeden önce eski uygulamayı kaldırıp yenisini google playeden yeniden yükleyelim. Temiz kurulum olmadan sorunlu davranışlar görebilirsiniz
