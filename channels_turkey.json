@@ -472,10 +472,15 @@
       "id": "KralPop",
       "name": "Kral Pop",
       "logo": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",
-      "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
-      "channel_referer": "https://www.kralmuzik.com.tr/",
-      "channel_origin": "https://www.kralmuzik.com.tr",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0"
+      "url": "https://kool.to/vavoo-iptv/play/401243274930b2f0a2040b"
+    }
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "DENGEZELALTV",
+      "name": "DENGE ZELAL TV",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/denge_zelal",
+      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8"
     }
   ]
 }
