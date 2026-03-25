@@ -1,1 +1,1 @@
-Uygulama v4.2 çıkmıştır. güncellemeden önce eski uygulamayı kaldırıp yenisini google playeden yeniden yükleyelim. Temiz kurulum olmadan sorunlu davranışlar görebilirsiniz
+Uygulama v4.4 çıkmıştır. Dizi bölümü bitince otomatik bir sonraki bölüme geçiş ile daha keyifli bir seyir sizleri bekliyor.
