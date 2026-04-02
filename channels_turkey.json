@@ -482,6 +482,14 @@
       "name": "DENGE ZELAL TV",
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/denge_zelal.png",
       "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8"
+    },
+     {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TrtGenç",
+      "name": "TRT GENÇ",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-genc.0b68abf.png",
+      "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
     }
   ]
 }
