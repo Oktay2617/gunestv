@@ -1,989 +1,1504 @@
-[
-  {	
-	"country": "Turkey",
-	"id": "KANAL D",
-	"name": "KANAL D",
-	"p": 1,
-	"url": "https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7alpadcph5ww&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3"
-  },
-  {	
-	"country": "Spor",
-	"id": "HT Spor",
-	"name": "HT Spor",
-	"p": 100,
-	"url": "https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=7lq1wlrcu8ww&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2"
-  },
-  {
-	"country": "Turkey",
-	"id": "ATV",
-	"name": "ATV",
-	"p": 2,
-	"url": "https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1756956270&st=rVYHJ3E3tvvMVHZY8iKgqQ&sid=7pscl3z9g9r0&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "STAR TV ",
-	"name": "STAR TV ",
-	"p": 3,
-	"url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "SHOW TV",
-	"name": "SHOW TV",
-	"p": 4,
-	"url": "https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=798i0w3c0e68&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3"		
-  },
+{
+  "epgUrl": "https://iptv-epg.org/files/epg-tr.xml.gz",
+  "channels": [
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "KANAL D",
+      "name": "KANAL D",
+      "p": 1,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+      "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "ATV",
+      "name": "ATV",
+      "p": 2,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+      "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "STAR TV ",
+      "name": "STAR TV ",
+      "p": 3,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+      "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "SHOW TV",
+      "name": "SHOW TV",
+      "p": 4,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc
+"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TV8",
+      "name": "TV8",
+      "p": 6,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TV8.5",
+      "name": "TV8.5",
+      "p": 7,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "HALK TV ",
+      "name": "HALK TV ",
+      "p": 8,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/halk-tv.png",
+      "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TRT 2 ",
+      "name": "TRT 2 ",
+      "p": 10,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-2.png",
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TRT 1 ",
+      "name": "TRT 1 ",
+      "p": 9,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+      "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "TRT BELGESEL ",
+      "name": "TRT BELGESEL ",
+      "p": 10,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-belgesel-tr.png",
+      "url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TRT EBA ",
+      "name": "TRT EBA ",
+      "p": 11,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/EBA_logo.png",
+      "url": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TRT HABER ",
+      "name": "TRT HABER ",
+      "p": 12,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-haber-tr.png",
+      "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "TRT SPOR ",
+      "name": "TRT SPOR ",
+      "p": 13,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-tr.png",
+      "url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "TRT SPOR YILDIZ ",
+      "name": "TRT SPOR YILDIZ ",
+      "p": 14,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-yildiz-tr.png",
+      "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "TRT MÜZİK ",
+      "name": "TRT MÜZİK ",
+      "p": 15,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-muzik-tr.png",
+      "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TRT TÜRK ",
+      "name": "TRT TÜRK ",
+      "p": 16,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-turk-tr.png",
+      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "TRT ÇOCUK ",
+      "name": "TRT ÇOCUK ",
+      "p": 17,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-cocuk-tr.png",
+      "url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "A SPOR  ",
+      "name": "A SPOR  ",
+      "p": 18,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/aspor.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TV 100",
+      "name": "TV 100",
+      "p": 20,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
+      "url": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=79920lasj3yi&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "NUMBER ONE AŞK",
+      "name": "NUMBER ONE AŞK",
+      "p": 21,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-ask-hd-tr.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8?md5=LqI3XxlgP62vHTEC2Lz7SQ&expires=1733178710"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "NUMBER ONE",
+      "name": "NUMBER ONE",
+      "p": 22,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-tr.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "NUMBER ONE TÜRK",
+      "name": "NUMBER ONE TÜRK",
+      "p": 23,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-turk-tr.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "NUMBER ONE DAMAR",
+      "name": "NUMBER ONE DAMAR",
+      "p": 24,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/nr1-damar-hd-tr.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "Fashionone Tv",
+      "name": "Fashionone Tv",
+      "p": 25,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/fashionone-tv.png",
+      "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "360 TV",
+      "name": "360 TV",
+      "p": 26,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+      "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "DMAX",
+      "name": "DMAX",
+      "p": 28,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+      "url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=djBLVDVJSVNjRjNmaGgxMUpCNjVaU1VwSk9IZ3ZuVUU1eENNTHYyTWVmTT0=&sid=798epwgsdsxe&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "DREAM TÜRK",
+      "name": "DREAM TÜRK",
+      "p": 29,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/dream-turk.png",
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "EKOL TV",
+      "name": "EKOL TV",
+      "p": 30,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Ekol_TV.png",
+      "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "HABERTÜRK",
+      "name": "HABERTÜRK",
+      "p": 31,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haberturk-tr.png",
+      "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "KANAL 7",
+      "name": "KANAL 7",
+      "p": 32,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
+      "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "MAVİ KARADENİZ",
+      "name": "MAVİ KARADENİZ",
+      "p": 33,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/mavi-karadeniz-tr.png",
+      "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "NTV",
+      "name": "NTV",
+      "p": 34,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ntv-tr.png",
+      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWER LOVE",
+      "name": "POWER LOVE",
+      "p": 36,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_LOVE.png",
+      "url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWER DANCE",
+      "name": "POWER DANCE",
+      "p": 37,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_DANCEpng.png",
+      "url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWER HİTS",
+      "name": "POWER HİTS",
+      "p": 38,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/power-tv-tr.png",
+      "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWERTÜRK AKUSTİK",
+      "name": "POWERTÜRK AKUSTİK",
+      "p": 39,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_AKUSTİK.png",
+      "url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWERTÜRK SLOW",
+      "name": "POWERTÜRK SLOW",
+      "p": 40,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_SLOW.png",
+      "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWERTÜRK",
+      "name": "POWERTÜRK",
+      "p": 41,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/powerturk-tr.png",
+      "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "POWERTÜRK TAPTAZE",
+      "name": "POWERTÜRK TAPTAZE",
+      "p": 42,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/POWER_TURK_TAPTAZE.png",
+      "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TBMM TV",
+      "name": "TBMM TV",
+      "p": 44,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tbmm-tv-tr.png",
+      "url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st="
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TLC",
+      "name": "TLC",
+      "p": 46,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
+      "url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=Sk5QZ1Y0VG1YMmJBa082all3VkdBcCtDUDI5T2VOT29MZitvUHhQbVRxZz0=&sid=7991xi7llbrw&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "TARIM TV",
+      "name": "TARIM TV",
+      "p": 47,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tarim-tv-tr.png",
+      "url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "A2 TV",
+      "name": "A2 TV",
+      "p": 48,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TEVE 2",
+      "name": "TEVE 2",
+      "p": 49,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+      "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "ÇAY TV",
+      "name": "ÇAY TV",
+      "p": 50,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cay-tv.png",
+      "url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "TJK TV",
+      "name": "TJK TV",
+      "p": 94,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tjk-tv-tr.png",
+      "url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "TJK 2 TV",
+      "name": "TJK 2 TV",
+      "p": 94,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tay-tv-tr.png",
+      "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "HT SPOR",
+      "name": "HT SPOR",
+      "p": 94,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/HT%20Spor.png",
+      "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "NOW TV",
+      "name": "NOW TV",
+      "p": 5,
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "url": "https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext=m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "SözcüTvM3U8",
+      "name": "Sözcü TV",
+      "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
+      "url": "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2036794972b992547192b9"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "AtvYedek",
+      "name": "Atv Yedek",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+      "url": "https://www.atv.com.tr/canli-yayin"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "NowYedek",
+      "name": "NOW TV Yedek",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "url": "https://www.nowtv.com.tr/canli-yayin"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "KralPop",
+      "name": "Kral Pop",
+      "logo": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",
+      "url": "https://vavoo-proxy.oktay2617.workers.dev/https://vavoo.to/vavoo-iptv/play/401243274930b2f0a2040b"
+    },
+    {
+      "country": "Turkey",
+      "category": "Müzik",
+      "id": "DENGEZELALTV",
+      "name": "DENGE ZELAL TV",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/denge_zelal.png",
+      "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8"
+    },
+     {
+      "country": "Turkey",
+      "category": "Ulusal",
+      "id": "TrtGenç",
+      "name": "TRT GENÇ",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-genc.0b68abf.png",
+      "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
+    },
+{
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "CNN TURK HD",
+                         "name":  "CNN TURK HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/427315396743dfe9212c50"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "A HABER HD",
+                         "name":  "A HABER HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/535272601f07c2fbd1f2b"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "FLASH HABER TV .c",
+                         "name":  "FLASH HABER TV .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3806979011e0d72cfb10fc"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "HABER GLOBAL .s",
+                         "name":  "HABER GLOBAL .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2483036808d11f366dc42d"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TELE 1 .c",
+                         "name":  "TELE 1 .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/135762464349d3676ea069"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "24 .s",
+                         "name":  "24 .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/17029379329ed4b84db05f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TGRT HABER HD .b",
+                         "name":  "TGRT HABER HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/28143924587b833f07f3fe"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TV 100",
+                         "name":  "TV 100",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?\u0026sid=79920lasj3yi\u0026app=356e7599-d81d-4357-935a-355a1ad9846e\u0026ce=2"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "ULUSAL KANAL .b",
+                         "name":  "ULUSAL KANAL .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1910048817671d14cfb4cd"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "BLOOMBERG HT HD .b",
+                         "name":  "BLOOMBERG HT HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/236989031b5bce3e87ca9"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "EKOTURK .c",
+                         "name":  "EKOTURK .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/12014567934c0bd95e7df8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "KRT TV HD .b",
+                         "name":  "KRT TV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/535260022435d62839cf5"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "BENGUTURK .s",
+                         "name":  "BENGUTURK .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3677880546b91991c857cd"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "ULKETV HD .b",
+                         "name":  "ULKETV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/32033343438cc3c5fe5041"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "A PARA RAW .b",
+                         "name":  "A PARA RAW .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4202445834678957f05238"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TVNET HD .b",
+                         "name":  "TVNET HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/11824807968f3783ce706f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "A NEWS HD .b",
+                         "name":  "A NEWS HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/387890889759c06a2c4da1"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TV5 .b",
+                         "name":  "TV5 .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/935671761c36c5491c3ed"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "LIDER HABER .c",
+                         "name":  "LIDER HABER .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/70369886837bb68700663"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Spor",
+                         "id":  "BEIN SPORTS HABER HD .b",
+                         "name":  "BEIN SPORTS HABER HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3989995533d0efea1c8696"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Spor",
+                         "id":  "FB TV .b",
+                         "name":  "FB TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/25123405584d863ac39980"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: TRT 1 HD .b",
+                         "name":  "4K TR: TRT 1 HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1762199258e25181300f62"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: KANAL D HD .b",
+                         "name":  "4K TR: KANAL D HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/16776796840463f6dcff41"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: ATV HD .b",
+                         "name":  "4K TR: ATV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2325261286cc81b01cf95d"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: NOW HD .b",
+                         "name":  "4K TR: NOW HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2578197593a87a0ba68631"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: STAR TV HD .b",
+                         "name":  "4K TR: STAR TV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/219297129315c074c03f8e"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "4K TR: SHOW TV HD .b",
+                         "name":  "4K TR: SHOW TV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/8795889605c7795ac9528"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "TV 8 HD (H265) .b",
+                         "name":  "TV 8 HD (H265) .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/329802627004ee30bd6aa0"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "TV 8.5 FHD .b",
+                         "name":  "TV 8.5 FHD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/19082658164debc10cdc44"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "BEYAZ TV HD .b",
+                         "name":  "BEYAZ TV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2755756005a4ea6e7589ca"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "TEVE 2 FHD .b",
+                         "name":  "TEVE 2 FHD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/42295295583463c26f2597"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "TV 8 INT .b",
+                         "name":  "TV 8 INT .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1376775989e84fdc9d4aa"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "A2 HD .b",
+                         "name":  "A2 HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/867875861079562f15007"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "DMAX HD .b",
+                         "name":  "DMAX HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1595495667292319e147ce"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal HD",
+                         "id":  "TLC TV .b",
+                         "name":  "TLC TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/328164178659cf433d3442"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "KÃ–Y TV .c",
+                         "name":  "KÃ–Y TV .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/870320507489feac51e9a"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "YABAN TV HD .b",
+                         "name":  "YABAN TV HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/178850393550c13d869fbf"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "CIFTCI TV .c",
+                         "name":  "CIFTCI TV .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3124431103898180a5f0f6"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "AGRO TV .c",
+                         "name":  "AGRO TV .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/163358782054d9002fa0b0"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "HABITAT .c",
+                         "name":  "HABITAT .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1281270568d7cb2533f147"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Belgesel",
+                         "id":  "TARIH TV .c",
+                         "name":  "TARIH TV .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3856957052050da882aa10"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "AKILLI TAVSAN MOMO .s",
+                         "name":  "AKILLI TAVSAN MOMO .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4093001640e8d2942477e2"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "ANGRY BIRDS .b",
+                         "name":  "ANGRY BIRDS .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/40635964179eb6e60f85f9"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "BOOBA TV .b",
+                         "name":  "BOOBA TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2703864948c3ea529a2063"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "BULMACA KULESI .b",
+                         "name":  "BULMACA KULESI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/910953672551cfa880ee0"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "CAILLOU .c",
+                         "name":  "CAILLOU .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4136709820104f9b927f66"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "CANIM KARDESIM TV .b",
+                         "name":  "CANIM KARDESIM TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/37370371587d37e629c448"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "CBEEBIES HD .b",
+                         "name":  "CBEEBIES HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/28643002461fc171ebe61a"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "CHICKY TV .b",
+                         "name":  "CHICKY TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/940839479e2753e3433f5"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "CILGIN ORMAN TV .b",
+                         "name":  "CILGIN ORMAN TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3892774129e556db3be974"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "EGE ILE GAGA .b",
+                         "name":  "EGE ILE GAGA .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/36508969020f6d070f25ea"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "ELIF VE ARKADASLARI .b",
+                         "name":  "ELIF VE ARKADASLARI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3515455741a6f5d78304a1"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "ELIFIN DUSLERI .s",
+                         "name":  "ELIFIN DUSLERI .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/24063236237528e0650313"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "ELIFIN RUYASI .b",
+                         "name":  "ELIFIN RUYASI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/399108163294dea6002810"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "GIZEMLER DIYARI .b",
+                         "name":  "GIZEMLER DIYARI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/137618031334f1d315d6c4"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "HEIDI .b",
+                         "name":  "HEIDI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/283434169125bc54938165"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "ITFAYECI SAM .b",
+                         "name":  "ITFAYECI SAM .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/9380153280c48b3769351"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "KELOGLAN TV .b",
+                         "name":  "KELOGLAN TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4644476933bb028f5c20f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "KOSTEBEKGILLER TV .b",
+                         "name":  "KOSTEBEKGILLER TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/277878129786cfb72a8e2e"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "KUKILI TV .b",
+                         "name":  "KUKILI TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/28052256344d5af5b5d64c"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "LEYLEK KARDES .b",
+                         "name":  "LEYLEK KARDES .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/528021399004e91a38c73"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "LIMON ZEYTIN .b",
+                         "name":  "LIMON ZEYTIN .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4190426847132e27b0c524"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "MASA KOCAAYI .b",
+                         "name":  "MASA KOCAAYI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3836687525da0a2ef9dd66"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "MASAL .s",
+                         "name":  "MASAL .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/408975653674b39bcbabbf"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "MASAL TV .b",
+                         "name":  "MASAL TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/517032049b283af7f868b"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "MIMOCAN TV .b",
+                         "name":  "MIMOCAN TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2175768896e5f35d5d7b27"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "Dinamik Çocuk",
+                         "name":  "Dinamik Çocuk",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2140655971f1ad35201549"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "NASREDDIN HOCA .b",
+                         "name":  "NASREDDIN HOCA .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2930757080c4b0b0917745"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "NILOYA HD+ .b",
+                         "name":  "NILOYA HD+ .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/692811579f95ab595b603"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "OSCAR COLLERDE .b",
+                         "name":  "OSCAR COLLERDE .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2879086761a7691b067170"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PAK PIRPIR TV .b",
+                         "name":  "PAK PIRPIR TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/42208430696fbda8155f99"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PEPE TV .b",
+                         "name":  "PEPE TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/16242993968d7df0501c35"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PAW PETROL .b",
+                         "name":  "PAW PETROL .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1801427716cdcb87ac5fef"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PIJAMA MASKELILER TV .b",
+                         "name":  "PIJAMA MASKELILER TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/10250618615799907394b"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PIRIL TV .b",
+                         "name":  "PIRIL TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/16567203849c653dfcba8b"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "PISI TV .b",
+                         "name":  "PISI TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/349052544410354f05ef9"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "POKEMON HD .b",
+                         "name":  "POKEMON HD .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/11691035975409e65ccbdf"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "RUYA TRENI .b",
+                         "name":  "RUYA TRENI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/28980136277243b68661a6"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SEKER HOCA .b",
+                         "name":  "SEKER HOCA .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/133120184802af54b3162c"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SERCE KUS TV .b",
+                         "name":  "SERCE KUS TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2244768338fefc6006bad"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SEVIMLI DOSTLAR .b",
+                         "name":  "SEVIMLI DOSTLAR .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/264293546325ff235dc88f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SL NILOYA .c",
+                         "name":  "SL NILOYA .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3491525845a8862ff934e0"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SON C BOOM .b",
+                         "name":  "SON C BOOM .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/6664660641f7f8de14ebd"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "SÃœNGER BOB .c",
+                         "name":  "SÃœNGER BOB .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/386858202535408958c42e"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "TAYO TV .b",
+                         "name":  "TAYO TV .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/38337041757a6e69cbe733"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Çocuk",
+                         "id":  "TOM \u0026 JERRY .b",
+                         "name":  "TOM \u0026 JERRY .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/410018565922373c7100a2"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "DINAMIK YESILCAM .b",
+                         "name":  "DINAMIK YESILCAM .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/10475251689d5a1f09d886"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "FIX CINEMA YESILCAM .b",
+                         "name":  "FIX CINEMA YESILCAM .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/411086166261597686dd33"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "YESILCAM .c",
+                         "name":  "YESILCAM .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/15843353838096cf65cb7d"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "YESILCAM 2 .s",
+                         "name":  "YESILCAM 2 .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/8685860582340e8bd0469"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "YESILCAM 3 .s",
+                         "name":  "YESILCAM 3 .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/245742586a1ae349871a9"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "GLOBAL BOX KEMAL SUNAL .b",
+                         "name":  "GLOBAL BOX KEMAL SUNAL .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/4275446197442fb43a2e5e"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "TURKASAT KEMAL SUNAL .c",
+                         "name":  "TURKASAT KEMAL SUNAL .c",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3672931378fa31e194ae4"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "FIX CINEMA YERLI .b",
+                         "name":  "FIX CINEMA YERLI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/239201347a28a02eb2603"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "GLOBAL BOX YERLI .b",
+                         "name":  "GLOBAL BOX YERLI .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/23222622101ba7812517d7"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "SINEMA YERLI 1 .s",
+                         "name":  "SINEMA YERLI 1 .s",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/24848056995333a11423de"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "YeÅŸilÃ§am",
+                         "id":  "GLOBAL BOX YE IL AM .b",
+                         "name":  "GLOBAL BOX YE IL AM .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2046943434abdeefd99cc9"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "KANAL D HEVC .b",
+                         "name":  "KANAL D HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/41138222975f1bf462585f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "ATV HEVC .b",
+                         "name":  "ATV HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/35111504916c34560a3894"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "STAR TV HEVC .b",
+                         "name":  "STAR TV HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1386325794720c26c4132"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "FOX TV HEVC .b",
+                         "name":  "FOX TV HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/2907081311ea1629502e0f"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "SHOW TV HEVC .b",
+                         "name":  "SHOW TV HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/37476469073149a4f729bc"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "TRT 1 HEVC .b",
+                         "name":  "TRT 1 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/194373112d73ddb5898a4"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "TV 8 HEVC .b",
+                         "name":  "TV 8 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1662562034e8a914e62dce"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "TEVE 2 HEVC .b",
+                         "name":  "TEVE 2 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/1333128393a9d21f4d5773"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "KANAL 7 HEVC .b",
+                         "name":  "KANAL 7 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3897412802d4338ee87b0a"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "KANAL 360 HEVC .b",
+                         "name":  "KANAL 360 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/335705245336ec860488ed"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "DMAX HEVC .b",
+                         "name":  "DMAX HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/3928493138c10993284095"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "BEYAZ TV HEVC .b",
+                         "name":  "BEYAZ TV HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/15107839012fa9f66fac00"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "A2 HEVC .b",
+                         "name":  "A2 HEVC .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/128957614556bfb7e20bde"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "360 RAW .b",
+                         "name":  "360 RAW .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/17026451919e48523c30db"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Ulusal Hevc",
+                         "id":  "TV8 5 RAW .b",
+                         "name":  "TV8 5 RAW .b",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://kool.to/kool-iptv/play/241220593740c7258ef669"
+                     }
 
-  {
-	"country": "Turkey",
-	"id": "TV8",
-	"name": "TV8",
-	"p": 6,
-	"url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "TV8.5",
-	"name": "TV8.5",
-	"p": 7,
-	"url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "HALK TV ",
-	"name": "HALK TV ",
-	"p": 8,
-	"url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
-  },
-  {
-	"country": "Haber",
-	"id": "HALK TV ",
-	"name": "HALK TV ",
-	"p": 8,
-	"url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
-  },
-  {
-	"country": "Turkey",
-	"id": "TRT 2 ",
-	"name": "TRT 2 ",
-	"p": 10,
-	"url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country": "Radio",
-	"id": "Alem Fm ",
-	"name": "Alem Fm ",
-	"p": 12,
-	"url": "https://edge1.radyotvonline.net/shoutcast/play/alemfm"
-  },
-  {
-	"country": "Radio",
-	"id": "Joy FM ",
-	"name": "Joy FM ",
-	"p": 13,
-	"url": "https://25703.live.streamtheworld.com/JOY_FM128AAC.aac"
-  },
-  {
-	"country": "Radio",
-	"id": "Radyo 45'lik ",
-	"name": "Radyo 45'lik ",
-	"p": 14,
-	"url":"https://stream.radyo45lik.com:4545/"
-  },
-  {
-	"country": "Radio",
-	"id": "Radyo Odtu HİT ",
-	"name": "Radyo Odtu HİT ",
-	"p": 15,
-	"url": "https://stream3.radyoodtu.com.tr:8000/hit"
-  },
-  {
-	"country": "Turkey",
-	"id": "TRT 1 ",
-	"name": "TRT 1 ",
-	"p": 9,
-	"url": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=798l6uiv4gtd&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2"
-  },
-  {
-	"country": "Turkey",
-	"id": "TRT BELGESEL ",
-	"name": "TRT BELGESEL ",
-	"p": 10,
-	"url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country": "Belgesel",
-	"id": "TRT BELGESEL ",
-	"name": "TRT BELGESEL ",
-	"p": 10,
-	"url": "https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country": "Turkey",
-	"id": "TRT EBA ",
-	"name": "TRT EBA ",
-	"p": 11,
-	"url": "https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country": "Turkey",
-	"id": "TRT HABER ",
-	"name": "TRT HABER ",
-	"p": 12,
-	"url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country": "Haber",
-	"id": "TRT HABER ",
-	"name": "TRT HABER ",
-	"p": 12,
-	"url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
-  },
-  {
-	"country":"Turkey",
-	"id": "TRT SPOR ",
-	"name": "TRT SPOR ",
-	"p": 13,
-	"url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
-  },
-  {	
-	"country":"Spor",
-	"id": "TRT SPOR ",
-	"name": "TRT SPOR ",
-	"p": 13,
-	"url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
-  },
-  {	
-	"country":"Spor",
-	"id": "TRT SPOR YILDIZ ",
-	"name": "TRT SPOR YILDIZ ",
-	"p": 14,
-	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2"	
-  },
-  {	
-	"country":"Turkey",
-	"id": "TRT SPOR YILDIZ ",
-	"name": "TRT SPOR YILDIZ ",
-	"p": 14,
-	"url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?&sid=7990du8yh198&app=9f849b8c-7fc0-46-a9ec-ff8e2b35960d&ce=2"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TRT MÜZİK ",
-	"name": "TRT MÜZİK ",
-	"p": 15,
-	"url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "TRT MÜZİK ",
-	"name": "TRT MÜZİK ",
-	"p": 15,
-	"url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TRT TÜRK ",
-	"name": "TRT TÜRK ",
-	"p": 16,
-	"url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TRT ÇOCUK ",
-	"name": "TRT ÇOCUK ",
-	"p": 17,
-	"url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Çocuk",
-	"id": "TRT ÇOCUK ",
-	"name": "TRT ÇOCUK ",
-	"p": 17,
-	"url": "https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "A SPOR  ",
-	"name": "A SPOR  ",
-	"p": 18,
-	"url": "https://vavoo.to/play/1561958971/index.m3u8"
- },
-  {	
-	"country":"Spor",
-	"id": "A SPOR  ",
-	"name": "A SPOR  ",
-	"p": 18,
-	"url": "https://vavoo.to/play/1561958971/index.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TV 100",
-	"name": "TV 100",
-	"p": 20,
-	"url": "https://tv100.daioncdn.net/tv100/tv100_1080p.m3u8?&sid=79920lasj3yi&app=356e7599-d81d-4357-935a-355a1ad9846e&ce=2"
-  },
-  {	
-	"country":"Turkey",
-	"id": "NUMBER ONE AŞK",
-	"name": "NUMBER ONE AŞK",
-	"p": 21,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8?md5=LqI3XxlgP62vHTEC2Lz7SQ&expires=1733178710"
-  },
-  {	
-	"country":"Müzik",
-	"id": "NUMBER ONE AŞK",
-	"name": "NUMBER ONE AŞK",
-	"p": 21,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunklist_b400000.m3u8?md5=LqI3XxlgP62vHTEC2Lz7SQ&expires=1733178710"
-  },
-  {	
-	"country":"Müzik",
-	"id": "NUMBER ONE",
-	"name": "NUMBER ONE",
-	"p": 22,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "NUMBER ONE",
-	"name": "NUMBER ONE",
-	"p": 22,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "NUMBER ONE TÜRK",
-	"name": "NUMBER ONE TÜRK",
-	"p": 23,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "NUMBER ONE TÜRK",
-	"name": "NUMBER ONE TÜRK",
-	"p": 23,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "NUMBER ONE DAMAR",
-	"name": "NUMBER ONE DAMAR",
-	"p": 24,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "NUMBER ONE DAMAR",
-	"name": "NUMBER ONE DAMAR",
-	"p": 24,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "Fashionone Tv",
-	"name": "Fashionone Tv",
-	"p": 25,
-	"url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist_b400000.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "360 TV",
-	"name": "360 TV",
-	"p": 26,
-	"url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "DMAX",
-	"name": "DMAX",
-	"p": 28,
-	"url": "https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=djBLVDVJSVNjRjNmaGgxMUpCNjVaU1VwSk9IZ3ZuVUU1eENNTHYyTWVmTT0=&sid=798epwgsdsxe&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3"
-  },
-  {	
-	"country":"Turkey",
-	"id": "DREAM TÜRK",
-	"name": "DREAM TÜRK",
-	"p": 29,
-	"url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953"
-  },
-  {	
-	"country":"Müzik",
-	"id": "DREAM TÜRK",
-	"name": "DREAM TÜRK",
-	"p": 29,
-	"url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953"
-  },
-  {	
-	"country":"Turkey",
-	"id": "EKOL TV",
-	"name": "EKOL TV",
-	"p": 30,
-	"url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "HABERTÜRK",
-	"name": "HABERTÜRK",
-	"p": 31,
-	"url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
-  },
-  {	
-	"country":"Haber",
-	"id": "HABERTÜRK",
-	"name": "HABERTÜRK",
-	"p": 31,
-	"url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
-  },
-  {	
-	"country":"Turkey",
-	"id": "KANAL 7",
-	"name": "KANAL 7",
-	"p": 32,
-	"url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
-  },
-  {	
-	"country":"Turkey",
-	"id": "MAVİ KARADENİZ",
-	"name": "MAVİ KARADENİZ",
-	"p": 33,
-	"url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "NTV",
-	"name": "NTV",
-	"p": 34,
-	"url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce"
-  },
-  {	
-	"country":"Haber",
-	"id": "NTV",
-	"name": "NTV",
-	"p": 34,
-	"url": "https://dogus.daioncdn.net/ntv/ntv.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWER LOVE",
-	"name": "POWER LOVE",
-	"p": 36,
-	"url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWER LOVE",
-	"name": "POWER LOVE",
-	"p": 36,
-	"url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWER DANCE",
-	"name": "POWER DANCE",
-	"p": 37,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWER DANCE",
-	"name": "POWER DANCE",
-	"p": 37,
-	"url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWER HİTS",
-	"name": "POWER HİTS",
-	"p": 38,
-	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWER HİTS",
-	"name": "POWER HİTS",
-	"p": 38,
-	"url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWERTÜRK AKUSTİK",
-	"name": "POWERTÜRK AKUSTİK",
-	"p": 39,
-	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWERTÜRK AKUSTİK",
-	"name": "POWERTÜRK AKUSTİK",
-	"p": 39,
-	"url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWERTÜRK SLOW",
-	"name": "POWERTÜRK SLOW",
-	"p": 40,
-	"url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWERTÜRK SLOW",
-	"name": "POWERTÜRK SLOW",
-	"p": 40,
-	"url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWERTÜRK",
-	"name": "POWERTÜRK",
-	"p": 41,
-	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWERTÜRK",
-	"name": "POWERTÜRK",
-	"p": 41,
-	"url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8"
-  },
-  {	
-	"country":"Müzik",
-	"id": "POWERTÜRK TAPTAZE",
-	"name": "POWERTÜRK TAPTAZE",
-	"p": 42,
-	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "POWERTÜRK TAPTAZE",
-	"name": "POWERTÜRK TAPTAZE",
-	"p": 42,
-	"url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TBMM TV",
-	"name": "TBMM TV",
-	"p": 44,
-	"url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st="
-  },
-  {	
-	"country":"Haber",
-	"id": "TBMM TV",
-	"name": "TBMM TV",
-	"p": 44,
-	"url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8?e=&st="
-  },
-  {	
-	"country":"Turkey",
-	"id": "TLC",
-	"name": "TLC",
-	"p": 46,
-	"url": "https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=Sk5QZ1Y0VG1YMmJBa082all3VkdBcCtDUDI5T2VOT29MZitvUHhQbVRxZz0=&sid=7991xi7llbrw&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TARIM TV",
-	"name": "TARIM TV",
-	"p": 47,
-	"url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8"
-  },
-  {	
-	"country":"Belgesel",
-	"id": "TARIM TV",
-	"name": "TARIM TV",
-	"p": 47,
-	"url": "https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "A2 TV",
-	"name": "A2 TV",
-	"p": 48,
-	"url": "https://vavoo.to/play/1735806851/index.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TEVE 2",
-	"name": "TEVE 2",
-	"p": 49,
-	"url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
-  },
-  {	
-	"country":"Turkey",
-	"id": "ÇAY TV",
-	"name": "ÇAY TV",
-	"p": 50,
-	"url": "https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Baba Radyo",
-	"name": "Baba Radyo",
-	"p": 51,
-	"url": "https://ssldyg.radyotvonline.com/best/babaradyo.stream/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Best Fm",
-	"name": "Best Fm",
-	"p": 52,
-	"url": "https://officialbestfm.radyotvonline.net/bestfmofficial"
-  },
-  {	
-	"country":"Radio",
-	"id": "VIRGIN RADIO TÜRKIYE",
-	"name": "VIRGIN RADIO TÜRKIYE",
-	"p": 53,
-	"url": "https://28933.live.streamtheworld.com/VIRGIN_RADIO128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "İstanbul Fm",
-	"name": "İstanbul Fm",
-	"p": 54,
-	"url": "https://ssldyg2.radyotvonline.com/istanbulfm/istanbulfm.stream/chunklist_w1117139919.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Joy Türk",
-	"name": "Joy Türk",
-	"p": 55,
-	"url": "https://27863.live.streamtheworld.com/JOY_TURK128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "Kral Fm",
-	"name": "Kral Fm",
-	"p": 56,
-	"url": "https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Kral Pop",
-	"name": "Kral Pop",
-	"p": 57,
-	"url": "https://dygedge.radyotvonline.net/kralpop/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Metro Fm",
-	"name": "Metro Fm",
-	"p": 57,
-	"url": "https://25583.live.streamtheworld.com/METRO_FM128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "Number1 FM",
-	"name": "Number1 FM",
-	"p": 58,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Best Of Number1",
-	"name": "Best Of Number1",
-	"p": 59,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Number1 Türk Fm",
-	"name": "Number1 Türk Fm",
-	"p": 60,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Pal Nostalji",
-	"name": "Pal Nostalji",
-	"p": 61,
-	"url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Pal Fm",
-	"name": "Pal Fm",
-	"p": 62,
-	"url": "https://moondigitaledge.radyotvonline.net/palfm/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "POP 90",
-	"name": "POP 90",
-	"p": 63,
-	"url": "https://25653.live.streamtheworld.com/POP90128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Fm",
-	"name": "Power Fm",
-	"p": 64,
-	"url": "https://live.powerapp.com.tr/powerfmadver/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Pop",
-	"name": "Power Pop",
-	"p": 65,
-	"url": "https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Türk",
-	"name": "Power Türk",
-	"p": 66,
-	"url": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "GÖNÜL TÜRKÜLERİ",
-	"name": "GÖNÜL TÜRKÜLERİ",
-	"p": 67,
-	"url": "https://25453.live.streamtheworld.com/GONUL_TURKULERI128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "BABYJOY",
-	"name": "BABYJOY",
-	"p": 68,
-	"url": "https://22733.live.streamtheworld.com/SC009_SO1AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Ege",
-	"name": "Radyo Ege",
-	"p": 69,
-	"url": "https://istek.ozelip.com/radyoege"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu ROCK",
-	"name": "Radyo Odtu ROCK",
-	"p": 72,
-	"url": "https://stream3.radyoodtu.com.tr:8000/rock"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu CANLI",
-	"name": "Radyo Odtu CANLI",
-	"p": 73,
-	"url": "https://stream3.radyoodtu.com.tr:8000/canli"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu EASY",
-	"name": "Radyo Odtu EASY",
-	"p": 74,
-	"url": "https://stream3.radyoodtu.com.tr:8000/easy"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu KARIŞIKKASET",
-	"name": "Radyo Odtu KARIŞIKKASET",
-	"p": 75,
-	"url": "https://stream3.radyoodtu.com.tr:8000/karisikkaset"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu KIRKHARAMİLER",
-	"name": "Radyo Odtu KIRKHARAMİLER",
-	"p": 76,
-	"url": "https://stream3.radyoodtu.com.tr:8000/40_haramiler"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Odtu HİPHOP",
-	"name": "Radyo Odtu HİPHOP",
-	"p": 77,
-	"url": "https://stream3.radyoodtu.com.tr:8000/hiphop"
-  },
-  {	
-	"country":"Radio",
-	"id": "SÜPER FM",
-	"name": "SÜPER FM",
-	"p": 78,
-	"url": "https://28553.live.streamtheworld.com/SUPER_FM128AAC.aac"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio CANLI",
-	"name": "Radyo Trio CANLI",
-	"p": 79,
-	"url": "https://radyotrio.radyotvonline.net/radyotrio"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio RAP",
-	"name": "Radyo Trio RAP",
-	"p": 80,
-	"url": "https://yayin.radyotrio.com/8016/stream"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio NOSTALJİ",
-	"name": "Radyo Trio NOSTALJİ",
-	"p": 81,
-	"url": "https://yayin.radyotrio.com/8012/stream"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Trio BALKAN",
-	"name": "Radyo Trio BALKAN",
-	"p": 82,
-	"url": "https://yayin.radyotrio.com/8014/stream"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz",
-	"name": "Radyo Turkuvaz",
-	"p": 83,
-	"url": "https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz ROMANTİK",
-	"name": "Radyo Turkuvaz ROMANTİK",
-	"p": 84,
-	"url": "https://trkvz-radyolar.ercdn.net/turkuvazromantik/chunklist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz MUSİKİ",
-	"name": "Radyo Turkuvaz MUSİKİ",
-	"p": 84,
-	"url": "https://trkvz-radyolar.ercdn.net/turkuvazmusiki/chunklist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz NOSTALJİ",
-	"name": "Radyo Turkuvaz NOSTALJİ",
-	"p": 85,
-	"url": "https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz EFSANE",
-	"name": "Radyo Turkuvaz EFSANE",
-	"p": 86,
-	"url": "https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Turkuvaz ANADOLU",
-	"name": "Radyo Turkuvaz ANADOLU",
-	"p": 87,
-	"url": "https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8"
-  },
-  {		
-	"country":"Radio",
-	"id": "Slow Türk",
-	"name": "Slow Türk",
-	"p": 90,
-	"url": "https://radyo.duhnet.tv/ak_dtvh_slowturk"
-  },
-  {	
-	"country":"Radio",
-	"id": "TRT Fm",
-	"name": "TRT Fm",
-	"p": 92,
-	"url": "https://trt.radyotvonline.net/trtfm"
-  },
-  {	
-	"country":"Radio",
-	"id": "KAFA RADYO",
-	"name": "KAFA RADYO",
-	"p": 93,
-	"url": "https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8"
-  },
-  {	
-	"country":"Spor",
-	"id": "TJK TV",
-	"name": "TJK TV",
-	"p": 94,
-	"url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
-  },
-  {	
-	"country":"Spor",
-	"id": "TJK 2 TV",
-	"name": "TJK 2 TV",
-	"p": 94,
-	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
- },
-  {	
-	"country":"Turkey",
-	"id": "TJK TV",
-	"name": "TJK TV",
-	"p": 94,
-	"url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
-  },
-  {	
-	"country":"Turkey",
-	"id": "TJK 2 TV",
-	"name": "TJK 2 TV",
-	"p": 94,
-	"url": "https://tjktv-live.tjk.org/tjktv2/tjktv2_1080p.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Plus+",
-	"name": "Power Plus+",
-	"p": 95,
-	"url": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Love",
-	"name": "Power Love",
-	"p": 96,
-	"url": "https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Smooth",
-	"name": "Power Smooth",
-	"p": 97,
-	"url": "https://listen.powerapp.com.tr/powersmooth/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power XL",
-	"name": "Power XL",
-	"p": 98,
-	"url": "https://listen.powerapp.com.tr/powerextralounge/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Earth",
-	"name": "Power Earth",
-	"p": 99,
-	"url": "https://listen.powerapp.com.tr/powerearth/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Deep",
-	"name": "Power Deep",
-	"p": 100,
-	"url": "https://listen.powerapp.com.tr/powerdeep/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "PowerTürk Rap",
-	"name": "PowerTürk Rap",
-	"p": 101,
-	"url": "https://listen.powerapp.com.tr/powerturkrap/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "PowerTürk Akustik",
-	"name": "PowerTürk Akustik",
-	"p": 102,
-	"url": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "PowerTürk Taptaze",
-	"name": "PowerTürk Taptaze",
-	"p": 103,
-	"url": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "PowerTürk Dans",
-	"name": "PowerTürk Dans",
-	"p": 104,
-	"url": "https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power R&B Hip Hop",
-	"name": "Power R&B Hip Hop",
-	"p": 105,
-	"url": "https://listen.powerapp.com.tr/powerrbhiphop/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Power Smooth Jazz",
-	"name": "Power Smooth Jazz",
-	"p": 105,
-	"url": "https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Kiss Fm",
-	"name": "Kiss Fm",
-	"p": 106,
-	"url": "https://kiss.radyotvonline.net/kissfm"
-  },
-  {	
-	"country":"Radio",
-	"id": "Pal Station",
-	"name": "Pal Station",
-	"p": 107,
-	"url": "https://moondigitaledge.radyotvonline.net/palstation/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Fenomen",
-	"name": "Radyo Fenomen",
-	"p": 108,
-	"url": "https://live.radyofenomen.com/fenomen/abr/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Radyo Viva",
-	"name": "Radyo Viva",
-	"p": 109,
-	"url": "https://radyoviva.radyotvonline.net/radyovivaaac"
-  },
-  {	
-	"country":"Radio",
-	"id": "TRT Radyo 1",
-	"name": "TRT Radyo 1",
-	"p": 110,
-	"url": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Number1 Türk Damar",
-	"name": "Number1 Türk Damar",
-	"p": 111,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Number1 Türk Slow",
-	"name": "Number1 Türk Slow",
-	"p": 112,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e318b5ac09_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Number1 Türk 90’lar",
-	"name": "Number1 Türk 90’lar",
-	"p": 113,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/playlist.m3u8"
-  },
-  {	
-	"country":"Radio",
-	"id": "Üsküdar Musiki Cemiyeti Radyosu",
-	"name": "Üsküdar Musiki Cemiyeti Radyosu",
-	"p": 114,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e392765b48_1/playlist.m3u8"
-  },
-
-  {	
-	"country":"Radio",
-	"id": "Number1 Classic",
-	"name": "Number1 Classic",
-	"p": 116,
-	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
-}
   ]
-
-
-
-
-
+}
