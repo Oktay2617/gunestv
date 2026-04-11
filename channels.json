@@ -35,8 +35,7 @@
       "name": "SHOW TV",
       "p": 4,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
-      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc
-"
+      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc"
     },
     {
       "country": "Turkey",
@@ -498,7 +497,7 @@
                          "name":  "CNN TURK HD .G",
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnn-turk.png",
-                         "url":  "https://kool.to/kool-iptv/play/427315396743dfe9212c50"
+                         "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2427315396743dfe9212c50"
                      },
                      {
                          "country":  "Turkey",
