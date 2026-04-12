@@ -574,5 +574,13 @@
 	"name": "Radyo Spor",
 	"p": 117,
 	"url": "http://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8"
+},
+	{	
+	"country":"Radio",
+	"id": "Lig Radyo",
+	"category": "L",
+	"name": "Lig Radyo",
+	"p": 117,
+	"url": "https://ligradyo.radyotvonline.net/ligradyo"
 }
   ]
