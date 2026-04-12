@@ -566,5 +566,13 @@
 	"p": 116,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/N1_Classic.png",
 	"url": "https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8"
+},
+	{	
+	"country":"Radio",
+	"id": "Radyo Spor",
+	"category": "R",
+	"name": "Radyo Spor",
+	"p": 117,
+	"url": "http://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8"
 }
   ]
