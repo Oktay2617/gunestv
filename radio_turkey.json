@@ -582,5 +582,13 @@
 	"name": "Lig Radyo",
 	"p": 117,
 	"url": "https://ligradyo.radyotvonline.net/ligradyo"
+},
+	{	
+	"country":"Radio",
+	"id": "Radyo Gol",
+	"category": "R",
+	"name": "Radyo Gol",
+	"p": 117,
+	"url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol"
 }
   ]
