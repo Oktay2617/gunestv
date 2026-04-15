@@ -17,7 +17,7 @@
       "name": "ATV",
       "p": 2,
       "referer": "https://api.hitnova.net/",
-      "userAgent": "IPTVSmartersPlayer",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
       "url": "https://api.hitnova.net/s/atv/mono.m3u8"
     },
