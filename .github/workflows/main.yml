@@ -1,0 +1,76 @@
+name: Switch channels_turkey domain
+
+on:
+  schedule:
+    # GitHub Actions cron uses UTC. These match 07:00 and 19:00 Europe/Istanbul.
+    - cron: "0 4 * * *"
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Run the morning or evening switch manually
+        required: true
+        default: morning
+        type: choice
+        options:
+          - morning
+          - evening
+
+permissions:
+  contents: write
+
+jobs:
+  switch-domain:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Choose URLs for this run
+        id: config
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            MODE="${{ inputs.mode }}"
+          elif [[ "${{ github.event.schedule }}" == "0 4 * * *" ]]; then
+            MODE="morning"
+          else
+            MODE="evening"
+          fi
+
+          if [[ "$MODE" == "morning" ]]; then
+            echo "from_url=https://vuvuu.oktay2617-61b.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "to_url=https://gunestv.oktay2617.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "commit_message=chore: switch channels_turkey to gunestv domain" >> "$GITHUB_OUTPUT"
+          else
+            echo "from_url=https://gunestv.oktay2617.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "to_url=https://vuvuu.oktay2617-61b.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "commit_message=chore: switch channels_turkey back to vuvuu domain" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update channels_turkey.json
+        run: |
+          python scripts/switch_worker_domain.py \
+            --file channels_turkey.json \
+            --from-url "${{ steps.config.outputs.from_url }}" \
+            --to-url "${{ steps.config.outputs.to_url }}"
+
+      - name: Commit and push if needed
+        shell: bash
+        run: |
+          if git diff --quiet -- channels_turkey.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add channels_turkey.json
+          git commit -m "${{ steps.config.outputs.commit_message }}"
+          git push
