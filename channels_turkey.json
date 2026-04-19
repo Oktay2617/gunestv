@@ -685,7 +685,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TRT 1 HD .G",
                          "name":  "TRT 1 HD .G",
-                         "p":  "",
+                         "p":  "6",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1762199258e25181300f62"
                      },
@@ -694,7 +694,7 @@
                          "category":  "Ulusal HD",
                          "id":  "KanalD_2.tr",
                          "name":  "KANAL D HD .G",
-                         "p":  "",
+                         "p":  "1",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16776796840463f6dcff41"
                      },
@@ -703,7 +703,7 @@
                          "category":  "Ulusal HD",
                          "id":  "ATV HD .G",
                          "name":  "ATV HD .G",
-                         "p":  "",
+                         "p":  "2",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2325261286cc81b01cf95d"
                      },
@@ -712,7 +712,7 @@
                          "category":  "Ulusal HD",
                          "id":  "NOW HD .G",
                          "name":  "NOW HD .G",
-                         "p":  "",
+                         "p":  "4",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2578197593a87a0ba68631"
                      },
@@ -721,7 +721,7 @@
                          "category":  "Ulusal HD",
                          "id":  "STAR TV HD .G",
                          "name":  "STAR TV HD .G",
-                         "p":  "",
+                         "p":  "3",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F219297129315c074c03f8e"
                      },
@@ -730,7 +730,7 @@
                          "category":  "Ulusal HD",
                          "id":  "SHOW TV HD .G",
                          "name":  "SHOW TV HD .G",
-                         "p":  "",
+                         "p":  "5",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8795889605c7795ac9528"
                      },
@@ -739,7 +739,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV8 HD .G",
                          "name":  "TV8 HD .G",
-                         "p":  "",
+                         "p":  "7",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F329802627004ee30bd6aa0"
                      },
@@ -748,7 +748,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV 8.5 HD .G",
                          "name":  "TV 8.5 HD .G",
-                         "p":  "",
+                         "p":  "8",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19082658164debc10cdc44"
                      },
@@ -775,7 +775,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV 8 INT .G",
                          "name":  "TV 8 INT .G",
-                         "p":  "",
+                         "p":  "9",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1376775989e84fdc9d4aa"
                      },
