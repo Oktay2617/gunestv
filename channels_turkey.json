@@ -1498,6 +1498,15 @@
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
                          "url":  "https://vuvuu.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F241220593740c7258ef669"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Heberler",
+                         "id":  "TytTürk",
+                         "name":  "TYT TÜRK",
+                         "p":  "",
+                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
+                         "url":  "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
                      }
 
   ]
