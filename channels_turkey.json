@@ -1507,7 +1507,15 @@
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
                          "url":  "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
+                     },
+                         {
+                         "country":  "Turkey",
+                         "category":  "Heber",
+                         "id":  "CNBC-e",
+                         "name":  "CNBC-e",
+                         "p":  "",
+                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
+                         "url":  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
                      }
-
   ]
 }
