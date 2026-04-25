@@ -4,25 +4,27 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "KANAL D",
+      "id": "KanalD.tr",
+      "epg_id": "KanalD.tr",
       "name": "KANAL D",
       "p": 1,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
       "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
     },
-    {
+     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "Atv.tr",
+      "id": "ATV.tr",
       "name": "ATV",
       "p": 2,
+      "referer": "https://api.hitnova.net/",
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-      "url": "http://89.187.191.41/ATV-HD-TR/video.m3u8"
+      "url": "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F125559433707e42d1e715f "
     },
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "STAR TV ",
+      "id": "StarTV.tr",
       "name": "STAR TV ",
       "p": 3,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
@@ -31,7 +33,7 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "SHOW TV",
+      "id": "ShowTV.tr",
       "name": "SHOW TV",
       "p": 4,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
@@ -40,7 +42,7 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "TV8",
+      "id": "TV8.tr",
       "name": "TV8",
       "p": 6,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
@@ -49,7 +51,7 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "TV8.5",
+      "id": "TV8,5.tr",
       "name": "TV8.5",
       "p": 7,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
@@ -67,7 +69,7 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "TRT 2 ",
+      "id": "TRT2.tr",
       "name": "TRT 2 ",
       "p": 10,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-2.png",
@@ -76,7 +78,7 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "TRT 1 ",
+      "id": "TRT1.tr",
       "name": "TRT 1 ",
       "p": 9,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
@@ -85,7 +87,7 @@
     {
       "country": "Turkey",
       "category": "Belgesel",
-      "id": "TRT BELGESEL ",
+      "id": "TRTBelgesel.tr",
       "name": "TRT BELGESEL ",
       "p": 10,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-belgesel-tr.png",
@@ -684,16 +686,17 @@
                          "category":  "Ulusal HD",
                          "id":  "TRT 1 HD .G",
                          "name":  "TRT 1 HD .G",
-                         "p":  "",
+                         "p":  "6",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1762199258e25181300f62"
                      },
                      {
                          "country":  "Turkey",
                          "category":  "Ulusal HD",
-                         "id":  "KANAL D HD .G",
+                         "id":  "KanalD_2.tr",
+                         "epg_id": "KanalD.tr",
                          "name":  "KANAL D HD .G",
-                         "p":  "",
+                         "p":  "1",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F16776796840463f6dcff41"
                      },
@@ -702,7 +705,7 @@
                          "category":  "Ulusal HD",
                          "id":  "ATV HD .G",
                          "name":  "ATV HD .G",
-                         "p":  "",
+                         "p":  "2",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2325261286cc81b01cf95d"
                      },
@@ -711,7 +714,7 @@
                          "category":  "Ulusal HD",
                          "id":  "NOW HD .G",
                          "name":  "NOW HD .G",
-                         "p":  "",
+                         "p":  "4",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2578197593a87a0ba68631"
                      },
@@ -720,7 +723,7 @@
                          "category":  "Ulusal HD",
                          "id":  "STAR TV HD .G",
                          "name":  "STAR TV HD .G",
-                         "p":  "",
+                         "p":  "3",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F219297129315c074c03f8e"
                      },
@@ -729,7 +732,7 @@
                          "category":  "Ulusal HD",
                          "id":  "SHOW TV HD .G",
                          "name":  "SHOW TV HD .G",
-                         "p":  "",
+                         "p":  "5",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F8795889605c7795ac9528"
                      },
@@ -738,7 +741,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV8 HD .G",
                          "name":  "TV8 HD .G",
-                         "p":  "",
+                         "p":  "7",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F329802627004ee30bd6aa0"
                      },
@@ -747,7 +750,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV 8.5 HD .G",
                          "name":  "TV 8.5 HD .G",
-                         "p":  "",
+                         "p":  "8",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F19082658164debc10cdc44"
                      },
@@ -774,7 +777,7 @@
                          "category":  "Ulusal HD",
                          "id":  "TV 8 INT .G",
                          "name":  "TV 8 INT .G",
-                         "p":  "",
+                         "p":  "9",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1376775989e84fdc9d4aa"
                      },
@@ -1367,6 +1370,7 @@
                          "country":  "Turkey",
                          "category":  "Ulusal Hevc",
                          "id":  "KANAL D HEVC .G",
+                         "epg_id": "KanalD.tr",
                          "name":  "KANAL D HEVC G",
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
@@ -1497,7 +1501,24 @@
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
                          "url":  "https://gunestv.oktay2617.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F241220593740c7258ef669"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "TytTürk",
+                         "name":  "TYT TÜRK",
+                         "p":  "",
+                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
+                         "url":  "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
+                     },
+                         {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "CNBC-e",
+                         "name":  "CNBC-e",
+                         "p":  "",
+                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
+                         "url":  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
                      }
-
   ]
 }
