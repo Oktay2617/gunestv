@@ -10,14 +10,5 @@
     "name": "UzunMuhalefet",
     "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u",
     "description": "Ulusal kanalları içeren genel izleyici listesidir. UzunMuhalefet tarafından yapılmıştır. Kendisine teşekkürler"
-  },
-    {
-    "kaynak": "xtream",
-    "name": "Goldvod",
-    "url": "https://goldvod.site/",
-    "username": "hpgdisco",
-    "password": "123456",
-    "userAgent": "IPTVSmartersPlayer",
-    "description": "Ulusal kanalları, Spor ve Bir çok ülke kanalını içeren izleyici listesidir. hpgdisco tarafından yapılmıştır. Kendisine teşekkürler"
   }
 ]
