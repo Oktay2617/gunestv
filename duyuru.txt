@@ -1,1 +1,1 @@
-Tr Ulusal listesine 12 haber kanalı, 6 belgesel kanalı,45 çocuk içeriği, 11 yeşilçam kanalı ve ulusal kannlarında HD ve Hevc kaliteli yayınları eklenmiştir. kanal isimleri sonunda .G bulunan kanalların açılış süresi biraz uzun olabilir. Açılmama durumu yaşamanız halinde ayarlardan Güvenli DNS yi aktif edebilirsiniz.
+4.6 güncellemesini google play storeden yapabilirsiniz. PErformans artışı ve açılmayan kanallar için güncelleme yapılmıştır.
