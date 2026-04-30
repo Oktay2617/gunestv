@@ -1,1 +1,1 @@
-4.6 güncellemesini google play storeden yapabilirsiniz. PErformans artışı ve açılmayan kanallar için güncelleme yapılmıştır.
+Yeni guncelleme yayinlanmistir. Bir onceki guncellemede media player son sürüme çıkarılmışti ancak sürüm hataliymis, mecburen surum düşürmek zorunda kaldik. Yeni guncelleme sirasinda hata alrisaniz var ilan uygulamayi kaldirip yenisini tekrar yuklemeniz gerekebilir. Bu rahatsızlik için özür dileriz.
