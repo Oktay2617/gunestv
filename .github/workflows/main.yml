@@ -56,7 +56,7 @@ jobs:
 
       - name: Update channels_turkey.json
         run: |
-          python scripts/switch_worker_domain.py \
+          python switch_worker_domain.py \
             --file channels_turkey.json \
             --from-url "${{ steps.config.outputs.from_url }}" \
             --to-url "${{ steps.config.outputs.to_url }}"
