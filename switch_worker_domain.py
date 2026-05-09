@@ -6,20 +6,39 @@ from pathlib import Path
 
 def update_domain(file_path: Path, source_url: str, target_url: str) -> int:
     text = file_path.read_text(encoding="utf-8")
+    original_text = text
 
-    if source_url not in text:
-        if target_url in text:
-            print(f"No change needed. {target_url} is already present in {file_path}.")
-            return 0
-
-        print(f"No change made. {source_url} was not found in {file_path}.")
+    # 1. Normal replacement
+    if source_url in text:
+        count = text.count(source_url)
+        text = text.replace(source_url, target_url)
+        print(f"✅ Updated {count} occurrence(s): {source_url} → {target_url}")
+    
+    # 2. Zaten hedef URL varsa değişiklik yapma
+    elif target_url in text:
+        print(f"ℹ️  No change needed. Already using target URL: {target_url}")
+        return 0
+    
+    # 3. Hiçbiri yoksa uyarı ver
+    else:
+        print(f"⚠️  WARNING: Neither source nor target URL found in {file_path}")
+        print(f"   Looking for: {source_url}")
+        print(f"   Target was : {target_url}")
+        # Debug için mevcut domainleri göster
+        if "oktay2617" in text:
+            print("\nFound oktay2617 domains in file:")
+            for line in text.splitlines():
+                if "oktay2617" in line:
+                    print("   ", line.strip()[:120])
         return 0
 
-    count = text.count(source_url)
-    updated_text = text.replace(source_url, target_url)
-    file_path.write_text(updated_text, encoding="utf-8")
-    print(f"Updated {count} occurrence(s) in {file_path}.")
-    return count
+    # Değişiklik varsa kaydet
+    if text != original_text:
+        file_path.write_text(text, encoding="utf-8")
+        print(f"💾 File saved: {file_path}")
+        return text.count(target_url)
+    
+    return 0
 
 
 def main() -> int:
