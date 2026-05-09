@@ -45,13 +45,13 @@ jobs:
           fi
 
           if [[ "$MODE" == "morning" ]]; then
-            echo "from_url=https://vuvuu.oktay2617-61b.workers.dev/" >> "$GITHUB_OUTPUT"
-            echo "to_url=https://gunestv.oktay2617.workers.dev/" >> "$GITHUB_OUTPUT"
-            echo "commit_message=chore: switch channels_turkey to gunestv domain" >> "$GITHUB_OUTPUT"
+            echo "from_url=https://123456.oktay2617-61b.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "to_url=https://gunestv2.oktay2617.workers.dev/" >> "$GITHUB_OUTPUT"
+            echo "commit_message=chore: switch channels_turkey to gunestv2 domain (morning)" >> "$GITHUB_OUTPUT"
           else
             echo "from_url=https://gunestv2.oktay2617.workers.dev/" >> "$GITHUB_OUTPUT"
             echo "to_url=https://123456.oktay2617-61b.workers.dev/" >> "$GITHUB_OUTPUT"
-            echo "commit_message=chore: switch channels_turkey back to vuvuu domain" >> "$GITHUB_OUTPUT"
+            echo "commit_message=chore: switch channels_turkey to 123456 domain (evening)" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Update channels_turkey.json
