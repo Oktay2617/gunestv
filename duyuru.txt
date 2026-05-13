@@ -1,1 +1,1 @@
-Yeni guncelleme yayinlanmistir. Bir onceki guncellemede media player son sürüme çıkarılmışti ancak sürüm hataliymis, mecburen surum düşürmek zorunda kaldik. Yeni guncelleme sirasinda hata alrisaniz var ilan uygulamayi kaldirip yenisini tekrar yuklemeniz gerekebilir. Bu rahatsızlik için özür dileriz.
+DiziFilm Saati içeriğini kullanan kullanıcılarımız, kaynakta yaşanan sorun nedeniyle listeyi kaldırıp yeniden eklemeniz gerekmektedir. 23 bin küsürlü içerik ile seyirlerinize hazırdır.
