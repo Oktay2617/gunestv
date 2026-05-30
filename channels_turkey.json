@@ -1575,6 +1575,69 @@
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
                          "url":  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Yeşilçam-C 1",
+                         "name":  "Yeşilçam-C 1",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Yeşilçam-C 2",
+                         "name":  "Yeşilçam-C 2",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50168/seg-25410189-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Yeşilçam-C 3",
+                         "name":  "Yeşilçam-C 3",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Kemal Sunal-C 1",
+                         "name":  "Kemal Sunal-C 1",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Kemal Sunal-C 2",
+                         "name":  "Kemal Sunal-C 2",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50432/seg-25549469-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Kemal Sunal-C 3",
+                         "name":  "Kemal Sunal-C 3",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8"
+                     },
+                     {
+                         "country":  "Turkey",
+                         "category":  "Yeşilçam",
+                         "id":  "Şener Şen-C 1",
+                         "name":  "Şener Şen-C 1",
+                         "p":  "",
+                         "logo":  "",
+                         "url":  "https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8"
                      }
   ]
 }
