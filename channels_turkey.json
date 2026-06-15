@@ -469,7 +469,7 @@
       "name": "NOW TV",
       "p": 5,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-      "url": "http://62.182.82.238/sunshine/fTTDiu4S4AP64y_dU2GnQtX3zfxiS1E11bfzaYGPX27W6CdlH9yaLMkUAmlNCi2YNa7FGQuvhiion73qNVOhyIjdhOP9k1mCT4dSrDg82w6onETTbJADK5q73sVoEzDY2VLIqePLkGnXUSmv0DPFk-KiC-_yJUVlJ44m8gdxRB9Jb3-UBye388qRLEtaqUR4Br0krFYAJfHezq5-0BCctt-95jisi_b2C9YXR1Mlh9c/hls/index.m3u8"
+     "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1498459094c86300dd688c"
     },
     {
       "country": "Turkey",
@@ -503,7 +503,7 @@
       "id": "KralPop",
       "name": "Kral Pop",
       "logo": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",
-      "url": "http://117.55.203.86:8008/sunshine/0vwPIj1SItXF8BVLwM5Mx6Rn9as2HFWW3LCqAA5tDFfjf9BFFZBGPMBjUqpnn2JLBzx5BGzgOjhsneAF9KM82bYvLlpZzYF_r_XtYhhxq2MKfK6vWD6AYY5Dq5MDtuQykC9TrfGrY4j9BazIZiwaQ1P00vKAUdr7dFZAnUJQAjBNTzpJTB9PKIjCRBMFbG8_PCxOdsmRxj_2sK2hNRRlVBAJJQrS2ZUPKMvxkihiVLk/hls/index.m3u8"
+     "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F401243274930b2f0a2040b"
     },
     {
       "country": "Turkey",
@@ -767,7 +767,7 @@
                          "name":  "NOW HD .G",
                          "p":  "4",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-                         "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2578197593a87a0ba68631"
+                         "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1498459094c86300dd688c"
                      },
                      {
                          "country":  "Turkey",
@@ -1375,15 +1375,6 @@
                      {
                          "country":  "Turkey",
                          "category":  "Yeşilçam",
-                         "id":  "TURKASAT KEMAL SUNAL .G",
-                         "name":  "TURKASAT KEMAL SUNAL .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3672931378fa31e194ae4"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
                          "id":  "FIX CINEMA YERLI .G",
                          "name":  "FIX CINEMA YERLI .G",
                          "p":  "",
@@ -1446,7 +1437,7 @@
                          "name":  "NOW TV HEVC .G",
                          "p":  "",
                          "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-                         "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2907081311ea1629502e0f"
+                         "url":  "https://123456.oktay2617-61b.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1498459094c86300dd688c"
                      },
                      {
                          "country":  "Turkey",
