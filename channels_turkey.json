@@ -16,7 +16,7 @@
       "category": "Ulusal",
       "id": "ATV.tr",
       "epg_id": "ATV.tr",
-      "name": "ATV",
+      "name": "ATV .G",
       "p": 2,
       "referer": "https://api.hitnova.net/",
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
@@ -464,18 +464,18 @@
     {
       "country": "Turkey",
       "category": "Ulusal",
-      "id": "NOW TV",
+      "id": "NOW TV .G",
       "epg_id": "NOWTV.tr",
-      "name": "NOW TV",
+      "name": "NOW TV .G",
       "p": 5,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-     "url":  "https://vavoo.to/vavoo-iptv/play/1498459094c86300dd688c"
+     "url":  "https://vavoo.to/vavoo-iptv/play/31051840561fc5d2fb58a5"
     },
     {
       "country": "Turkey",
       "category": "Haber",
       "id": "SözcüTvM3U8",
-      "name": "Sözcü TV",
+      "name": "Sözcü TV .G",
       "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
       "url":  "https://vavoo.to/vavoo-iptv/play/24669057008c1d07812ce0"
     },
@@ -501,7 +501,7 @@
       "country": "Turkey",
       "category": "Müzik",
       "id": "KralPop",
-      "name": "Kral Pop",
+      "name": "Kral Pop .G",
       "logo": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",
      "url":  "https://vavoo.to/vavoo-iptv/play/401243274930b2f0a2040b"
     },
@@ -1384,8 +1384,8 @@
                      {
                          "country":  "Turkey",
                          "category":  "Yeşilçam",
-                         "id":  "GLOBAL BOX YERLI .b",
-                         "name":  "GLOBAL BOX YERLI .b",
+                         "id":  "GLOBAL BOX YERLI .G",
+                         "name":  "GLOBAL BOX YERLI .G",
                          "p":  "",
                          "logo":  "",
                          "url":  "https://vavoo.to/vavoo-iptv/play/23222622101ba7812517d7"
