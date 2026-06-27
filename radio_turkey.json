@@ -593,5 +593,14 @@
 	"p": 117,
 	"logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/Fm_Logo/radyogol.png",
 	"url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol"
+},
+	{	
+	"country":"Radio",
+	"id": "Türkü Radyo",
+	"category": "T",
+	"name": "Türkü Radyo",
+	"p": 118,
+	"logo": "",
+	"url": "https://eu8.fastcast4u.com/proxy/ugur4129/stream"
 }
   ]
