@@ -1,1 +1,1 @@
-Canlı Tv kısmında sonunda G olan kanallar teknik bir sorun nedeniyle acilmamaktadir. En kisa surede çözümü sağlanacaktir. Anlayışınız için teşekkürler.
+Önemli.....Canlı Tv kısmında sonunda G olan kanallar sadece güvenli dns açık olursa çalışacaktır. Ayarlar kısmından Güvenli dns yi açık tutmayı unutmayalım.
