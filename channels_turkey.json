@@ -18,7 +18,6 @@
       "epg_id": "ATV.tr",
       "name": "ATV .G",
       "p": 2,
-      "referer": "https://api.hitnova.net/",
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
       "url":  "https://vavoo.to/vavoo-iptv/play/1332310706d6138ade7950"
     },
