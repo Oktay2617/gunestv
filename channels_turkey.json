@@ -1628,6 +1628,15 @@
                          "p":  "",
                          "logo":  "",
                          "url":  "https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8"
+                     },
+                         {
+                         "country":  "Turkey",
+                         "category":  "Haber",
+                         "id":  "Koza Tv",
+                         "name":  "Koza Tv",
+                         "p":  "",
+                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/koza.png",
+                         "url":  "http://45.88.139.156/yt1/koza.m3u8"
                      }
   ]
 }
