@@ -9,12 +9,12 @@
       "name": "KANAL D",
       "p": 1,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
-      "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3"
-        "urls": [
+      "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+      "urls": [
         "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196712&extension=ts",
         "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196712&extension=ts",
-        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196696&extension=ts/",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196696&extension=ts",
         "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196712&extension=ts"
       ]
     },
