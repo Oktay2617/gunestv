@@ -12,13 +12,18 @@
       "url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
       "urls": [
         "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
-        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196712&extension=ts",
-        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196712&extension=ts",
         "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196696&extension=ts",
-        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196712&extension=ts"
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196696&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196696&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196696&extension=ts"
       ]
     },
-     {
+    {
       "country": "Turkey",
       "category": "Ulusal",
       "id": "ATV.tr",
@@ -26,17 +31,41 @@
       "name": "ATV",
       "p": 2,
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-      "url":  "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8"
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+      "urls": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196698&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196698&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196698&extension=ts"
+      ]
     },
     {
-      "country": "Turkey", 
+      "country": "Turkey",
       "category": "Ulusal",
       "id": "StarTV.tr",
       "epg_id": "StarTV.tr",
       "name": "STAR TV ",
       "p": 3,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
-      "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3"
+      "url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
+      "urls": [
+        "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7982pzka0gvp&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196695&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196695&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196695&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196695&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -46,7 +75,19 @@
       "name": "SHOW TV",
       "p": 4,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
-      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc"
+      "url": "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc",
+      "urls": [
+        "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=90d4e38e1888b30ed3df939c73aeb5bc",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196697&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196697&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196697&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196697&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -56,7 +97,19 @@
       "name": "TV8",
       "p": 6,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
-      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+      "url": "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+      "urls": [
+        "https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=79924vxc2fp5&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196693&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196693&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196693&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196693&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -66,7 +119,19 @@
       "name": "TV8.5",
       "p": 7,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
-      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3"
+      "url": "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
+      "urls": [
+        "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?&sid=79928ef2mqp9&app=bf58ab52-4865-4c81-b223-26b41009801e&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196692&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196692&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196692&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196692&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -76,7 +141,16 @@
       "name": "HALK TV ",
       "p": 8,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/halk-tv.png",
-      "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3"
+      "url": "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+      "urls": [
+        "https://halktv.daioncdn.net/halktv/halktv_1080p.m3u8?sid=798fhlczp48c&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197274&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197274&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197274&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197274&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197274&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197274&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -86,7 +160,19 @@
       "name": "TRT 2 ",
       "p": 10,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-2.png",
-      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8"
+      "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+      "urls": [
+        "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196688&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196688&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196688&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196688&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -96,7 +182,19 @@
       "name": "TRT 1 ",
       "p": 9,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
-      "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web"
+      "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+      "urls": [
+        "https://trt.daioncdn.net/trt-1/master.m3u8?app=web",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196699&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196699&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196699&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196699&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -125,7 +223,19 @@
       "name": "TRT HABER ",
       "p": 12,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-haber-tr.png",
-      "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8"
+      "url": "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+      "urls": [
+        "https://tv-trthaber.medya.trt.com.tr/master_720.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197262&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197262&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197262&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197262&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -135,7 +245,16 @@
       "name": "TRT SPOR ",
       "p": 13,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-tr.png",
-      "url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2"
+      "url": "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2",
+      "urls": [
+        "https://trt.daioncdn.net/trtspor/master_1080p.m3u8?&sid=7990pkt0m3yd&app=71ff325a-50b6-48f4-8a67-3daa89386c24&ce=2",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=709&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -145,7 +264,16 @@
       "name": "TRT SPOR YILDIZ ",
       "p": 14,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-spor-yildiz-tr.png",
-      "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2"
+      "url": "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2",
+      "urls": [
+        "https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7i9gjvz1c1wm&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=18644&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=18644&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=18644&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=18644&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=18644&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=18644&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -165,7 +293,16 @@
       "name": "TRT TÜRK ",
       "p": 16,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-turk-tr.png",
-      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8"
+      "url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
+      "urls": [
+        "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197240&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197240&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197240&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197240&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197240&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197240&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -185,7 +322,16 @@
       "name": "A SPOR  ",
       "p": 18,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/aspor.png",
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8"
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+      "urls": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=710&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -195,7 +341,16 @@
       "name": "TV 100.G",
       "p": 20,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
-      "url": "https://kool.to/kool-iptv/play/16852994727259ba10c029"
+      "url": "https://kool.to/kool-iptv/play/16852994727259ba10c029",
+      "urls": [
+        "https://kool.to/kool-iptv/play/16852994727259ba10c029",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197273&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -250,7 +405,19 @@
       "name": "360 TV",
       "p": 26,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
-      "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8"
+      "url": "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
+      "urls": [
+        "https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196686&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196686&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196686&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196686&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -269,7 +436,16 @@
       "name": "DREAM TÜRK",
       "p": 29,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/dream-turk.png",
-      "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953"
+      "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953",
+      "urls": [
+        "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8?&live=true&app=com.dreamturk&st=m4J4nn4hb1Gz-SFnhF7u4w&e=1742491953",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=724290&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=724290&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=724290&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=724290&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=724290&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=724290&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -288,7 +464,19 @@
       "name": "HABERTÜRK",
       "p": 31,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haberturk-tr.png",
-      "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3"
+      "url": "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+      "urls": [
+        "https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=798fdlc3d64d&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197264&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197264&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197264&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197264&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -298,7 +486,19 @@
       "name": "KANAL 7",
       "p": 32,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
-      "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3"
+      "url": "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+      "urls": [
+        "https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8?&sid=798fsk97cfv5&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196690&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196690&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196690&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196690&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -307,7 +507,19 @@
       "name": "MAVİ KARADENİZ",
       "p": 33,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/mavi-karadeniz-tr.png",
-      "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8"
+      "url": "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+      "urls": [
+        "https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197183&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197183&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197183&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197183&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -317,7 +529,19 @@
       "name": "NTV",
       "p": 34,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ntv-tr.png",
-      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694"
+      "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694",
+      "urls": [
+        "https://dogus.daioncdn.net/ntv/ntv.m3u8?app=7c4bb802-0c41-409e-8cd2-799984995694",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197266&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197266&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197266&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197266&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -418,7 +642,19 @@
       "name": "A2 TV",
       "p": 48,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
-      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8"
+      "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+      "urls": [
+        "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196687&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196687&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196687&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196687&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -428,7 +664,19 @@
       "name": "TEVE 2",
       "p": 49,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
-      "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+      "url": "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
+      "urls": [
+        "https://demiroren.daioncdn.net/teve2/teve2_1080p.m3u8?&sid=79g13gdxxsc7&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196689&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196689&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196689&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196689&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -446,7 +694,16 @@
       "name": "TJK TV",
       "p": 94,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tjk-tv-tr.png",
-      "url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8"
+      "url": "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8",
+      "urls": [
+        "https://tjktv-live.tjk.org/tjktv/tjktv_1080p.m3u8",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=18648&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=18648&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=18648&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=18648&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=18648&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=18648&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -465,7 +722,16 @@
       "name": "HT SPOR",
       "p": 94,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/HT%20Spor.png",
-      "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8"
+      "url": "https://ciner-live.ercdn.net/htspor/htspor.m3u8",
+      "urls": [
+        "https://ciner-live.ercdn.net/htspor/htspor.m3u8",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=1245942&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=1245942&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=1245942&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=1245942&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=1245942&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=1245942&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -475,7 +741,19 @@
       "name": "NOW TV",
       "p": 5,
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-     "url":  "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8"
+      "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+      "urls": [
+        "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196694&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196694&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196694&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -483,7 +761,16 @@
       "id": "SözcüTvM3U8",
       "name": "Sözcü TV .G",
       "logo": "https://yt3.googleusercontent.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ=s900-c-k-c0x00ffffff-no-rj",
-      "url":  "http://45.88.139.156/yt1/szctv.m3u8"
+      "url": "http://45.88.139.156/yt1/szctv.m3u8",
+      "urls": [
+        "http://45.88.139.156/yt1/szctv.m3u8",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=540949&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=540949&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=540949&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=540949&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=540949&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=540949&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -492,7 +779,19 @@
       "epg_id": "ATV.tr",
       "name": "Atv Yedek",
       "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-      "url": "https://www.atv.com.tr/canli-yayin"
+      "url": "https://www.atv.com.tr/canli-yayin",
+      "urls": [
+        "https://www.atv.com.tr/canli-yayin",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196698&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196698&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196698&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196698&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -501,7 +800,19 @@
       "epg_id": "NOWTV.tr",
       "name": "NOW TV Yedek",
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-      "url": "https://www.nowtv.com.tr/canli-yayin"
+      "url": "https://www.nowtv.com.tr/canli-yayin",
+      "urls": [
+        "https://www.nowtv.com.tr/canli-yayin",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196694&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196694&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196694&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196694&extension=ts"
+      ]
     },
     {
       "country": "Turkey",
@@ -509,7 +820,7 @@
       "id": "KralPop",
       "name": "Kral Pop .G",
       "logo": "https://www.kralmuzik.com.tr/app/themes/kral/assets/images/kralmuzik_logo.png",
-     "url":  "https://vavoo.to/vavoo-iptv/play/401243274930b2f0a2040b"
+      "url": "https://vavoo.to/vavoo-iptv/play/401243274930b2f0a2040b"
     },
     {
       "country": "Turkey",
@@ -519,7 +830,7 @@
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/denge_zelal.png",
       "url": "https://dengetv.ozelip.com:3143/live/dengelive.m3u8"
     },
-     {
+    {
       "country": "Turkey",
       "category": "Ulusal",
       "id": "TrtGenç",
@@ -527,1123 +838,1717 @@
       "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-genc.0b68abf.png",
       "url": "https://tv-trtgenc.medya.trt.com.tr/master.m3u8"
     },
-{
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "CNN TURK HD .G",
-                         "epg_id": "CNNTÜRK.tr",
-                         "name":  "CNN TURK HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnn-turk.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/427315396743dfe9212c50"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "A HABER HD .G",
-                         "epg_id": "AHaber.tr",
-                         "name":  "A HABER HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ahaber.png",
-                        "url":  "https://vavoo.to/vavoo-iptv/play/1064954896a21f89fb6b5c"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "FLASH HABER TV .G",
-                         "epg_id": "FlashHaberTV.tr",
-                         "name":  "FLASH HABER TV .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/lashhabertv.png",
-                        "url":  "https://vavoo.to/vavoo-iptv/play/3806979011e0d72cfb10fc"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "HABER GLOBAL .G",
-                         "epg_id": "HABERGLOBAL.tr",
-                         "name":  "HABER GLOBAL .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haber-global-tr.png",
-                         "url":  "https://kool.to/kool-iptv/play/40697740688fd0b8c6b747"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TELE 1 .G",
-                         "epg_id": "TELE1.tr",
-                         "name":  "TELE 1 .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tele1-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/135762464349d3676ea069"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "24 .G",
-                         "epg_id": "KANAL24.tr",
-                         "name":  "24 .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/24.png",
-                         "url":  "https://kool.to/kool-iptv/play/4179564147cef11bb1db33"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TGRT HABER HD .G",
-                         "epg_id": "TGRTHaber.tr",
-                         "name":  "TGRT HABER HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tgrt-haber-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/28143924587b833f07f3fe"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TV 100",
-                         "epg_id": "TV100.tr",
-                         "name":  "TV 100.G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
-                         "url":  "https://kool.to/kool-iptv/play/16852994727259ba10c029"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "ULUSAL KANAL .G",
-                         "epg_id": "ULUSALTV.tr",
-                         "name":  "ULUSAL KANAL .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulusal.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1910048817671d14cfb4cd"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "BLOOMBERG HT HD .G",
-                         "epg_id": "BloombergHT.tr",
-                         "name":  "BLOOMBERG HT HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bloomberg-ht-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "EKOTURK .G",
-                         "name":  "EKOTURK .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ekoturk-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/12014567934c0bd95e7df8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "KRT TV HD .G",
-                         "epg_id": "KRTTV.tr",
-                         "name":  "KRT TV HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/krt-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/535260022435d62839cf5"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "BENGUTURK .G",
-                         "epg_id": "BengütürkTV.tr",
-                         "name":  "BENGUTURK .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bengu-turk-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3677880546b91991c857cd"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "ULKETV HD .G",
-                         "epg_id": "UlkeTV.tr",
-                         "name":  "ULKETV HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/32033343438cc3c5fe5041"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "A PARA RAW .G",
-                         "epg_id": "APara.tr",
-                         "name":  "A PARA RAW .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-para-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4202445834678957f05238"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TVNET HD .G",
-                         "epg_id": "TVNET.tr",
-                         "name":  "TVNET HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Tvnet.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/11824807968f3783ce706f"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "A NEWS HD .G",
-                         "epg_id": "ANews.tr",
-                         "name":  "A NEWS HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-news-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/387890889759c06a2c4da1"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TV5 .G",
-                         "name":  "TV5 .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv5.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/935671761c36c5491c3ed"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "LIDER HABER .G",
-                         "epg_id": "LIDERHABERTV.tr",
-                         "name":  "LIDER HABER .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/lider-haber.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/70369886837bb68700663"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Spor",
-                         "id":  "BEIN SPORTS HABER HD .G",
-                         "epg_id": "LIDERHABERTV.tr",
-                         "name":  "BEIN SPORTS HABER HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bein-sports-haber-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Spor",
-                         "id":  "FB TV .G",
-                         "epg_id": "FBTV.tr",
-                         "name":  "FB TV .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/enerbahce-tv-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/25123405584d863ac39980"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TRT 1 HD .G",
-                         "epg_id": "TRT1.tr",
-                         "name":  "TRT 1 HD .G",
-                         "p":  "6",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "KanalD_2.tr",
-                         "epg_id": "KanalD.tr",
-                         "name":  "KANAL D HD .G",
-                         "p":  "1",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/16776796840463f6dcff41"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "ATV HD .G",
-                         "epg_id": "ATV.tr",
-                         "name":  "ATV HD .G",
-                         "p":  "2",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2325261286cc81b01cf95d"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "NOW HD .G",
-                         "epg_id": "NOWTV.tr",
-                         "name":  "NOW HD .G",
-                         "p":  "4",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/161305206673e7c4b7739"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "STAR TV HD .G",
-                         "epg_id": "StarTV.tr",
-                         "name":  "STAR TV HD .G",
-                         "p":  "3",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/219297129315c074c03f8e"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "SHOW TV HD .G",
-                         "epg_id": "ShowTV.tr",
-                         "name":  "SHOW TV HD .G",
-                         "p":  "5",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/8795889605c7795ac9528"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TV8 HD .G",
-                         "epg_id": "TV8.tr",
-                         "name":  "TV8 HD .G",
-                         "p":  "7",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/329802627004ee30bd6aa0"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TV 8.5 HD .G",
-                         "epg_id": "TV8,5.tr",
-                         "name":  "TV 8.5 HD .G",
-                         "p":  "8",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "BEYAZ TV HD .G",
-                         "epg_id": "BEYAZTV.tr",
-                         "name":  "BEYAZ TV HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2755756005a4ea6e7589ca"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TEVE 2 FHD .G",
-                         "epg_id": "Teve2.tr",
-                         "name":  "TEVE 2 FHD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/42295295583463c26f2597"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TV 8 INT .G",
-                         "name":  "TV 8 INT .G",
-                         "p":  "9",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8-int-tr.png",
-                         "url":  "https://kool.to/kool-iptv/play/3546432682c60db460810f"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "A2 HD .G",
-                         "epg_id": "A2.tr",
-                         "name":  "A2 HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/867875861079562f15007"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "DMAX HD .G",
-                         "epg_id": "DMAX.tr",
-                         "name":  "DMAX HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1595495667292319e147ce"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal HD",
-                         "id":  "TLC TV .G",
-                         "epg_id": "TLC.tr",
-                         "name":  "TLC TV .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
-                         "url":  "https://kool.to/kool-iptv/play/17668406603d2e9e4942ac"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Belgesel",
-                         "id":  "KÖY TV .G",
-                         "name":  "KÖY TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/870320507489feac51e9a"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Belgesel",
-                         "id":  "YABAN TV HD .G",
-                         "name":  "YABAN TV HD .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/yaban-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/178850393550c13d869fbf"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Belgesel",
-                         "id":  "CIFTCI TV .G",
-                         "name":  "CIFTCI TV .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ciftci-tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3124431103898180a5f0f6"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Belgesel",
-                         "id":  "AGRO TV .G",
-                         "name":  "AGRO TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/163358782054d9002fa0b0"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Belgesel",
-                         "id":  "HABITAT .G",
-                         "name":  "HABITAT .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1281270568d7cb2533f147"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "AKILLI TAVSAN MOMO .G",
-                         "name":  "AKILLI TAVSAN MOMO .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4093001640e8d2942477e2"
-                     },A
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "ANGRY BIRDS .G",
-                         "name":  "ANGRY BIRDS .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/40635964179eb6e60f85f9"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "BOOBA TV .G",
-                         "name":  "BOOBA TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2703864948c3ea529a2063"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "BULMACA KULESI .G",
-                         "name":  "BULMACA KULESI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/910953672551cfa880ee0"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "CAILLOU .G",
-                         "name":  "CAILLOU .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4136709820104f9b927f66"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "CANIM KARDESIM TV .G",
-                         "name":  "CANIM KARDESIM TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/37370371587d37e629c448"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "CBEEBIES HD .G",
-                         "name":  "CBEEBIES HD .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/28643002461fc171ebe61a"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "CHICKY TV .G",
-                         "name":  "CHICKY TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/940839479e2753e3433f5"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "CILGIN ORMAN TV .G",
-                         "name":  "CILGIN ORMAN TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3892774129e556db3be974"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "EGE ILE GAGA .G",
-                         "name":  "EGE ILE GAGA .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/36508969020f6d070f25ea"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "ELIF VE ARKADASLARI .G",
-                         "name":  "ELIF VE ARKADASLARI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3515455741a6f5d78304a1"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "ELIFIN DUSLERI .G",
-                         "name":  "ELIFIN DUSLERI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/24063236237528e0650313"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "ELIFIN RUYASI .G",
-                         "name":  "ELIFIN RUYASI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/399108163294dea6002810"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "GIZEMLER DIYARI .G",
-                         "name":  "GIZEMLER DIYARI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/137618031334f1d315d6c4"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "HEIDI .G",
-                         "name":  "HEIDI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/283434169125bc54938165"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "ITFAYECI SAM .G",
-                         "name":  "ITFAYECI SAM .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/9380153280c48b3769351"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "KELOGLAN TV .G",
-                         "name":  "KELOGLAN TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4644476933bb028f5c20f"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "KOSTEBEKGILLER TV .G",
-                         "name":  "KOSTEBEKGILLER TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/277878129786cfb72a8e2e"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "KUKILI TV .G",
-                         "name":  "KUKILI TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/28052256344d5af5b5d64c"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "LEYLEK KARDES .G",
-                         "name":  "LEYLEK KARDES .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/528021399004e91a38c73"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "LIMON ZEYTIN .G",
-                         "name":  "LIMON ZEYTIN .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4190426847132e27b0c524"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "MASA KOCAAYI .G",
-                         "name":  "MASA KOCAAYI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3836687525da0a2ef9dd66"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "MASAL .G",
-                         "name":  "MASAL .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/408975653674b39bcbabbf"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "MASAL TV .G",
-                         "name":  "MASAL TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/517032049b283af7f868b"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "MIMOCAN TV .G",
-                         "name":  "MIMOCAN TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2175768896e5f35d5d7b27"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "Dinamik Çocuk .G",
-                         "name":  "Dinamik Çocuk .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2140655971f1ad35201549"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "NASREDDIN HOCA .G",
-                         "name":  "NASREDDIN HOCA .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2930757080c4b0b0917745"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "NILOYA HD .G",
-                         "name":  "NILOYA HD .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/692811579f95ab595b603"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "NILOYA SL .G",
-                         "name":  "NILOYA SL .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3491525845a8862ff934e0"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "OSCAR COLLERDE .G",
-                         "name":  "OSCAR COLLERDE .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2879086761a7691b067170"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PAK PIRPIR TV .G",
-                         "name":  "PAK PIRPIR TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/42208430696fbda8155f99"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PEPE TV .G",
-                         "name":  "PEPE TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/16242993968d7df0501c35"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PAW PETROL .G",
-                         "name":  "PAW PETROL .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1801427716cdcb87ac5fef"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PIJAMA MASKELILER TV .G",
-                         "name":  "PIJAMA MASKELILER TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/10250618615799907394b"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PIRIL TV .G",
-                         "name":  "PIRIL TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/16567203849c653dfcba8b"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "PISI TV .G",
-                         "name":  "PISI TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/349052544410354f05ef9"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "POKEMON HD .G",
-                         "name":  "POKEMON HD .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/11691035975409e65ccbdf"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "RUYA TRENI .G",
-                         "name":  "RUYA TRENI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/28980136277243b68661a6"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "SEKER HOCA .G",
-                         "name":  "SEKER HOCA .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/133120184802af54b3162c"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "SERCE KUS TV .G",
-                         "name":  "SERCE KUS TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2244768338fefc6006bad"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "SEVIMLI DOSTLAR .G",
-                         "name":  "SEVIMLI DOSTLAR .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/264293546325ff235dc88f"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "SONIC BOOM .G",
-                         "name":  "SONIC BOOM .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/6664660641f7f8de14ebd"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "SÜNGER BOB .G",
-                         "name":  "SÜNGER BOB .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/386858202535408958c42e"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "TAYO TV .G",
-                         "name":  "TAYO TV .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/38337041757a6e69cbe733"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Çocuk",
-                         "id":  "TOM ve JERRY .G",
-                         "name":  "TOM ve JERRY .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/410018565922373c7100a2"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "DINAMIK YESILCAM .G",
-                         "name":  "DINAMIK YESILCAM .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/10475251689d5a1f09d886"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "FIX CINEMA YESILCAM .G",
-                         "name":  "FIX CINEMA YESILCAM .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/411086166261597686dd33"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "YESILCAM 1 .G",
-                         "name":  "YESILCAM 1 .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/15843353838096cf65cb7d"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "YESILCAM 2 .G",
-                         "name":  "YESILCAM 2 .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/8685860582340e8bd0469"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "YESILCAM 3 .G",
-                         "name":  "YESILCAM 3 .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/245742586a1ae349871a9"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "GLOBAL BOX KEMAL SUNAL .G",
-                         "name":  "GLOBAL BOX KEMAL SUNAL .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/4275446197442fb43a2e5e"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "FIX CINEMA YERLI .G",
-                         "name":  "FIX CINEMA YERLI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/239201347a28a02eb2603"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "GLOBAL BOX YERLI .G",
-                         "name":  "GLOBAL BOX YERLI .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/23222622101ba7812517d7"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "GLOBAL BOX Yeşilçam .G",
-                         "name":  "GLOBAL BOX Yeşilçam .G",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2046943434abdeefd99cc9"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "KANAL D HEVC .G",
-                         "epg_id": "KanalD.tr",
-                         "name":  "KANAL D HEVC G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/41138222975f1bf462585f"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "ATV HEVC .G",
-                         "epg_id": "ATV.tr",
-                         "name":  "ATV HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/35111504916c34560a3894"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "STAR TV HEVC .G",
-                         "epg_id": "StarTV.tr",
-                         "name":  "STAR TV HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1386325794720c26c4132"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "NOW TV HEVC .G",
-                         "epg_id": "NOWTV.tr",
-                         "name":  "NOW TV HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2578197593a87a0ba68631"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "SHOW TV HEVC .G",
-                         "epg_id": "ShowTV.tr",
-                         "name":  "SHOW TV HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/144949986573359afbfeae"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "TRT 1 HEVC .G",
-                         "epg_id": "TRT1.tr",
-                         "name":  "TRT 1 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/2346924541149e465206c7"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "TV8 HEVC .G",
-                         "epg_id": "TV8.tr",
-                         "name":  "TV8 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1662562034e8a914e62dce"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "TEVE 2 HEVC .G",
-                         "epg_id": "Teve2.tr",
-                         "name":  "TEVE 2 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/1333128393a9d21f4d5773"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "KANAL 7 HEVC .G",
-                         "epg_id": "KANAL7.tr",
-                         "name":  "KANAL 7 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3897412802d4338ee87b0a"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "KANAL 360 HEVC .G",
-                         "epg_id": "360.tr",
-                         "name":  "KANAL 360 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/335705245336ec860488ed"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "DMAX HEVC .G",
-                         "epg_id": "DMAX.tr",
-                         "name":  "DMAX HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/3928493138c10993284095"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "BEYAZ TV HEVC .G",
-                         "epg_id": "BEYAZTV.tr",
-                         "name":  "BEYAZ TV HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/15107839012fa9f66fac00"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "A2 HEVC .G",
-                         "epg_id": "A2.tr",
-                         "name":  "A2 HEVC .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/128957614556bfb7e20bde"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "360 RAW .G",
-                         "epg_id": "360.tr",
-                         "name":  "360 RAW .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/17026451919e48523c30db"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Ulusal Hevc",
-                         "id":  "TV8,5 RAW .G",
-                         "epg_id": "TV8,5.tr",
-                         "name":  "TV8,5 RAW .G",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
-                         "url":  "https://vavoo.to/vavoo-iptv/play/241220593740c7258ef669"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "TytTürk",
-                         "name":  "TYT TÜRK",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
-                         "url":  "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
-                     },
-                         {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "CNBC-e",
-                         "name":  "CNBC-e",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
-                         "url":  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Yeşilçam-C 1",
-                         "name":  "Yeşilçam-C 1",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Yeşilçam-C 2",
-                         "name":  "Yeşilçam-C 2",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50168/seg-25410189-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Yeşilçam-C 3",
-                         "name":  "Yeşilçam-C 3",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Kemal Sunal-C 1",
-                         "name":  "Kemal Sunal-C 1",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Kemal Sunal-C 2",
-                         "name":  "Kemal Sunal-C 2",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50432/seg-25549469-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Kemal Sunal-C 3",
-                         "name":  "Kemal Sunal-C 3",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8"
-                     },
-                     {
-                         "country":  "Turkey",
-                         "category":  "Yeşilçam",
-                         "id":  "Şener Şen-C 1",
-                         "name":  "Şener Şen-C 1",
-                         "p":  "",
-                         "logo":  "",
-                         "url":  "https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8"
-                     },
-                         {
-                         "country":  "Turkey",
-                         "category":  "Haber",
-                         "id":  "Koza Tv",
-                         "name":  "Koza Tv",
-                         "p":  "",
-                         "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/koza.png",
-                         "url":  "http://45.88.139.156/yt1/koza.m3u8"
-                     }
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "CNN TURK HD .G",
+      "epg_id": "CNNTÜRK.tr",
+      "name": "CNN TURK HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnn-turk.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/427315396743dfe9212c50",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/427315396743dfe9212c50",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197287&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197287&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197287&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197287&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197287&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197287&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "A HABER HD .G",
+      "epg_id": "AHaber.tr",
+      "name": "A HABER HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ahaber.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1064954896a21f89fb6b5c",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1064954896a21f89fb6b5c",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197288&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197288&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197288&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197288&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197288&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197288&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "FLASH HABER TV .G",
+      "epg_id": "FlashHaberTV.tr",
+      "name": "FLASH HABER TV .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/lashhabertv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3806979011e0d72cfb10fc",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/3806979011e0d72cfb10fc",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197265&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197265&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197265&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197265&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197265&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197265&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "HABER GLOBAL .G",
+      "epg_id": "HABERGLOBAL.tr",
+      "name": "HABER GLOBAL .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/haber-global-tr.png",
+      "url": "https://kool.to/kool-iptv/play/40697740688fd0b8c6b747",
+      "urls": [
+        "https://kool.to/kool-iptv/play/40697740688fd0b8c6b747",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197268&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197268&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197268&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197268&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197268&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197268&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TELE 1 .G",
+      "epg_id": "TELE1.tr",
+      "name": "TELE 1 .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tele1-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/135762464349d3676ea069",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/135762464349d3676ea069",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197275&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197275&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197275&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197275&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197275&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197275&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "24 .G",
+      "epg_id": "KANAL24.tr",
+      "name": "24 .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/24.png",
+      "url": "https://kool.to/kool-iptv/play/4179564147cef11bb1db33",
+      "urls": [
+        "https://kool.to/kool-iptv/play/4179564147cef11bb1db33",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197270&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197270&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197270&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197270&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197270&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197270&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TGRT HABER HD .G",
+      "epg_id": "TGRTHaber.tr",
+      "name": "TGRT HABER HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tgrt-haber-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/28143924587b833f07f3fe",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/28143924587b833f07f3fe",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197284&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197284&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197284&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197284&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197284&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197284&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TV 100",
+      "epg_id": "TV100.tr",
+      "name": "TV 100.G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv-100-tr.png",
+      "url": "https://kool.to/kool-iptv/play/16852994727259ba10c029",
+      "urls": [
+        "https://kool.to/kool-iptv/play/16852994727259ba10c029",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197273&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197273&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "ULUSAL KANAL .G",
+      "epg_id": "ULUSALTV.tr",
+      "name": "ULUSAL KANAL .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulusal.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1910048817671d14cfb4cd",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1910048817671d14cfb4cd",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197178&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197178&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197178&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197178&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "BLOOMBERG HT HD .G",
+      "epg_id": "BloombergHT.tr",
+      "name": "BLOOMBERG HT HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bloomberg-ht-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/236989031b5bce3e87ca9",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197295&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197295&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197295&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197295&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197295&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197295&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "EKOTURK .G",
+      "name": "EKOTURK .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ekoturk-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/12014567934c0bd95e7df8",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/12014567934c0bd95e7df8",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197215&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197215&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197215&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197215&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "KRT TV HD .G",
+      "epg_id": "KRTTV.tr",
+      "name": "KRT TV HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/krt-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/535260022435d62839cf5",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/535260022435d62839cf5",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197303&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197303&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197303&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197303&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197303&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197303&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "BENGUTURK .G",
+      "epg_id": "BengütürkTV.tr",
+      "name": "BENGUTURK .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bengu-turk-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3677880546b91991c857cd",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/3677880546b91991c857cd",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197227&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197227&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197227&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197227&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "ULKETV HD .G",
+      "epg_id": "UlkeTV.tr",
+      "name": "ULKETV HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ulke-tv-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/32033343438cc3c5fe5041",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/32033343438cc3c5fe5041",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197289&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197289&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197289&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197289&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197289&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197289&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "A PARA RAW .G",
+      "epg_id": "APara.tr",
+      "name": "A PARA RAW .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-para-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/4202445834678957f05238",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/4202445834678957f05238",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197238&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197238&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197238&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197238&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197238&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197238&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TVNET HD .G",
+      "epg_id": "TVNET.tr",
+      "name": "TVNET HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/Tvnet.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/11824807968f3783ce706f"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "A NEWS HD .G",
+      "epg_id": "ANews.tr",
+      "name": "A NEWS HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a-news-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/387890889759c06a2c4da1",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/387890889759c06a2c4da1",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197297&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197297&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197297&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197297&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197297&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197297&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TV5 .G",
+      "name": "TV5 .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv5.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/935671761c36c5491c3ed"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "LIDER HABER .G",
+      "epg_id": "LIDERHABERTV.tr",
+      "name": "LIDER HABER .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/lider-haber.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/70369886837bb68700663"
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "BEIN SPORTS HABER HD .G",
+      "epg_id": "LIDERHABERTV.tr",
+      "name": "BEIN SPORTS HABER HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/bein-sports-haber-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/3989995533d0efea1c8696",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=745&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=745&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=745&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=988865&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=988865&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=988865&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=988866&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=988866&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=745&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=988865&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=988866&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=988866&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Spor",
+      "id": "FB TV .G",
+      "epg_id": "FBTV.tr",
+      "name": "FB TV .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/enerbahce-tv-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/25123405584d863ac39980"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TRT 1 HD .G",
+      "epg_id": "TRT1.tr",
+      "name": "TRT 1 HD .G",
+      "p": "6",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1762199258e25181300f62",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196715&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196715&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196715&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196715&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "KanalD_2.tr",
+      "epg_id": "KanalD.tr",
+      "name": "KANAL D HD .G",
+      "p": "1",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/16776796840463f6dcff41",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/16776796840463f6dcff41",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196712&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196712&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196712&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196712&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "ATV HD .G",
+      "epg_id": "ATV.tr",
+      "name": "ATV HD .G",
+      "p": "2",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/2325261286cc81b01cf95d",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/2325261286cc81b01cf95d",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196714&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196714&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196714&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196714&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "NOW HD .G",
+      "epg_id": "NOWTV.tr",
+      "name": "NOW HD .G",
+      "p": "4",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/161305206673e7c4b7739",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/161305206673e7c4b7739",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196710&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196710&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196710&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196710&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "STAR TV HD .G",
+      "epg_id": "StarTV.tr",
+      "name": "STAR TV HD .G",
+      "p": "3",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/219297129315c074c03f8e",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/219297129315c074c03f8e",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196711&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196711&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196711&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196711&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "SHOW TV HD .G",
+      "epg_id": "ShowTV.tr",
+      "name": "SHOW TV HD .G",
+      "p": "5",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/8795889605c7795ac9528",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/8795889605c7795ac9528",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196713&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196713&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196713&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196713&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TV8 HD .G",
+      "epg_id": "TV8.tr",
+      "name": "TV8 HD .G",
+      "p": "7",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/329802627004ee30bd6aa0",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/329802627004ee30bd6aa0",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196709&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196709&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196709&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196709&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TV 8.5 HD .G",
+      "epg_id": "TV8,5.tr",
+      "name": "TV 8.5 HD .G",
+      "p": "8",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/19082658164debc10cdc44",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196708&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196708&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196708&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196708&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "BEYAZ TV HD .G",
+      "epg_id": "BEYAZTV.tr",
+      "name": "BEYAZ TV HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/2755756005a4ea6e7589ca",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/2755756005a4ea6e7589ca",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196707&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196707&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196707&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196707&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TEVE 2 FHD .G",
+      "epg_id": "Teve2.tr",
+      "name": "TEVE 2 FHD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/42295295583463c26f2597",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/42295295583463c26f2597",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196705&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196705&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196705&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196705&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TV 8 INT .G",
+      "name": "TV 8 INT .G",
+      "p": "9",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8-int-tr.png",
+      "url": "https://kool.to/kool-iptv/play/3546432682c60db460810f",
+      "urls": [
+        "https://kool.to/kool-iptv/play/3546432682c60db460810f",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196662&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196662&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196662&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196662&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "A2 HD .G",
+      "epg_id": "A2.tr",
+      "name": "A2 HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/867875861079562f15007",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/867875861079562f15007",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196703&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196703&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196703&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196703&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "DMAX HD .G",
+      "epg_id": "DMAX.tr",
+      "name": "DMAX HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1595495667292319e147ce",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1595495667292319e147ce",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197428&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197428&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197428&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197428&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal HD",
+      "id": "TLC TV .G",
+      "epg_id": "TLC.tr",
+      "name": "TLC TV .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/TLC.png",
+      "url": "https://kool.to/kool-iptv/play/17668406603d2e9e4942ac",
+      "urls": [
+        "https://kool.to/kool-iptv/play/17668406603d2e9e4942ac",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197429&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197429&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197429&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197429&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "KÖY TV .G",
+      "name": "KÖY TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/870320507489feac51e9a",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/870320507489feac51e9a",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197193&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197193&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197193&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197193&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "YABAN TV HD .G",
+      "name": "YABAN TV HD .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/yaban-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/178850393550c13d869fbf",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/178850393550c13d869fbf",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197439&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197439&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197439&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197439&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "CIFTCI TV .G",
+      "name": "CIFTCI TV .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/ciftci-tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3124431103898180a5f0f6"
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "AGRO TV .G",
+      "name": "AGRO TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/163358782054d9002fa0b0"
+    },
+    {
+      "country": "Turkey",
+      "category": "Belgesel",
+      "id": "HABITAT .G",
+      "name": "HABITAT .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/1281270568d7cb2533f147"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "AKILLI TAVSAN MOMO .G",
+      "name": "AKILLI TAVSAN MOMO .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/4093001640e8d2942477e2"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "ANGRY BIRDS .G",
+      "name": "ANGRY BIRDS .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/40635964179eb6e60f85f9"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "BOOBA TV .G",
+      "name": "BOOBA TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2703864948c3ea529a2063"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "BULMACA KULESI .G",
+      "name": "BULMACA KULESI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/910953672551cfa880ee0"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "CAILLOU .G",
+      "name": "CAILLOU .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/4136709820104f9b927f66"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "CANIM KARDESIM TV .G",
+      "name": "CANIM KARDESIM TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/37370371587d37e629c448"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "CBEEBIES HD .G",
+      "name": "CBEEBIES HD .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/28643002461fc171ebe61a",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/28643002461fc171ebe61a",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197366&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197366&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197366&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197366&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "CHICKY TV .G",
+      "name": "CHICKY TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/940839479e2753e3433f5"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "CILGIN ORMAN TV .G",
+      "name": "CILGIN ORMAN TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/3892774129e556db3be974"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "EGE ILE GAGA .G",
+      "name": "EGE ILE GAGA .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/36508969020f6d070f25ea"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "ELIF VE ARKADASLARI .G",
+      "name": "ELIF VE ARKADASLARI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/3515455741a6f5d78304a1"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "ELIFIN DUSLERI .G",
+      "name": "ELIFIN DUSLERI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/24063236237528e0650313"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "ELIFIN RUYASI .G",
+      "name": "ELIFIN RUYASI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/399108163294dea6002810"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "GIZEMLER DIYARI .G",
+      "name": "GIZEMLER DIYARI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/137618031334f1d315d6c4"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "HEIDI .G",
+      "name": "HEIDI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/283434169125bc54938165"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "ITFAYECI SAM .G",
+      "name": "ITFAYECI SAM .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/9380153280c48b3769351"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "KELOGLAN TV .G",
+      "name": "KELOGLAN TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/4644476933bb028f5c20f"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "KOSTEBEKGILLER TV .G",
+      "name": "KOSTEBEKGILLER TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/277878129786cfb72a8e2e"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "KUKILI TV .G",
+      "name": "KUKILI TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/28052256344d5af5b5d64c"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "LEYLEK KARDES .G",
+      "name": "LEYLEK KARDES .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/528021399004e91a38c73"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "LIMON ZEYTIN .G",
+      "name": "LIMON ZEYTIN .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/4190426847132e27b0c524"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "MASA KOCAAYI .G",
+      "name": "MASA KOCAAYI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/3836687525da0a2ef9dd66"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "MASAL .G",
+      "name": "MASAL .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/408975653674b39bcbabbf"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "MASAL TV .G",
+      "name": "MASAL TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/517032049b283af7f868b"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "MIMOCAN TV .G",
+      "name": "MIMOCAN TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2175768896e5f35d5d7b27"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "Dinamik Çocuk .G",
+      "name": "Dinamik Çocuk .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2140655971f1ad35201549"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "NASREDDIN HOCA .G",
+      "name": "NASREDDIN HOCA .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2930757080c4b0b0917745"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "NILOYA HD .G",
+      "name": "NILOYA HD .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/692811579f95ab595b603",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/692811579f95ab595b603",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197396&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197396&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=197396&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=197396&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "NILOYA SL .G",
+      "name": "NILOYA SL .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/3491525845a8862ff934e0"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "OSCAR COLLERDE .G",
+      "name": "OSCAR COLLERDE .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2879086761a7691b067170"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PAK PIRPIR TV .G",
+      "name": "PAK PIRPIR TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/42208430696fbda8155f99"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PEPE TV .G",
+      "name": "PEPE TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/16242993968d7df0501c35"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PAW PETROL .G",
+      "name": "PAW PETROL .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/1801427716cdcb87ac5fef"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PIJAMA MASKELILER TV .G",
+      "name": "PIJAMA MASKELILER TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/10250618615799907394b"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PIRIL TV .G",
+      "name": "PIRIL TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/16567203849c653dfcba8b"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "PISI TV .G",
+      "name": "PISI TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/349052544410354f05ef9"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "POKEMON HD .G",
+      "name": "POKEMON HD .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/11691035975409e65ccbdf"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "RUYA TRENI .G",
+      "name": "RUYA TRENI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/28980136277243b68661a6"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "SEKER HOCA .G",
+      "name": "SEKER HOCA .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/133120184802af54b3162c"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "SERCE KUS TV .G",
+      "name": "SERCE KUS TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2244768338fefc6006bad"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "SEVIMLI DOSTLAR .G",
+      "name": "SEVIMLI DOSTLAR .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/264293546325ff235dc88f"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "SONIC BOOM .G",
+      "name": "SONIC BOOM .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/6664660641f7f8de14ebd"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "SÜNGER BOB .G",
+      "name": "SÜNGER BOB .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/386858202535408958c42e"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "TAYO TV .G",
+      "name": "TAYO TV .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/38337041757a6e69cbe733"
+    },
+    {
+      "country": "Turkey",
+      "category": "Çocuk",
+      "id": "TOM ve JERRY .G",
+      "name": "TOM ve JERRY .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/410018565922373c7100a2"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "DINAMIK YESILCAM .G",
+      "name": "DINAMIK YESILCAM .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/10475251689d5a1f09d886"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "FIX CINEMA YESILCAM .G",
+      "name": "FIX CINEMA YESILCAM .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/411086166261597686dd33"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "YESILCAM 1 .G",
+      "name": "YESILCAM 1 .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/15843353838096cf65cb7d",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/15843353838096cf65cb7d",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=1472657&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=1472657&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=1472657&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=1472657&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=1472657&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=1472657&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "YESILCAM 2 .G",
+      "name": "YESILCAM 2 .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/8685860582340e8bd0469",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/8685860582340e8bd0469",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=1472658&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=1472658&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=1472658&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=1472658&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=1472658&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=1472658&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "YESILCAM 3 .G",
+      "name": "YESILCAM 3 .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/245742586a1ae349871a9",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/245742586a1ae349871a9",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=1472659&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=1472659&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=1472659&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=1472659&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=1472659&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=1472659&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "GLOBAL BOX KEMAL SUNAL .G",
+      "name": "GLOBAL BOX KEMAL SUNAL .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/4275446197442fb43a2e5e"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "FIX CINEMA YERLI .G",
+      "name": "FIX CINEMA YERLI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/239201347a28a02eb2603"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "GLOBAL BOX YERLI .G",
+      "name": "GLOBAL BOX YERLI .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/23222622101ba7812517d7"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "GLOBAL BOX Yeşilçam .G",
+      "name": "GLOBAL BOX Yeşilçam .G",
+      "p": "",
+      "logo": "",
+      "url": "https://vavoo.to/vavoo-iptv/play/2046943434abdeefd99cc9"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "KANAL D HEVC .G",
+      "epg_id": "KanalD.tr",
+      "name": "KANAL D HEVC G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-d.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/41138222975f1bf462585f",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/41138222975f1bf462585f",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196680&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196680&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196680&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196680&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "ATV HEVC .G",
+      "epg_id": "ATV.tr",
+      "name": "ATV HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/tv-logos/main/countries/turkey/atv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/35111504916c34560a3894",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/35111504916c34560a3894",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196682&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196682&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196682&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196682&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "STAR TV HEVC .G",
+      "epg_id": "StarTV.tr",
+      "name": "STAR TV HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/star%20tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1386325794720c26c4132",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1386325794720c26c4132",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196679&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196679&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196679&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196679&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "NOW TV HEVC .G",
+      "epg_id": "NOWTV.tr",
+      "name": "NOW TV HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/now-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/2578197593a87a0ba68631",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/2578197593a87a0ba68631",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196678&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196678&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196678&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196678&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "SHOW TV HEVC .G",
+      "epg_id": "ShowTV.tr",
+      "name": "SHOW TV HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/show%20tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/144949986573359afbfeae",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/144949986573359afbfeae",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196681&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196681&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196681&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196681&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "TRT 1 HEVC .G",
+      "epg_id": "TRT1.tr",
+      "name": "TRT 1 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/trt-1.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/2346924541149e465206c7",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/2346924541149e465206c7",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196683&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196683&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196683&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196683&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "TV8 HEVC .G",
+      "epg_id": "TV8.tr",
+      "name": "TV8 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv8.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1662562034e8a914e62dce",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1662562034e8a914e62dce",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196677&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196677&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196677&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196677&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "TEVE 2 HEVC .G",
+      "epg_id": "Teve2.tr",
+      "name": "TEVE 2 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/teve-2-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/1333128393a9d21f4d5773",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/1333128393a9d21f4d5773",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196673&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196673&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196673&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196673&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "KANAL 7 HEVC .G",
+      "epg_id": "KANAL7.tr",
+      "name": "KANAL 7 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/kanal-7-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3897412802d4338ee87b0a",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/3897412802d4338ee87b0a",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196674&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196674&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196674&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196674&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "KANAL 360 HEVC .G",
+      "epg_id": "360.tr",
+      "name": "KANAL 360 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/335705245336ec860488ed",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/335705245336ec860488ed",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196670&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196670&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196670&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "DMAX HEVC .G",
+      "epg_id": "DMAX.tr",
+      "name": "DMAX HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/DMAX.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/3928493138c10993284095"
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "BEYAZ TV HEVC .G",
+      "epg_id": "BEYAZTV.tr",
+      "name": "BEYAZ TV HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/beyaz-tv.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/15107839012fa9f66fac00",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/15107839012fa9f66fac00",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196691&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196691&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196691&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196691&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "A2 HEVC .G",
+      "epg_id": "A2.tr",
+      "name": "A2 HEVC .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/a2.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/128957614556bfb7e20bde",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/128957614556bfb7e20bde",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196671&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196671&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196671&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196671&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "360 RAW .G",
+      "epg_id": "360.tr",
+      "name": "360 RAW .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/360.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/17026451919e48523c30db",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/17026451919e48523c30db",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196670&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196670&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196670&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196670&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Ulusal Hevc",
+      "id": "TV8,5 RAW .G",
+      "epg_id": "TV8,5.tr",
+      "name": "TV8,5 RAW .G",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tv85-tr.png",
+      "url": "https://vavoo.to/vavoo-iptv/play/241220593740c7258ef669",
+      "urls": [
+        "https://vavoo.to/vavoo-iptv/play/241220593740c7258ef669",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=196676&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=196676&extension=ts",
+        "http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1F:8F:0C&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:26:60:48&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:36:E1:55&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:1E:1B:01&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:18:15:1D&stream=196676&extension=ts",
+        "http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:B8:1F:28&stream=196676&extension=ts"
+      ]
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "TytTürk",
+      "name": "TYT TÜRK",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/tyt-logo.png",
+      "url": "https://tytturk-live.ercdn.net/tytturk/tytturk.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "CNBC-e",
+      "name": "CNBC-e",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/cnbc.png",
+      "url": "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Yeşilçam-C 1",
+      "name": "Yeşilçam-C 1",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Yeşilçam-C 2",
+      "name": "Yeşilçam-C 2",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50168/seg-25410189-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Yeşilçam-C 3",
+      "name": "Yeşilçam-C 3",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50471/seg-25565614-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Kemal Sunal-C 1",
+      "name": "Kemal Sunal-C 1",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50433/seg-25528538-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Kemal Sunal-C 2",
+      "name": "Kemal Sunal-C 2",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50432/seg-25549469-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Kemal Sunal-C 3",
+      "name": "Kemal Sunal-C 3",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50563/seg-25665470-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Yeşilçam",
+      "id": "Şener Şen-C 1",
+      "name": "Şener Şen-C 1",
+      "p": "",
+      "logo": "",
+      "url": "https://v2.catcast.tv/content/50564/seg-25665421-v1-a1/index.m3u8"
+    },
+    {
+      "country": "Turkey",
+      "category": "Haber",
+      "id": "Koza Tv",
+      "name": "Koza Tv",
+      "p": "",
+      "logo": "https://raw.githubusercontent.com/Oktay2617/gunestv/main/tv_logo/koza.png",
+      "url": "http://45.88.139.156/yt1/koza.m3u8"
+    }
   ]
 }
