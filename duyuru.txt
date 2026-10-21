@@ -1,1 +1,1 @@
-Önemli.....Canlı Tv kısmında sonunda G olan kanallar sadece güvenli dns açık olursa çalışacaktır. Ayarlar kısmından Güvenli dns yi açık tutmayı unutmayalım.
+Kanallar yenileniyor...her kanalin 5 alternatif kaynağı olacak şekilde ve Açılışta 5 kaynaktan çalışanın otomatik açılacağı sistem ile geliyor...Guncellemeyi bekleyelim
