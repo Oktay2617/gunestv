@@ -1,1 +1,1 @@
-Kanallar yenileniyor...her kanalin 5 alternatif kaynağı olacak şekilde ve Açılışta 5 kaynaktan çalışanın otomatik açılacağı sistem ile geliyor...Guncellemeyi bekleyelim
+....Uyari....GeceHub un gitlab adresi saldırı altinda olduğu için GeceHub ile gelen kanal listeleri açılamamaktadir. Kısa sürede düzelmesini bekliyoruz.
