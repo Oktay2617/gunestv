@@ -1,1 +1,25 @@
-Yeni guncellememiz google playe gönderildi, onaylanır onaylanmaz guncelleme hakkında bilgi çıkıyor olacağız.
+Güneş Dns güncellendi...
+
+Merhaba arkadaşlar,
+
+
+Son zamanlarda özellikle Turkcell Superonline ve Türk Telekom kullanıcılarımızdan gelen geri bildirimlerde; TürkNet ve Vodafone'da sorunsuz açılan bazı platformların (özellikle Vavoo ve benzeri servislerin) diğer operatörlerde açılmadığı veya zaman aşımına uğradığı belirtiliyordu.
+
+
+Bu sorunun kaynağını detaylıca inceledik ve altyapımızı baştan aşağı güçlendirdik. 
+
+
+Neler Değişti?
+
+
+- İlk Paketten İtibaren Koruma: Eskiden uygulama önce normal bağlanmayı deniyor, operatör engellerse yeniden deniyordu. Bu bekleme süresinde oynatıcılar zaman aşımı veriyordu. Artık daha ilk saniyeden itibaren bağlantılar operatörün DPI (paket inceleme) sistemlerini atlatacak şekilde korunuyor.
+
+- Mikro Gecikmeli Paket Bölme: Operatörlerin paketleri birleştirip alan adını yakalamasını engellemek için paket iletim aralarına milisaniyelik mikro gecikmeler eklendi.
+
+- QUIC / HTTP-3 Akış Kilidi Çözüldü: Video akışlarında donmaya yol açan UDP takılmaları düzeltildi; tüm trafik güvenli TCP tünelimize yönlendirildi.
+
+
+Güncellemeyi (v 1.0.19)  Play Store üzerinden yükleyip özellikle daha önce sorun yaşadığınız bağlantılarda test edebilir misiniz? Deneyimlerinizi ve geri bildirimlerinizi bu başlık altından paylaşırsanız çok sevinirim!
+
+
+İyi kullanımlar dilerim.
