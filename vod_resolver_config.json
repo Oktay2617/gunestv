@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "last_updated": "2026-11-15",
+  "dizipal": {
+    "aes_key": "3hPn4uCjTVtfYWcjIcoJQ4cL1WWk1qxXI39egLYOmNv6IblA7eKJz68uU3eLzux1biZLCms0quEjTYniGv5z1JcKbNIsDQFSeIZOBZJz4is6pD7UyWDggWWzTLBQbHcQFpBQdClnuQaMNUHtLHTpzCvZy33p6I7wFBvL4fnXBYH84aUIyWGTRvM2G5cfoNf4705tO2kv",
+    "pbkdf2_iterations": 999,
+    "enc_regex": "\\?[\"']?enc\\?[\"']?\\s*[:=]\\s*(\\{[^}]*?\\?[\"']ciphertext\\?[\"'][^}]+?\\})",
+    "data_rm_k_regex": "data-rm-k[^>]*>([^<]+)</div>",
+    "open_player_regex": "openPlayer\\s*\\(\\s*[\"']([A-Za-z0-9+/=_-]{20,})[\"']",
+    "domain_seed": 1595
+  },
+  "rapidvid": {
+    "p8_shift_key": "K9L",
+    "p8_regex": "(?:window\\.)?_p8\\s*=\\s*['\"]([^'\"]+)['\"]",
+    "scx_regex": "\"t\"\\s*:\\s*\\[\\s*\"([^\"]{16,})"
+  },
+  "pilavyer": {
+    "data_pv_regex": "data-pv\\s*=\\s*[\"']([^\"']+)[\"']",
+    "script_src_regex": "<script[^>]+src\\s*=\\s*[\"']([^\"']*(?:assets/js/core\\.js|assets/js/s\\.php|e/c\\.js)[^\"']*)[\"']",
+    "player_json_regex": "window\\.__PLAYER__\\s*=\\s*(\\{.+?\\});"
+  },
+  "domain_seeds": {
+    "dizipal.com": 1595
+  },
+  "browser_rules": {
+    "extra_ad_skip_selectors": [
+      ".dplayer-ad-skip",
+      ".video-ad-skip",
+      "#custom_preroll_skip",
+      "[class*='ad-skip' i]",
+      "[class*='skip-ad' i]",
+      "[id*='ad-skip' i]",
+      "[id*='skip-ad' i]",
+      "[class*='reklam-gec' i]",
+      "[id*='reklam-gec' i]"
+    ],
+    "extra_top_frame_gate_selectors": [
+      "#plx",
+      ".before-player",
+      ".play-that-video",
+      ".hdmv-play-container",
+      "#mPlayerFd",
+      ".removePlayer",
+      ".alertCenter",
+      "#custom_preroll_playbtn"
+    ],
+    "extra_blocked_hosts": [
+      "cdnhipter.xyz",
+      "grandvv",
+      "exoclick.com",
+      "juicyads.com",
+      "popads.net",
+      "popcash.net",
+      "adsterra.com",
+      "acscdn.com",
+      "monetag.com"
+    ]
+  },
+  "dynamic_sites": [
+    {
+      "id": "dynamic_sample_site",
+      "domains": ["yenifilmizle.com", "ornekdizi.org"],
+      "iframe_regex": "<iframe[^>]+src=[\"']([^\"']+(?:embed|player)[^\"']*)[\"']",
+      "stream_regex": "file\\s*:\\s*[\"']([^\"']+\\.m3u8[^\"']*)[\"']",
+      "headers": {
+        "Referer": "{page_url}"
+      }
+    }
+  ]
+}
