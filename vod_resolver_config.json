@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2026-11-15",
   "dizipal": {
     "aes_key": "3hPn4uCjTVtfYWcjIcoJQ4cL1WWk1qxXI39egLYOmNv6IblA7eKJz68uU3eLzux1biZLCms0quEjTYniGv5z1JcKbNIsDQFSeIZOBZJz4is6pD7UyWDggWWzTLBQbHcQFpBQdClnuQaMNUHtLHTpzCvZy33p6I7wFBvL4fnXBYH84aUIyWGTRvM2G5cfoNf4705tO2kv",
@@ -55,6 +55,26 @@
       "acscdn.com",
       "monetag.com"
     ]
+  },
+  "subtitle_rules": {
+    "gate_param_keys": [
+      "p",
+      "token",
+      "gate",
+      "sig",
+      "key",
+      "auth",
+      "t"
+    ],
+    "extra_subtitle_keywords": [
+      "nsub.php",
+      "sub.php",
+      "subtitle.php",
+      "captions.php",
+      "/subtitles/",
+      "/subtitle/"
+    ],
+    "referer_strategy": "origin_first"
   },
   "dynamic_sites": [
     {
