@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "last_updated": "2026-11-18",
   "dizipal": {
     "aes_key": "3hPn4uCjTVtfYWcjIcoJQ4cL1WWk1qxXI39egLYOmNv6IblA7eKJz68uU3eLzux1biZLCms0quEjTYniGv5z1JcKbNIsDQFSeIZOBZJz4is6pD7UyWDggWWzTLBQbHcQFpBQdClnuQaMNUHtLHTpzCvZy33p6I7wFBvL4fnXBYH84aUIyWGTRvM2G5cfoNf4705tO2kv",
@@ -10,9 +10,10 @@
     "domain_seed": 1595,
     "dplayer_native_enabled": true,
     "np_gate_salt_regex": "String\\.fromCharCode\\(([\\d,\\s]+)\\)",
-    "np_gate_format": "{clt}|{salt}|{n}",
+    "np_gate_format": "{n}{salt}{clt}{salt}",
     "np_gate_radix": 10,
-    "np_gate_bits": 12
+    "np_gate_bits": 12,
+    "np_gate_word_index": 4
   },
   "rapidvid": {
     "p8_shift_key": "K9L",
