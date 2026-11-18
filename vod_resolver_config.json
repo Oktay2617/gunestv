@@ -1,13 +1,18 @@
 {
-  "version": 4,
-  "last_updated": "2026-11-15",
+  "version": 5,
+  "last_updated": "2026-11-18",
   "dizipal": {
     "aes_key": "3hPn4uCjTVtfYWcjIcoJQ4cL1WWk1qxXI39egLYOmNv6IblA7eKJz68uU3eLzux1biZLCms0quEjTYniGv5z1JcKbNIsDQFSeIZOBZJz4is6pD7UyWDggWWzTLBQbHcQFpBQdClnuQaMNUHtLHTpzCvZy33p6I7wFBvL4fnXBYH84aUIyWGTRvM2G5cfoNf4705tO2kv",
     "pbkdf2_iterations": 999,
     "enc_regex": "\\?[\"']?enc\\?[\"']?\\s*[:=]\\s*(\\{[^}]*?\\?[\"']ciphertext\\?[\"'][^}]+?\\})",
     "data_rm_k_regex": "data-rm-k[^>]*>([^<]+)</div>",
     "open_player_regex": "openPlayer\\s*\\(\\s*[\"']([A-Za-z0-9+/=_-]{20,})[\"']",
-    "domain_seed": 1595
+    "domain_seed": 1595,
+    "dplayer_native_enabled": true,
+    "np_gate_salt_regex": "String\\.fromCharCode\\(([\\d,\\s]+)\\)",
+    "np_gate_format": "{clt}|{salt}|{n}",
+    "np_gate_radix": 10,
+    "np_gate_bits": 12
   },
   "rapidvid": {
     "p8_shift_key": "K9L",
