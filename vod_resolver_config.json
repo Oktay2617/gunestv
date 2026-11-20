@@ -76,6 +76,9 @@
       "monetag.com",
       "gemius.pl",
       "hit.gemius.pl"
+    ],
+    "auto_activate_iframe_hosts": [
+      "closeload.filmmakinesi."
     ]
   },
   "subtitle_rules": {
