@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "last_updated": "2026-11-18",
+  "version": 7,
+  "last_updated": "2026-11-20",
   "dizipal": {
     "aes_key": "3hPn4uCjTVtfYWcjIcoJQ4cL1WWk1qxXI39egLYOmNv6IblA7eKJz68uU3eLzux1biZLCms0quEjTYniGv5z1JcKbNIsDQFSeIZOBZJz4is6pD7UyWDggWWzTLBQbHcQFpBQdClnuQaMNUHtLHTpzCvZy33p6I7wFBvL4fnXBYH84aUIyWGTRvM2G5cfoNf4705tO2kv",
     "pbkdf2_iterations": 999,
@@ -24,6 +24,19 @@
     "data_pv_regex": "data-pv\\s*=\\s*[\"']([^\"']+)[\"']",
     "script_src_regex": "<script[^>]+src\\s*=\\s*[\"']([^\"']*(?:assets/js/core\\.js|assets/js/s\\.php|e/c\\.js)[^\"']*)[\"']",
     "player_json_regex": "window\\.__PLAYER__\\s*=\\s*(\\{.+?\\});"
+  },
+  "closeload": {
+    "embed_host_keywords": [
+      "closeload.",
+      "closeload.filmmakinesi."
+    ],
+    "page_domains": [
+      "filmmakinesi."
+    ],
+    "page_iframe_regex": "(?:data-src|data-embed|data-url|src)\\s*=\\s*[\"']((?:https?:)?//[^\"']*(?:closeload|/video/embed/)[^\"']*)[\"']",
+    "dc_hello_regex": "(?:dc_hello|getSC|atob)\\s*\\(\\s*[\"']([A-Za-z0-9+/=_-]{20,})[\"']\\s*\\)",
+    "shift_mod": 3997569,
+    "shift_offset": 5
   },
   "domain_seeds": {
     "dizipal.com": 1595
